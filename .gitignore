@@ -1,0 +1,13 @@
+# Jangan diunggah ke publik
+
+# hasil OCR So-matome (materi berhak cipta — untuk belajar pribadi saja)
+db/csv-n3/
+
+# kunci & sandi (JANGAN pernah taruh service_role / sb_secret di repo)
+.env
+.env.*
+
+# gambar pratinjau hasil uji
+preview-*.png
+
+# catatan: aset/konfig.js HARUS ikut diunggah (isinya cuma publishable key)
