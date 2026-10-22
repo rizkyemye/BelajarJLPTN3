@@ -15,9 +15,9 @@ import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js
 
 const DOMAIN = 'n3master.local';
 
-/* tentukan naik berapa folder (n3/ → .. ; admin/x/ → ../..) */
-const naik = location.pathname.split('/').filter(Boolean).length - 1;
-const AKAR = naik <= 1 ? '../' : '../'.repeat(naik);
+/* AKAR = folder situs ini (../ dari ../aset/sesi.js) — aman juga kalau
+   situs tidak di akar domain (mis. USER.github.io/REPO/) */
+const AKAR = new URL('../', import.meta.url).href;
 
 async function jalankan() {
   if (!window.konfigSiap || !window.konfigSiap()) {
