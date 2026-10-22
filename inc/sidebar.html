@@ -1,0 +1,44 @@
+<aside class="sisi-kiri">
+  <a href="index.html" class="merek-kecil">日本語<small>{{LEVEL}}</small></a>
+
+  <nav>
+    <ul class="menu">
+      <li class="li-rumah"><a href="index.html" data-untuk="index.html"><span class="kanji-menu">家</span>Home</a></li>
+      <li class="li-tab"><a href="belajar.html" data-untuk="belajar.html kartu.html"><span class="kanji-menu">単</span>Kosakata</a></li>
+      <li class="li-tab"><a href="kanji-daftar.html" data-untuk="kanji-daftar.html kanji.html"><span class="kanji-menu">漢</span>Kanji</a></li>
+      <li class="li-tab"><a href="bunpou.html" data-untuk="bunpou.html"><span class="kanji-menu">文</span>Bunpou</a></li>
+      <li class="li-tab"><a href="dokkai.html" data-untuk="dokkai.html"><span class="kanji-menu">読</span>Dokkai</a></li>
+      <li class="li-tab"><a href="choukai.html" data-untuk="choukai.html"><span class="kanji-menu">聴</span>Choukai</a></li>
+      <li class="li-tab"><a href="review.html" data-untuk="review.html"><span class="kanji-menu">復</span>Review</a></li>
+    </ul>
+  </nav>
+
+  <!-- tombol tengah (HP): pilih bagian belajar. <details> = HTML asli, tanpa JS -->
+  <div class="fab-item">
+    <details class="fab">
+      <summary aria-label="Pilih bagian belajar"><span aria-hidden="true">＋</span></summary>
+      <div class="fab-panel" role="menu">
+        <a href="belajar.html" role="menuitem"><span class="kanji-menu">単</span>Kosakata</a>
+        <a href="kanji-daftar.html" role="menuitem"><span class="kanji-menu">漢</span>Kanji</a>
+        <a href="bunpou.html" role="menuitem"><span class="kanji-menu">文</span>Bunpou</a>
+        <a href="dokkai.html" role="menuitem"><span class="kanji-menu">読</span>Dokkai</a>
+        <a href="choukai.html" role="menuitem"><span class="kanji-menu">聴</span>Choukai</a>
+      </div>
+    </details>
+  </div>
+
+  <div class="akun">
+    <span class="nama" data-akun="username">…</span>
+    <span data-akun="level">{{LEVEL}}</span>
+    <button type="button" data-buka-keluar>Keluar</button>
+  </div>
+<!-- konfirmasi keluar (dialog asli HTML; dibuka sesi.js) -->
+<dialog id="dialog-keluar" class="dialog keluar-dialog">
+  <h2>Keluar dari akun?</h2>
+  <p>Progres tetap tersimpan. Kamu harus masuk lagi untuk lanjut belajar.</p>
+  <div class="dialog-aksi">
+    <button type="button" class="tbl-kosong" data-tutup-keluar>Batal</button>
+    <button type="button" class="tbl" data-akun="keluar">Keluar</button>
+  </div>
+</dialog>
+</aside>

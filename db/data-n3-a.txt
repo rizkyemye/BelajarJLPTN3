@@ -1,0 +1,134 @@
+## 2|家族・人
+家族|かぞく|keluarga|nomina|家族は四人です。|かぞくは よにんです。|Keluarga saya empat orang.
+両親|りょうしん|orang tua|nomina|両親は元気です。|りょうしんは げんきです。|Orang tua saya sehat.
+兄|あに|kakak laki-laki|nomina|兄は会社員です。|あには かいしゃいんです。|Kakak saya pegawai perusahaan.
+姉|あね|kakak perempuan|nomina|姉は看護師です。|あねは かんごしです。|Kakak saya perawat.
+弟|おとうと|adik laki-laki|nomina|弟は大学生です。|おとうとは だいがくせいです。|Adik saya mahasiswa.
+妹|いもうと|adik perempuan|nomina|妹は高校生です。|いもうとは こうこうせいです。|Adik saya siswa SMA.
+祖父|そふ|kakek|nomina|祖父は八十歳です。|そふは はちじゅっさいです。|Kakek saya delapan puluh tahun.
+祖母|そぼ|nenek|nomina|祖母は料理が上手です。|そぼは りょうりが じょうずです。|Nenek pandai memasak.
+夫|おっと|suami|nomina|夫は料理を作ります。|おっとは りょうりを つくります。|Suami saya memasak.
+妻|つま|istri|nomina|妻と旅行します。|つまと りょこうします。|Saya bepergian dengan istri.
+息子|むすこ|anak laki-laki|nomina|息子は五歳です。|むすこは ごさいです。|Anak laki-laki saya lima tahun.
+娘|むすめ|anak perempuan|nomina|娘は学校へ行きます。|むすめは がっこうへ いきます。|Anak perempuan saya pergi ke sekolah.
+親戚|しんせき|kerabat|nomina|親戚が集まりました。|しんせきが あつまりました。|Kerabat berkumpul.
+隣|となり|sebelah / tetangga|nomina|隣の家は静かです。|となりの いえは しずかです。|Rumah sebelah tenang.
+仲間|なかま|rekan / teman|nomina|仲間と一緒に働きます。|なかまと いっしょに はたらきます。|Saya bekerja bersama rekan.
+恋人|こいびと|kekasih|nomina|恋人ができました。|こいびとが できました。|Saya sekarang punya kekasih.
+彼|かれ|dia (pria)|nomina|彼はエンジニアです。|かれは エンジニアです。|Dia seorang insinyur.
+彼女|かのじょ|dia (wanita)|nomina|彼女は日本語を教えます。|かのじょは にほんごを おしえます。|Dia mengajar bahasa Jepang.
+大人|おとな|orang dewasa|nomina|大人も参加できます。|おとなも さんかできます。|Orang dewasa juga bisa ikut.
+子供|こども|anak|nomina|子供が公園で遊んでいます。|こどもが こうえんで あそんでいます。|Anak-anak bermain di taman.
+男性|だんせい|pria|nomina|男性の社員が多いです。|だんせいの しゃいんが おおいです。|Karyawan prianya banyak.
+女性|じょせい|wanita|nomina|女性の医者は増えています。|じょせいの いしゃは ふえています。|Dokter wanita bertambah.
+知り合い|しりあい|kenalan|nomina|知り合いが札幌にいます。|しりあいが さっぽろに います。|Saya punya kenalan di Sapporo.
+兄弟|きょうだい|saudara kandung|nomina|兄弟は三人います。|きょうだいは さんにん います。|Saudara saya tiga orang.
+一人暮らし|ひとりぐらし|tinggal sendiri|nomina|今は一人暮らしです。|いまは ひとりぐらしです。|Sekarang saya tinggal sendiri.
+
+## 3|体・健康
+体|からだ|tubuh|nomina|体が疲れました。|からだが つかれました。|Tubuh saya lelah.
+頭|あたま|kepala|nomina|頭が痛いです。|あたまが いたいです。|Kepala saya sakit.
+顔|かお|wajah|nomina|顔を洗います。|かおを あらいます。|Saya mencuci wajah.
+目|め|mata|nomina|目が赤いです。|めが あかいです。|Mata saya merah.
+耳|みみ|telinga|nomina|耳が痛いです。|みみが いたいです。|Telinga saya sakit.
+口|くち|mulut|nomina|口を大きく開けてください。|くちを おおきく あけてください。|Tolong buka mulut lebar-lebar.
+手|て|tangan|nomina|手を洗ってください。|てを あらってください。|Tolong cuci tangan.
+足|あし|kaki|nomina|足が長いです。|あしが ながいです。|Kakinya panjang.
+指|ゆび|jari|nomina|指を切りました。|ゆびを きりました。|Jari saya terpotong.
+背|せ|tinggi badan / punggung|nomina|背が高いですね。|せが たかいですね。|Badanmu tinggi ya.
+熱|ねつ|demam|nomina|熱があります。|ねつが あります。|Saya demam.
+風邪|かぜ|masuk angin|nomina|風邪をひきました。|かぜを ひきました。|Saya masuk angin.
+病気|びょうき|penyakit|nomina|病気で休みました。|びょうきで やすみました。|Saya libur karena sakit.
+怪我|けが|cedera|nomina|怪我をしました。|けがを しました。|Saya cedera.
+痛み|いたみ|rasa sakit|nomina|痛みが続きます。|いたみが つづきます。|Rasa sakitnya berlanjut.
+薬|くすり|obat|nomina|薬を飲みました。|くすりを のみました。|Saya sudah minum obat.
+医者|いしゃ|dokter|nomina|医者に行きます。|いしゃに いきます。|Saya pergi ke dokter.
+病院|びょういん|rumah sakit|nomina|病院は駅の前です。|びょういんは えきの まえです。|Rumah sakit di depan stasiun.
+治る|なおる|sembuh|verba|風邪が治りました。|かぜが なおりました。|Masuk anginnya sudah sembuh.
+眠い|ねむい|mengantuk|adjektiva-i|とても眠いです。|とても ねむいです。|Sangat mengantuk.
+疲れる|つかれる|lelah|verba|仕事で疲れました。|しごとで つかれました。|Lelah karena kerja.
+元気|げんき|sehat / bersemangat|adjektiva-na|元気になりました。|げんきに なりました。|Saya sudah sehat.
+健康|けんこう|kesehatan|nomina|健康が一番です。|けんこうが いちばんです。|Kesehatan itu nomor satu.
+運動|うんどう|olahraga|nomina|毎日運動しています。|まいにち うんどうしています。|Saya berolahraga tiap hari.
+睡眠|すいみん|tidur|nomina|睡眠が足りません。|すいみんが たりません。|Tidur saya kurang.
+
+## 4|食べ物・味
+味|あじ|rasa|nomina|味が濃いです。|あじが こいです。|Rasanya kuat.
+料理|りょうり|masakan|nomina|料理を作ります。|りょうりを つくります。|Saya memasak.
+食材|しょくざい|bahan makanan|nomina|食材を買いました。|しょくざいを かいました。|Saya sudah beli bahan makanan.
+肉|にく|daging|nomina|肉が好きです。|にくが すきです。|Saya suka daging.
+魚|さかな|ikan|nomina|魚を焼きます。|さかなを やきます。|Saya membakar ikan.
+野菜|やさい|sayur|nomina|野菜を食べます。|やさいを たべます。|Saya makan sayur.
+果物|くだもの|buah|nomina|果物は甘いです。|くだものは あまいです。|Buahnya manis.
+米|こめ|beras|nomina|米を研ぎます。|こめを とぎます。|Saya mencuci beras.
+卵|たまご|telur|nomina|卵を二つ使います。|たまごを ふたつ つかいます。|Saya pakai dua telur.
+塩|しお|garam|nomina|塩を少し入れます。|しおを すこし いれます。|Saya masukkan sedikit garam.
+砂糖|さとう|gula|nomina|砂糖は入れません。|さとうは いれません。|Gulanya tidak saya masukkan.
+油|あぶら|minyak|nomina|油を熱します。|あぶらを ねっします。|Saya memanaskan minyak.
+味噌|みそ|miso|nomina|味噌で味付けします。|みそで あじつけします。|Saya membumbui dengan miso.
+醤油|しょうゆ|kecap asin|nomina|醤油をかけます。|しょうゆを かけます。|Saya menuang kecap asin.
+甘い|あまい|manis|adjektiva-i|このケーキは甘いです。|この ケーキは あまいです。|Kue ini manis.
+辛い|からい|pedas|adjektiva-i|カレーが辛いです。|カレーが からいです。|Karinya pedas.
+苦い|にがい|pahit|adjektiva-i|この薬は苦いです。|この くすりは にがいです。|Obat ini pahit.
+酸っぱい|すっぱい|asam|adjektiva-i|レモンは酸っぱいです。|レモンは すっぱいです。|Lemon itu asam.
+焼く|やく|membakar / memanggang|verba|パンを焼きます。|パンを やきます。|Saya memanggang roti.
+煮る|にる|merebus|verba|野菜を煮ます。|やさいを にます。|Saya merebus sayur.
+揚げる|あげる|menggoreng|verba|天ぷらを揚げます。|てんぷらを あげます。|Saya menggoreng tempura.
+混ぜる|まぜる|mengaduk|verba|よく混ぜてください。|よく まぜてください。|Tolong aduk rata.
+食べ過ぎ|たべすぎ|makan berlebihan|nomina|食べ過ぎました。|たべすぎました。|Saya makan berlebihan.
+空腹|くうふく|lapar|nomina|空腹で倒れそうです。|くうふくで たおれそうです。|Karena lapar hampir pingsan.
+美味しい|おいしい|enak|adjektiva-i|とても美味しいです。|とても おいしいです。|Sangat enak.
+
+## 5|買い物・お金
+値段|ねだん|harga|nomina|値段が高いです。|ねだんが たかいです。|Harganya mahal.
+料金|りょうきん|tarif / biaya|nomina|料金を払います。|りょうきんを はらいます。|Saya membayar biaya.
+支払う|しはらう|membayar|verba|カードで支払います。|カードで しはらいます。|Saya membayar dengan kartu.
+現金|げんきん|uang tunai|nomina|現金しか使えません。|げんきんしか つかえません。|Hanya bisa pakai uang tunai.
+割引|わりびき|diskon|nomina|割引があります。|わりびきが あります。|Ada diskon.
+無料|むりょう|gratis|nomina|入場は無料です。|にゅうじょうは むりょうです。|Masuknya gratis.
+高い|たかい|mahal / tinggi|adjektiva-i|少し高いですね。|すこし たかいですね。|Agak mahal ya.
+安い|やすい|murah|adjektiva-i|この店は安いです。|この みせは やすいです。|Toko ini murah.
+店|みせ|toko|nomina|店は十時に開きます。|みせは じゅうじに あきます。|Tokonya buka jam sepuluh.
+商品|しょうひん|barang dagangan|nomina|商品を選びます。|しょうひんを えらびます。|Saya memilih barang.
+売る|うる|menjual|verba|ここで野菜を売ります。|ここで やさいを うります。|Di sini menjual sayur.
+買う|かう|membeli|verba|牛乳を買います。|ぎゅうにゅうを かいます。|Saya membeli susu.
+返す|かえす|mengembalikan|verba|本を返しました。|ほんを かえしました。|Saya sudah mengembalikan buku.
+交換|こうかん|menukar|nomina|サイズを交換します。|サイズを こうかんします。|Saya menukar ukurannya.
+袋|ふくろ|kantong|nomina|袋を一枚ください。|ふくろを いちまい ください。|Minta satu kantong.
+レシート|レシート|struk|nomina|レシートをもらいます。|レシートを もらいます。|Saya menerima struk.
+財布|さいふ|dompet|nomina|財布をなくしました。|さいふを なくしました。|Dompet saya hilang.
+貯金|ちょきん|tabungan|nomina|少しずつ貯金します。|すこしずつ ちょきんします。|Saya menabung sedikit-sedikit.
+給料|きゅうりょう|gaji|nomina|給料が入りました。|きゅうりょうが はいりました。|Gajinya sudah masuk.
+借りる|かりる|meminjam|verba|お金を借りました。|おかねを かりました。|Saya meminjam uang.
+貸す|かす|meminjamkan|verba|友達にお金を貸します。|ともだちに おかねを かします。|Saya meminjamkan uang ke teman.
+払う|はらう|membayar|verba|家賃を払います。|やちんを はらいます。|Saya membayar sewa.
+節約|せつやく|berhemat|nomina|電気を節約します。|でんきを せつやくします。|Saya menghemat listrik.
+お釣り|おつり|uang kembalian|nomina|お釣りは三百円です。|おつりは さんびゃくえんです。|Kembaliannya tiga ratus yen.
+売り場|うりば|bagian penjualan|nomina|売り場は三階です。|うりばは さんがいです。|Bagian penjualannya di lantai tiga.
+
+## 6|交通・道
+電車|でんしゃ|kereta listrik|nomina|電車で行きます。|でんしゃで いきます。|Saya pergi naik kereta.
+駅|えき|stasiun|nomina|駅まで歩きます。|えきまで あるきます。|Saya berjalan sampai stasiun.
+切符|きっぷ|tiket|nomina|切符を買います。|きっぷを かいます。|Saya membeli tiket.
+乗る|のる|naik (kendaraan)|verba|バスに乗ります。|バスに のります。|Saya naik bus.
+降りる|おりる|turun (kendaraan)|verba|次の駅で降ります。|つぎの えきで おります。|Saya turun di stasiun berikutnya.
+乗り換え|のりかえ|transit / ganti kendaraan|nomina|乗り換えが必要です。|のりかえが ひつようです。|Perlu transit.
+空港|くうこう|bandara|nomina|空港まで二十分です。|くうこうまで にじゅっぷんです。|Ke bandara dua puluh menit.
+飛行機|ひこうき|pesawat|nomina|飛行機は飛びました。|ひこうきは とびました。|Pesawatnya sudah terbang.
+車|くるま|mobil|nomina|車を運転します。|くるまを うんてんします。|Saya menyetir mobil.
+道|みち|jalan|nomina|この道は狭いです。|この みちは せまいです。|Jalan ini sempit.
+交差点|こうさてん|persimpangan|nomina|交差点を右へ曲がります。|こうさてんを みぎへ まがります。|Belok kanan di persimpangan.
+信号|しんごう|lampu lalu lintas|nomina|信号が赤です。|しんごうが あかです。|Lampu lalulintasnya merah.
+駐車場|ちゅうしゃじょう|tempat parkir|nomina|駐車場はありません。|ちゅうしゃじょうは ありません。|Tidak ada tempat parkir.
+渋滞|じゅうたい|macet|nomina|道が渋滞しています。|みちが じゅうたいしています。|Jalannya macet.
+歩道|ほどう|trotoar|nomina|歩道を歩きます。|ほどうを あるきます。|Saya berjalan di trotoar.
+自転車|じてんしゃ|sepeda|nomina|自転車で通勤します。|じてんしゃで つうきんします。|Saya berangkat kerja naik sepeda.
+時刻表|じこくひょう|jadwal keberangkatan|nomina|時刻表を見ます。|じこくひょうを みます。|Saya melihat jadwal.
+遅れる|おくれる|terlambat|verba|電車が遅れています。|でんしゃが おくれています。|Keretanya terlambat.
+急ぐ|いそぐ|bergegas|verba|少し急ぎましょう。|すこし いそぎましょう。|Ayo sedikit bergegas.
+向かう|むかう|menuju|verba|会社へ向かいます。|かいしゃへ むかいます。|Saya menuju kantor.
+曲がる|まがる|berbelok|verba|角を左に曲がります。|かどを ひだりに まがります。|Belok kiri di tikungan.
+渡る|わたる|menyeberang|verba|橋を渡ります。|はしを わたります。|Saya menyeberangi jembatan.
+距離|きょり|jarak|nomina|距離は五キロです。|きょりは ごキロです。|Jaraknya lima kilometer.
+往復|おうふく|pulang-pergi|nomina|往復で千円です。|おうふくで せんえんです。|Pulang-pergi seribu yen.
+運転|うんてん|menyetir|nomina|夜は運転しません。|よるは うんてんしません。|Malam saya tidak menyetir.

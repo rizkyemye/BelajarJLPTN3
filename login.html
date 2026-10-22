@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-store">
+<title>Masuk · 日本語 Belajar</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="aset/desain.css?v=cf302755">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#b7202e">
+<link rel="apple-touch-icon" href="ikon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+<body>
+<script src="aset/splash.js?v=84c0bf89"></script>
+<script src="aset/skeleton.js?v=7d41ad73"></script>
+
+<main class="masuk">
+
+  <div class="kanji" aria-hidden="true">日本語</div>
+
+  <div class="form">
+    <p class="tanda">JLPT · N5–N3</p>
+
+    <h1 id="judul">Masuk</h1>
+    <p class="ket" id="ket">Lanjutkan dari halaman terakhir yang kamu buka.</p>
+
+    <p class="pesan" id="pesan" role="alert"></p>
+
+    <form id="form" novalidate>
+
+      <div class="baris">
+        <label for="username">Nama pengguna</label>
+        <input id="username" name="username" type="text"
+               autocomplete="username" autocapitalize="none" spellcheck="false"
+               placeholder="misalnya: emye" required minlength="3" maxlength="24">
+      </div>
+
+      <div class="baris">
+        <label for="sandi">Sandi</label>
+        <input id="sandi" name="sandi" type="password"
+               autocomplete="current-password" placeholder="••••••••" required minlength="8">
+      </div>
+
+      <button type="submit" class="tbl-lebar" id="tombol">Masuk</button>
+    </form>
+
+    <p class="alt">
+      Belum punya akun? <a href="daftar.html">Daftar</a>
+    </p>
+    <p class="lupa" id="lupa">
+      Lupa sandi? Hubungi admin — sandi tidak bisa dilihat, hanya bisa direset.
+    </p>
+
+    <p class="alt" style="margin-top:26px">
+      <a href="index.html">← Kembali ke halaman depan</a>
+    </p>
+  </div>
+
+</main>
+
+<script src="aset/konfig.js?v=6620f70c"></script>
+<script type="module" src="aset/masuk.js?v=ddd68bde"></script>
+
+</body>
+</html>

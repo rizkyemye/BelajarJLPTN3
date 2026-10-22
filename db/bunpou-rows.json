@@ -1,0 +1,1163 @@
+[
+ {
+  "pola": "ながら",
+  "arti": "sambil melakukan",
+  "rumus": "V-ます（ます dihapus）＋ ながら",
+  "penjelasan": "Dua kegiatan dikerjakan oleh satu orang pada waktu yang sama. Subjeknya harus sama, dan kegiatan kedua menjadi fokus kalimat.",
+  "jp": "音楽を聞きながら勉強します。",
+  "furi": "おんがくを ききながら べんきょうします。",
+  "idn": "Saya belajar sambil mendengarkan musik."
+ },
+ {
+  "pola": "たことがある",
+  "arti": "pernah melakukan",
+  "rumus": "V-た ＋ ことがある",
+  "penjelasan": "Menceritakan pengalaman yang pernah dialami sampai sekarang. Kalau belum pernah, akhirannya menjadi たことがない.",
+  "jp": "京都へ行ったことがあります。",
+  "furi": "きょうとへ いったことが あります。",
+  "idn": "Saya pernah pergi ke Kyoto."
+ },
+ {
+  "pola": "てしまう",
+  "arti": "terlanjur / selesai sepenuhnya",
+  "rumus": "V-て ＋ しまう",
+  "penjelasan": "Menunjukkan pekerjaan selesai tuntas, atau sesuatu yang terjadi tanpa diniatkan (terlanjur). Sering bernada menyesal.",
+  "jp": "ケーキを全部食べてしまいました。",
+  "furi": "けーきを ぜんぶ たべて しまいました。",
+  "idn": "Kuenya terlanjur kumakan semua."
+ },
+ {
+  "pola": "ておく",
+  "arti": "melakukan dulu untuk persiapan",
+  "rumus": "V-て ＋ おく",
+  "penjelasan": "Melakukan sesuatu lebih dulu untuk persiapan, supaya keadaan nanti sudah siap.",
+  "jp": "会議の前に資料を準備しておきます。",
+  "furi": "かいぎの まえに しりょうを じゅんびして おきます。",
+  "idn": "Saya siapkan dokumennya dulu sebelum rapat."
+ },
+ {
+  "pola": "てみる",
+  "arti": "coba melakukan",
+  "rumus": "V-て ＋ みる",
+  "penjelasan": "Mencoba melakukan sesuatu untuk melihat hasilnya. Tidak menjamin berhasil.",
+  "jp": "この料理を食べてみてください。",
+  "furi": "この りょうりを たべて みて ください。",
+  "idn": "Coba makan masakan ini."
+ },
+ {
+  "pola": "てある",
+  "arti": "sudah dalam keadaan (hasil tindakan)",
+  "rumus": "V-て ＋ ある",
+  "penjelasan": "Keadaan sekarang adalah hasil dari tindakan seseorang sebelumnya, dan keadaan itu masih berlangsung.",
+  "jp": "窓が開けてあります。",
+  "furi": "まどが あけて あります。",
+  "idn": "Jendelanya sudah dibuka (dan tetap terbuka)."
+ },
+ {
+  "pola": "そうだ",
+  "arti": "kelihatannya (dari penglihatan)",
+  "rumus": "V-ます(basis)／A-い／A-な ＋ そうだ",
+  "penjelasan": "Dugaan berdasarkan penglihatan langsung. Bentuknya menempel pada dasar kata: おいしい→おいしそう、静か→静かそう.",
+  "jp": "この店の料理はおいしそうです。",
+  "furi": "この みせの りょうりは おいしそうです。",
+  "idn": "Masakan toko ini kelihatan enak."
+ },
+ {
+  "pola": "らしい",
+  "arti": "tampaknya / katanya",
+  "rumus": "Kata benda／bentuk biasa ＋ らしい",
+  "penjelasan": "Dugaan berdasarkan kabar atau ciri yang khas. Lebih objektif daripada みたいだ.",
+  "jp": "明日は雨らしいです。",
+  "furi": "あしたは あめ らしいです。",
+  "idn": "Katanya besok hujan."
+ },
+ {
+  "pola": "みたいだ",
+  "arti": "seperti / mirip",
+  "rumus": "Kata benda／bentuk biasa ＋ みたいだ",
+  "penjelasan": "Perbandingan atau dugaan yang santai, banyak dipakai dalam percakapan. Seperti ようだ tetapi lebih lisan.",
+  "jp": "彼は子どものみたいです。",
+  "furi": "かれは こどもの みたいです。",
+  "idn": "Dia seperti anak kecil."
+ },
+ {
+  "pola": "ようだ",
+  "arti": "sepertinya (dugaan halus)",
+  "rumus": "Bentuk biasa ＋ ようだ",
+  "penjelasan": "Dugaan halus berdasarkan bukti atau kesan. Lebih formal dan tertulis daripada みたいだ.",
+  "jp": "誰か来たようです。",
+  "furi": "だれか きた ようです。",
+  "idn": "Sepertinya ada yang datang."
+ },
+ {
+  "pola": "かもしれない",
+  "arti": "mungkin",
+  "rumus": "Bentuk biasa ＋ かもしれない",
+  "penjelasan": "Kemungkinan yang tidak pasti. Tingkat keyakinannya paling rendah di antara dugaan.",
+  "jp": "少し遅れるかもしれません。",
+  "furi": "すこし おくれる かもしれません。",
+  "idn": "Mungkin saya agak terlambat."
+ },
+ {
+  "pola": "はずだ",
+  "arti": "seharusnya / semestinya",
+  "rumus": "Bentuk biasa ＋ はずだ",
+  "penjelasan": "Kesimpulan logis: seharusnya begitu menurut alasan yang masuk akal.",
+  "jp": "彼はもう着いているはずです。",
+  "furi": "かれは もう ついている はずです。",
+  "idn": "Dia seharusnya sudah sampai."
+ },
+ {
+  "pola": "わけだ",
+  "arti": "wajar saja / berarti",
+  "rumus": "Bentuk biasa ＋ わけだ",
+  "penjelasan": "Kesimpulan wajar: memang begitu seharusnya, setelah tahu sebabnya.",
+  "jp": "エアコンが壊れた。暑いわけだ。",
+  "furi": "えあこんが こわれた。あつい わけだ。",
+  "idn": "AC-nya rusak. Wajar saja panas."
+ },
+ {
+  "pola": "わけではない",
+  "arti": "bukan berarti",
+  "rumus": "Bentuk biasa ＋ わけではない",
+  "penjelasan": "Menyangkal kesimpulan orang lain dengan halus: bukan berarti begitu.",
+  "jp": "嫌いなわけではありません。",
+  "furi": "きらいな わけでは ありません。",
+  "idn": "Bukan berarti saya tidak suka."
+ },
+ {
+  "pola": "ことにする",
+  "arti": "memutuskan (kemauan sendiri)",
+  "rumus": "V-辞書形 ＋ ことにする",
+  "penjelasan": "Keputusan diambil oleh pembicara sendiri, berdasarkan kemauan sendiri.",
+  "jp": "来月から早起きすることにしました。",
+  "furi": "らいげつから はやおきする ことに しました。",
+  "idn": "Saya memutuskan bangun pagi mulai bulan depan."
+ },
+ {
+  "pola": "ことになる",
+  "arti": "menjadi / diputuskan (oleh keadaan)",
+  "rumus": "V-辞書形 ＋ ことになる",
+  "penjelasan": "Keputusan atau hasil yang muncul dari keadaan atau pihak lain, bukan dari kemauan sendiri.",
+  "jp": "来年、大阪へ転勤することになりました。",
+  "furi": "らいねん、おおさかへ てんきんする ことに なりました。",
+  "idn": "Tahun depan saya dipindahkan ke Osaka."
+ },
+ {
+  "pola": "ようにする",
+  "arti": "berusaha agar",
+  "rumus": "V-辞書形／V-ない ＋ ようにする",
+  "penjelasan": "Berusaha agar kebiasaan atau keadaan tertentu terwujud. Fokusnya pada usaha, bukan hasil.",
+  "jp": "毎日野菜を食べるようにしています。",
+  "furi": "まいにち やさいを たべる ように しています。",
+  "idn": "Saya berusaha makan sayur setiap hari."
+ },
+ {
+  "pola": "ようになる",
+  "arti": "menjadi bisa / mulai",
+  "rumus": "V-辞書形 ＋ ようになる",
+  "penjelasan": "Perubahan kemampuan atau kebiasaan dari tidak bisa menjadi bisa.",
+  "jp": "日本語が話せるようになりました。",
+  "furi": "にほんごが はなせる ように なりました。",
+  "idn": "Saya jadi bisa berbicara bahasa Jepang."
+ },
+ {
+  "pola": "ために",
+  "arti": "untuk / demi",
+  "rumus": "V-辞書形／N＋の ＋ ために",
+  "penjelasan": "Menyatakan tujuan. Kalau subjeknya kata benda, dipakai のために.",
+  "jp": "家族のために働いています。",
+  "furi": "かぞくの ために はたらいて います。",
+  "idn": "Saya bekerja demi keluarga."
+ },
+ {
+  "pola": "ように",
+  "arti": "agar / supaya",
+  "rumus": "V-辞書形／V-ない ＋ ように",
+  "penjelasan": "Menyatakan tujuan berupa keadaan yang diharapkan. Berbeda dengan ために, kata kerjanya biasanya bentuk potensial atau negatif.",
+  "jp": "忘れないように書いてください。",
+  "furi": "わすれない ように かいて ください。",
+  "idn": "Tolong tulis supaya tidak lupa."
+ },
+ {
+  "pola": "のに",
+  "arti": "padahal",
+  "rumus": "Bentuk biasa ＋ のに",
+  "penjelasan": "Menyatakan pertentangan atau kekecewaan: padahal sudah begitu, tetapi hasilnya tidak sesuai.",
+  "jp": "一生懸命勉強したのに、不合格でした。",
+  "furi": "いっしょうけんめい べんきょうした のに、ふごうかく でした。",
+  "idn": "Padahal sudah belajar keras, tetap tidak lulus."
+ },
+ {
+  "pola": "ても",
+  "arti": "walaupun",
+  "rumus": "V-て ＋ も",
+  "penjelasan": "Menyatakan bahwa hasilnya tetap sama walaupun ada keadaan yang biasanya menghalangi.",
+  "jp": "雨が降っても行きます。",
+  "furi": "あめが ふっても いきます。",
+  "idn": "Walaupun hujan, saya tetap pergi."
+ },
+ {
+  "pola": "ば",
+  "arti": "kalau (syarat)",
+  "rumus": "V-ば形",
+  "penjelasan": "Bentuk syarat paling netral. Cocok untuk syarat umum, bukan permintaan langsung.",
+  "jp": "時間があれば、手伝います。",
+  "furi": "じかんが あれば、てつだいます。",
+  "idn": "Kalau ada waktu, saya bantu."
+ },
+ {
+  "pola": "たら",
+  "arti": "kalau / setelah",
+  "rumus": "V-たら",
+  "penjelasan": "Syarat yang menekankan urutan: setelah hal pertama terjadi, hal kedua menyusul.",
+  "jp": "家に着いたら電話してください。",
+  "furi": "いえに ついたら でんわして ください。",
+  "idn": "Kalau sudah sampai rumah, tolong telepon."
+ },
+ {
+  "pola": "なら",
+  "arti": "kalau soal",
+  "rumus": "N ＋ なら",
+  "penjelasan": "Mengambil topik yang sudah disebut lawan bicara, lalu memberi syarat atau saran tentang topik itu.",
+  "jp": "日本なら、どこへ行きたいですか。",
+  "furi": "にほんなら、どこへ いきたいですか。",
+  "idn": "Kalau soal Jepang, mau pergi ke mana?"
+ },
+ {
+  "pola": "と",
+  "arti": "kalau (pasti terjadi)",
+  "rumus": "V-辞書形 ＋ と",
+  "penjelasan": "Syarat yang hasilnya otomatis dan pasti, misalnya aturan mesin atau hukum alam.",
+  "jp": "このボタンを押すと、ドアが開きます。",
+  "furi": "この ぼたんを おすと、どあが あきます。",
+  "idn": "Kalau tombol ini ditekan, pintunya terbuka."
+ },
+ {
+  "pola": "うちに",
+  "arti": "selagi / sebelum berubah",
+  "rumus": "V-ている／A-い ＋ うちに",
+  "penjelasan": "Selagi keadaan masih seperti sekarang, lakukan sesuatu sebelum berubah.",
+  "jp": "温かいうちに食べてください。",
+  "furi": "あたたかい うちに たべて ください。",
+  "idn": "Makanlah selagi masih hangat."
+ },
+ {
+  "pola": "あいだ",
+  "arti": "selama / sementara",
+  "rumus": "V-ている／N＋の ＋ あいだ",
+  "penjelasan": "Selama rentang waktu tertentu, suatu keadaan berlangsung terus.",
+  "jp": "休みのあいだ、ずっと寝ていました。",
+  "furi": "やすみの あいだ、ずっと ねて いました。",
+  "idn": "Selama libur, saya terus tidur."
+ },
+ {
+  "pola": "たびに",
+  "arti": "setiap kali",
+  "rumus": "V-辞書形／N＋の ＋ たびに",
+  "penjelasan": "Setiap kali peristiwa pertama terjadi, peristiwa kedua selalu menyusul.",
+  "jp": "旅行のたびに写真を撮ります。",
+  "furi": "りょこうの たびに しゃしんを とります。",
+  "idn": "Setiap kali bepergian, saya memotret."
+ },
+ {
+  "pola": "し",
+  "arti": "dan juga (menyebut alasan)",
+  "rumus": "Bentuk biasa ＋ し",
+  "penjelasan": "Menyebutkan dua hal atau lebih sebagai alasan atau ciri, biasanya untuk mendukung kesimpulan.",
+  "jp": "この店は安いし、おいしいです。",
+  "furi": "この みせは やすいし、おいしいです。",
+  "idn": "Toko ini murah, dan juga enak."
+ },
+ {
+  "pola": "てばかりいる",
+  "arti": "terus-menerus melakukan",
+  "rumus": "V-て ＋ ばかりいる",
+  "penjelasan": "Menyatakan kebiasaan yang berulang terus, biasanya bernada mengeluh.",
+  "jp": "彼は遊んでばかりいる。",
+  "furi": "かれは あそんで ばかりいる。",
+  "idn": "Dia terus-menerus main."
+ },
+ {
+  "pola": "てほしい",
+  "arti": "ingin orang lain melakukan",
+  "rumus": "V-て ＋ ほしい",
+  "penjelasan": "Mengharapkan orang lain melakukan sesuatu untuk kita.",
+  "jp": "早く返事をしてほしいです。",
+  "furi": "はやく へんじを して ほしいです。",
+  "idn": "Saya ingin kamu cepat membalas."
+ },
+ {
+  "pola": "てもらう",
+  "arti": "menerima jasa",
+  "rumus": "V-て ＋ もらう",
+  "penjelasan": "Menerima bantuan atau jasa dari orang lain.",
+  "jp": "友達に日本語を教えてもらいました。",
+  "furi": "ともだちに にほんごを おしえて もらいました。",
+  "idn": "Saya dibantu teman belajar bahasa Jepang."
+ },
+ {
+  "pola": "てくれる",
+  "arti": "diberi jasa",
+  "rumus": "V-て ＋ くれる",
+  "penjelasan": "Orang lain melakukan sesuatu untuk kita; fokus pada rasa terima kasih.",
+  "jp": "母が弁当を作ってくれました。",
+  "furi": "ははが べんとうを つくって くれました。",
+  "idn": "Ibu membuatkan bekal untuk saya."
+ },
+ {
+  "pola": "てあげる",
+  "arti": "memberi jasa",
+  "rumus": "V-て ＋ あげる",
+  "penjelasan": "Kita melakukan sesuatu untuk orang lain.",
+  "jp": "弟に宿題を教えてあげました。",
+  "furi": "おとうとに しゅくだいを おしえて あげました。",
+  "idn": "Saya mengajari PR adik."
+ },
+ {
+  "pola": "ていただく",
+  "arti": "menerima jasa (sopan)",
+  "rumus": "V-て ＋ いただく",
+  "penjelasan": "Versi sopan てもらう, untuk atasan atau tamu.",
+  "jp": "部長に説明していただきました。",
+  "furi": "ぶちょうに せつめいして いただきました。",
+  "idn": "Saya dijelaskan oleh kepala bagian."
+ },
+ {
+  "pola": "てくださる",
+  "arti": "memberi jasa (sopan)",
+  "rumus": "V-て ＋ くださる",
+  "penjelasan": "Versi sopan てくれる.",
+  "jp": "先生が直してくださいました。",
+  "furi": "せんせいが なおして くださいました。",
+  "idn": "Guru memperbaikinya untuk saya."
+ },
+ {
+  "pola": "させられる",
+  "arti": "dipaksa melakukan",
+  "rumus": "V-させる ＋ 受身",
+  "penjelasan": "Bentuk kausatif-pasif: melakukan karena terpaksa.",
+  "jp": "毎日残業させられています。",
+  "furi": "まいにち ざんぎょう させられて います。",
+  "idn": "Saya dipaksa lembur setiap hari."
+ },
+ {
+  "pola": "させる",
+  "arti": "menyuruh / membiarkan",
+  "rumus": "V-させる",
+  "penjelasan": "Menyuruh atau membiarkan orang lain melakukan.",
+  "jp": "子どもを外で遊ばせます。",
+  "furi": "こどもを そとで あそばせます。",
+  "idn": "Saya membiarkan anak bermain di luar."
+ },
+ {
+  "pola": "てもらえないか",
+  "arti": "boleh minta tolong…?",
+  "rumus": "V-て ＋ もらえないか",
+  "penjelasan": "Permintaan sopan yang tidak memaksa.",
+  "jp": "この書類を確認してもらえませんか。",
+  "furi": "この しょるいを かくにんして もらえませんか。",
+  "idn": "Boleh minta tolong cek dokumen ini?"
+ },
+ {
+  "pola": "お〜ください",
+  "arti": "mohon melakukan",
+  "rumus": "お ＋ V-ます(basis) ＋ ください",
+  "penjelasan": "Permintaan sopan untuk tindakan orang lain.",
+  "jp": "こちらにお掛けください。",
+  "furi": "こちらに おかけ ください。",
+  "idn": "Silakan duduk di sini."
+ },
+ {
+  "pola": "ご〜ください",
+  "arti": "mohon melakukan",
+  "rumus": "ご ＋ N ＋ ください",
+  "penjelasan": "Sama seperti お〜ください, untuk kata berawalan ご.",
+  "jp": "ご利用ください。",
+  "furi": "ごりよう ください。",
+  "idn": "Silakan digunakan."
+ },
+ {
+  "pola": "なさい",
+  "arti": "perintah halus",
+  "rumus": "V-ます(basis) ＋ なさい",
+  "penjelasan": "Perintah lembut, biasanya dari orang tua atau guru.",
+  "jp": "早く寝なさい。",
+  "furi": "はやく ねなさい。",
+  "idn": "Cepat tidur."
+ },
+ {
+  "pola": "な",
+  "arti": "jangan",
+  "rumus": "V-辞書形 ＋ な",
+  "penjelasan": "Larangan tegas dengan nada kasar.",
+  "jp": "触るな。",
+  "furi": "さわるな。",
+  "idn": "Jangan sentuh."
+ },
+ {
+  "pola": "てはいけない",
+  "arti": "tidak boleh",
+  "rumus": "V-て ＋ はいけない",
+  "penjelasan": "Larangan berdasarkan aturan.",
+  "jp": "ここで写真を撮ってはいけません。",
+  "furi": "ここで しゃしんを とっては いけません。",
+  "idn": "Tidak boleh memotret di sini."
+ },
+ {
+  "pola": "なくてもいい",
+  "arti": "tidak perlu",
+  "rumus": "V-ない(basis) ＋ くてもいい",
+  "penjelasan": "Menyatakan sesuatu tidak wajib.",
+  "jp": "明日は来なくてもいいです。",
+  "furi": "あしたは こなくても いいです。",
+  "idn": "Besok tidak perlu datang."
+ },
+ {
+  "pola": "なければならない",
+  "arti": "harus",
+  "rumus": "V-ない(basis) ＋ ければならない",
+  "penjelasan": "Kewajiban karena aturan atau keadaan.",
+  "jp": "毎日薬を飲まなければなりません。",
+  "furi": "まいにち くすりを のまなければ なりません。",
+  "idn": "Saya harus minum obat setiap hari."
+ },
+ {
+  "pola": "なくてはならない",
+  "arti": "harus",
+  "rumus": "V-ない(basis) ＋ くてはならない",
+  "penjelasan": "Sama dengan なければならない, sedikit lebih formal.",
+  "jp": "明日までに報告しなくてはなりません。",
+  "furi": "あしたまでに ほうこく しなくては なりません。",
+  "idn": "Saya harus melapor sebelum besok."
+ },
+ {
+  "pola": "ざるを得ない",
+  "arti": "terpaksa",
+  "rumus": "V-ない(basis) ＋ ざるを得ない",
+  "penjelasan": "Tidak ada pilihan lain selain melakukan.",
+  "jp": "バスがないので歩かざるを得ません。",
+  "furi": "ばすが ないので あるかざるを えません。",
+  "idn": "Karena tidak ada bus, saya terpaksa jalan."
+ },
+ {
+  "pola": "しか〜ない",
+  "arti": "hanya",
+  "rumus": "N／V ＋ しか ＋ ない",
+  "penjelasan": "Hanya itu saja, menekankan keterbatasan.",
+  "jp": "水しかありません。",
+  "furi": "みず しか ありません。",
+  "idn": "Hanya ada air."
+ },
+ {
+  "pola": "ばかりか",
+  "arti": "bukan hanya",
+  "rumus": "Bentuk biasa ＋ ばかりか",
+  "penjelasan": "Menambahkan hal lain yang lebih mengejutkan.",
+  "jp": "彼は英語ばかりか、中国語も話せます。",
+  "furi": "かれは えいご ばかりか、ちゅうごくごも はなせます。",
+  "idn": "Dia bukan hanya Inggris, Mandarin juga bisa."
+ },
+ {
+  "pola": "だけでなく",
+  "arti": "tidak hanya",
+  "rumus": "Bentuk biasa ＋ だけでなく",
+  "penjelasan": "Menambahkan hal lain sederajat.",
+  "jp": "肉だけでなく、魚も食べます。",
+  "furi": "にく だけでなく、さかなも たべます。",
+  "idn": "Bukan hanya daging, ikan juga saya makan."
+ },
+ {
+  "pola": "ほど",
+  "arti": "sejauh / sedemikian",
+  "rumus": "N ＋ ほど",
+  "penjelasan": "Menyatakan tingkat atau perkiraan.",
+  "jp": "泣きたいほど嬉しいです。",
+  "furi": "なきたい ほど うれしいです。",
+  "idn": "Senang sampai ingin menangis."
+ },
+ {
+  "pola": "くらい",
+  "arti": "kira-kira / sampai",
+  "rumus": "N ／ bentuk biasa ＋ くらい",
+  "penjelasan": "Perkiraan jumlah atau tingkat ringan.",
+  "jp": "十分くらい待ってください。",
+  "furi": "じゅっぷん くらい まって ください。",
+  "idn": "Tolong tunggu sekitar sepuluh menit."
+ },
+ {
+  "pola": "ばかり",
+  "arti": "baru saja",
+  "rumus": "V-た ＋ ばかり",
+  "penjelasan": "Baru saja terjadi.",
+  "jp": "今帰ったばかりです。",
+  "furi": "いま かえった ばかりです。",
+  "idn": "Saya baru saja pulang."
+ },
+ {
+  "pola": "ところだ",
+  "arti": "baru akan / sedang",
+  "rumus": "V-辞書形／V-ている ＋ ところだ",
+  "penjelasan": "Menunjukkan tahap tindakan.",
+  "jp": "今出かけるところです。",
+  "furi": "いま でかける ところです。",
+  "idn": "Saya baru akan berangkat."
+ },
+ {
+  "pola": "ところだった",
+  "arti": "hampir saja",
+  "rumus": "V-辞書形 ＋ ところだった",
+  "penjelasan": "Hampir terjadi, tetapi tidak jadi.",
+  "jp": "もう少しで転ぶところでした。",
+  "furi": "もう すこしで ころぶ ところでした。",
+  "idn": "Tadi hampir saja jatuh."
+ },
+ {
+  "pola": "つもりだ",
+  "arti": "berniat",
+  "rumus": "V-辞書形 ＋ つもりだ",
+  "penjelasan": "Menyatakan rencana pribadi.",
+  "jp": "来年日本へ行くつもりです。",
+  "furi": "らいねん にほんへ いく つもりです。",
+  "idn": "Saya berniat ke Jepang tahun depan."
+ },
+ {
+  "pola": "ようと思う",
+  "arti": "berpikir untuk",
+  "rumus": "V-よう ＋ と思う",
+  "penjelasan": "Niat yang masih dipertimbangkan.",
+  "jp": "早く寝ようと思います。",
+  "furi": "はやく ねようと おもいます。",
+  "idn": "Saya pikir mau tidur cepat."
+ },
+ {
+  "pola": "べきだ",
+  "arti": "sepatutnya",
+  "rumus": "V-辞書形 ＋ べきだ",
+  "penjelasan": "Kewajiban moral, bukan aturan tertulis.",
+  "jp": "約束は守るべきです。",
+  "furi": "やくそくは まもる べきです。",
+  "idn": "Janji sepatutnya ditepati."
+ },
+ {
+  "pola": "べきではない",
+  "arti": "tidak sepatutnya",
+  "rumus": "V-辞書形 ＋ べきではない",
+  "penjelasan": "Larangan moral.",
+  "jp": "人の悪口を言うべきではない。",
+  "furi": "ひと の わるぐちを いう べきでは ない。",
+  "idn": "Tidak sepatutnya membicarakan keburukan orang."
+ },
+ {
+  "pola": "ことだ",
+  "arti": "sebaiknya",
+  "rumus": "V-辞書形／V-ない ＋ ことだ",
+  "penjelasan": "Saran atau nasihat.",
+  "jp": "早く病院へ行くことです。",
+  "furi": "はやく びょういんへ いく ことです。",
+  "idn": "Sebaiknya cepat ke rumah sakit."
+ },
+ {
+  "pola": "ものだ",
+  "arti": "memang begitulah",
+  "rumus": "Bentuk biasa ＋ ものだ",
+  "penjelasan": "Menyatakan hal yang wajar atau umum.",
+  "jp": "年を取ると忘れやすくなるものです。",
+  "furi": "としを とると わすれやすく なるものです。",
+  "idn": "Kalau bertambah tua memang mudah lupa."
+ },
+ {
+  "pola": "ものだから",
+  "arti": "karena",
+  "rumus": "Bentuk biasa ＋ ものだから",
+  "penjelasan": "Alasan yang dibawa sebagai pembelaan.",
+  "jp": "雨が降ったものだから、遅れました。",
+  "furi": "あめが ふった ものだから、おくれました。",
+  "idn": "Karena hujan, saya terlambat."
+ },
+ {
+  "pola": "おかげで",
+  "arti": "berkat",
+  "rumus": "N＋の／V-た ＋ おかげで",
+  "penjelasan": "Hasil baik karena sesuatu.",
+  "jp": "先生のおかげで合格しました。",
+  "furi": "せんせいの おかげで ごうかく しました。",
+  "idn": "Berkat guru saya lulus."
+ },
+ {
+  "pola": "せいで",
+  "arti": "gara-gara",
+  "rumus": "N＋の／V-た ＋ せいで",
+  "penjelasan": "Hasil buruk karena sesuatu.",
+  "jp": "寝坊したせいで遅刻しました。",
+  "furi": "ねぼうした せいで ちこく しました。",
+  "idn": "Gara-gara kesiangan saya terlambat."
+ },
+ {
+  "pola": "について",
+  "arti": "tentang",
+  "rumus": "N ＋ について",
+  "penjelasan": "Membahas topik.",
+  "jp": "日本の文化について話しました。",
+  "furi": "にほんの ぶんか について はなしました。",
+  "idn": "Kami bicara tentang budaya Jepang."
+ },
+ {
+  "pola": "に対して",
+  "arti": "terhadap",
+  "rumus": "N ＋ に対して",
+  "penjelasan": "Sikap atau tindakan yang ditujukan kepada pihak lain.",
+  "jp": "お客様に対して丁寧に話します。",
+  "furi": "おきゃくさま に たいして ていねいに はなします。",
+  "idn": "Saya bicara sopan terhadap tamu."
+ },
+ {
+  "pola": "にとって",
+  "arti": "bagi",
+  "rumus": "N ＋ にとって",
+  "penjelasan": "Dari sudut pandang pihak tertentu.",
+  "jp": "私にとって家族が一番大切です。",
+  "furi": "わたしに とって かぞくが いちばん たいせつです。",
+  "idn": "Bagi saya keluarga paling penting."
+ },
+ {
+  "pola": "によって",
+  "arti": "oleh / tergantung",
+  "rumus": "N ＋ によって",
+  "penjelasan": "Pelaku dalam kalimat pasif, atau sebab perbedaan.",
+  "jp": "この絵は彼によって描かれました。",
+  "furi": "この えは かれに よって かかれました。",
+  "idn": "Lukisan ini dibuat oleh dia."
+ },
+ {
+  "pola": "として",
+  "arti": "sebagai",
+  "rumus": "N ＋ として",
+  "penjelasan": "Menunjukkan peran atau status.",
+  "jp": "彼は先生として働いています。",
+  "furi": "かれは せんせい として はたらいて います。",
+  "idn": "Dia bekerja sebagai guru."
+ },
+ {
+  "pola": "に比べて",
+  "arti": "dibandingkan",
+  "rumus": "N ＋ に比べて",
+  "penjelasan": "Membandingkan dua hal.",
+  "jp": "去年に比べて寒いです。",
+  "furi": "きょねん に くらべて さむいです。",
+  "idn": "Dibanding tahun lalu, lebih dingin."
+ },
+ {
+  "pola": "に代わって",
+  "arti": "menggantikan",
+  "rumus": "N ＋ に代わって",
+  "penjelasan": "Bertindak sebagai pengganti.",
+  "jp": "私が部長に代わって説明します。",
+  "furi": "わたしが ぶちょう に かわって せつめい します。",
+  "idn": "Saya menggantikan kepala bagian menjelaskan."
+ },
+ {
+  "pola": "を通じて",
+  "arti": "melalui",
+  "rumus": "N ＋ を通じて",
+  "penjelasan": "Lewat perantara atau media.",
+  "jp": "友人を通じて知り合いました。",
+  "furi": "ゆうじんを つうじて しりあいました。",
+  "idn": "Kami berkenalan lewat teman."
+ },
+ {
+  "pola": "に限る",
+  "arti": "paling baik",
+  "rumus": "N／V-辞書形 ＋ に限る",
+  "penjelasan": "Menyatakan pilihan terbaik.",
+  "jp": "夏はビールに限ります。",
+  "furi": "なつは びーる に かぎります。",
+  "idn": "Kalau musim panas, bir paling enak."
+ },
+ {
+  "pola": "に限って",
+  "arti": "khusus",
+  "rumus": "N ＋ に限って",
+  "penjelasan": "Hanya pada kasus tertentu, sering bernada heran.",
+  "jp": "うちの子に限って嘘はつきません。",
+  "furi": "うちの こ に かぎって うそは つきません。",
+  "idn": "Anak saya khususnya tidak akan berbohong."
+ },
+ {
+  "pola": "に違いない",
+  "arti": "pasti",
+  "rumus": "Bentuk biasa ＋ に違いない",
+  "penjelasan": "Keyakinan yang kuat.",
+  "jp": "彼は犯人に違いありません。",
+  "furi": "かれは はんにん に ちがいありません。",
+  "idn": "Dia pasti pelakunya."
+ },
+ {
+  "pola": "に決まっている",
+  "arti": "sudah pasti",
+  "rumus": "Bentuk biasa ＋ に決まっている",
+  "penjelasan": "Kepastian yang dianggap jelas.",
+  "jp": "そんなの無理に決まっています。",
+  "furi": "そんなの むり に きまって います。",
+  "idn": "Begitu jelas tidak mungkin."
+ },
+ {
+  "pola": "とは限らない",
+  "arti": "belum tentu",
+  "rumus": "Bentuk biasa ＋ とは限らない",
+  "penjelasan": "Menyangkal anggapan umum.",
+  "jp": "高い物がいいとは限りません。",
+  "furi": "たかい もの が いい とは かぎりません。",
+  "idn": "Barang mahal belum tentu bagus."
+ },
+ {
+  "pola": "というより",
+  "arti": "lebih tepatnya",
+  "rumus": "Bentuk biasa ＋ というより",
+  "penjelasan": "Membetulkan cara menyebut.",
+  "jp": "嫌いというより、苦手なんです。",
+  "furi": "きらい というより、にがて なんです。",
+  "idn": "Bukan benci, lebih tepatnya tidak mahir."
+ },
+ {
+  "pola": "というのは",
+  "arti": "adalah bahwa",
+  "rumus": "Bentuk biasa ＋ というのは",
+  "penjelasan": "Menjelaskan makna sesuatu.",
+  "jp": "敬語というのは、難しいです。",
+  "furi": "けいご というのは、むずかしいです。",
+  "idn": "Bahasa sopan itu memang sulit."
+ },
+ {
+  "pola": "ということだ",
+  "arti": "artinya / katanya",
+  "rumus": "Bentuk biasa ＋ ということだ",
+  "penjelasan": "Menyimpulkan atau meneruskan kabar.",
+  "jp": "休みは明日だということです。",
+  "furi": "やすみは あした だ ということです。",
+  "idn": "Katanya liburnya besok."
+ },
+ {
+  "pola": "ように見える",
+  "arti": "kelihatan seperti",
+  "rumus": "Bentuk biasa ＋ ように見える",
+  "penjelasan": "Tampilan dari luar.",
+  "jp": "彼は元気なように見えます。",
+  "furi": "かれは げんきな ように みえます。",
+  "idn": "Dia kelihatan sehat."
+ },
+ {
+  "pola": "かのようだ",
+  "arti": "seakan-akan",
+  "rumus": "Bentuk biasa ＋ かのようだ",
+  "penjelasan": "Perumpamaan yang dilebih-lebihkan.",
+  "jp": "冬が来たかのように寒いです。",
+  "furi": "ふゆが きた かのように さむいです。",
+  "idn": "Dinginnya seakan-akan musim dingin tiba."
+ },
+ {
+  "pola": "ふりをする",
+  "arti": "berpura-pura",
+  "rumus": "V-た／N＋の ＋ ふりをする",
+  "penjelasan": "Berbuat seolah tidak tahu atau tidak merasa.",
+  "jp": "知らないふりをしました。",
+  "furi": "しらない ふりを しました。",
+  "idn": "Saya berpura-pura tidak tahu."
+ },
+ {
+  "pola": "まま",
+  "arti": "dibiarkan begitu",
+  "rumus": "V-た／V-ない ＋ まま",
+  "penjelasan": "Keadaan yang tidak berubah.",
+  "jp": "窓を開けたまま寝ました。",
+  "furi": "まどを あけた まま ねました。",
+  "idn": "Saya tidur dengan jendela tetap terbuka."
+ },
+ {
+  "pola": "っぱなし",
+  "arti": "dibiarkan terus",
+  "rumus": "V-ます(basis) ＋ っぱなし",
+  "penjelasan": "Dibiarkan tanpa dirapikan, sedikit negatif.",
+  "jp": "水を出しっぱなしにしないでください。",
+  "furi": "みずを だしっぱなし に しないで ください。",
+  "idn": "Jangan biarkan air mengalir terus."
+ },
+ {
+  "pola": "ながらも",
+  "arti": "meskipun",
+  "rumus": "V-ます(basis)／A-い ＋ ながらも",
+  "penjelasan": "Pertentangan yang halus.",
+  "jp": "狭いながらも快適な部屋です。",
+  "furi": "せまい ながらも かいてきな へやです。",
+  "idn": "Meskipun sempit, kamarnya nyaman."
+ },
+ {
+  "pola": "つつある",
+  "arti": "sedang berlangsung",
+  "rumus": "V-ます(basis) ＋ つつある",
+  "penjelasan": "Perubahan yang sedang berlangsung.",
+  "jp": "日本語が上手になりつつあります。",
+  "furi": "にほんごが じょうずに なりつつ あります。",
+  "idn": "Bahasa Jepang saya sedang makin baik."
+ },
+ {
+  "pola": "一方だ",
+  "arti": "terus semakin",
+  "rumus": "V-辞書形 ＋ 一方だ",
+  "penjelasan": "Perubahan yang bergerak satu arah terus.",
+  "jp": "物価は上がる一方です。",
+  "furi": "ぶっかは あがる いっぽうです。",
+  "idn": "Harga terus naik."
+ },
+ {
+  "pola": "わけにはいかない",
+  "arti": "tidak boleh (karena tanggung jawab)",
+  "rumus": "V-辞書形 ＋ わけにはいかない",
+  "penjelasan": "Tidak bisa dilakukan karena alasan sosial atau moral.",
+  "jp": "明日は試験だから休むわけにはいかない。",
+  "furi": "あしたは しけん だから やすむ わけには いかない。",
+  "idn": "Besok ujian, jadi tidak bisa libur."
+ },
+ {
+  "pola": "ようがない",
+  "arti": "tidak ada cara",
+  "rumus": "V-ます(basis) ＋ ようがない",
+  "penjelasan": "Tidak mungkin karena tidak ada caranya.",
+  "jp": "名前が分からないので連絡しようがない。",
+  "furi": "なまえが わからないので れんらく しようが ない。",
+  "idn": "Karena tidak tahu namanya, tidak ada cara menghubungi."
+ },
+ {
+  "pola": "かねる",
+  "arti": "sulit untuk",
+  "rumus": "V-ます(basis) ＋ かねる",
+  "penjelasan": "Menolak dengan cara sopan.",
+  "jp": "その件はお答えしかねます。",
+  "furi": "その けんは おこたえ しかねます。",
+  "idn": "Soal itu sulit saya jawab."
+ },
+ {
+  "pola": "かねない",
+  "arti": "mungkin (buruk)",
+  "rumus": "V-ます(basis) ＋ かねない",
+  "penjelasan": "Kemungkinan hasil buruk.",
+  "jp": "そんなに働いたら倒れかねません。",
+  "furi": "そんなに はたらいたら たおれ かねません。",
+  "idn": "Kalau kerja begitu, bisa jadi dia pingsan."
+ },
+ {
+  "pola": "きる",
+  "arti": "selesai sepenuhnya",
+  "rumus": "V-ます(basis) ＋ きる",
+  "penjelasan": "Melakukan sampai habis atau tuntas.",
+  "jp": "全部食べきりました。",
+  "furi": "ぜんぶ たべきりました。",
+  "idn": "Saya habiskan semuanya."
+ },
+ {
+  "pola": "きれない",
+  "arti": "tidak bisa habis",
+  "rumus": "V-ます(basis) ＋ きれない",
+  "penjelasan": "Tidak sanggup menyelesaikan.",
+  "jp": "こんなに多くは食べきれません。",
+  "furi": "こんなに おおくは たべきれません。",
+  "idn": "Sebanyak ini tidak bisa kuhabiskan."
+ },
+ {
+  "pola": "がち",
+  "arti": "cenderung",
+  "rumus": "V-ます(basis)／N ＋ がち",
+  "penjelasan": "Sering terjadi, biasanya bernada negatif.",
+  "jp": "冬は風邪を引きがちです。",
+  "furi": "ふゆは かぜを ひきがちです。",
+  "idn": "Musim dingin cenderung masuk angin."
+ },
+ {
+  "pola": "気味",
+  "arti": "agak / sedikit",
+  "rumus": "V-ます(basis)／N ＋ ぎみ",
+  "penjelasan": "Sedikit menunjukkan gejala.",
+  "jp": "疲れ気味です。",
+  "furi": "つかれ ぎみです。",
+  "idn": "Saya agak kelelahan."
+ },
+ {
+  "pola": "っぽい",
+  "arti": "mirip / mudah",
+  "rumus": "N／V-ます(basis) ＋ っぽい",
+  "penjelasan": "Berkesan seperti sesuatu, atau mudah terjadi.",
+  "jp": "彼は子どもっぽいです。",
+  "furi": "かれは こどもっぽいです。",
+  "idn": "Dia kekanak-kanakan."
+ },
+ {
+  "pola": "だらけ",
+  "arti": "penuh",
+  "rumus": "N ＋ だらけ",
+  "penjelasan": "Penuh dengan sesuatu, biasanya negatif.",
+  "jp": "部屋がほこりだらけです。",
+  "furi": "へやが ほこり だらけです。",
+  "idn": "Kamarnya penuh debu."
+ },
+ {
+  "pola": "まみれ",
+  "arti": "berlumur",
+  "rumus": "N ＋ まみれ",
+  "penjelasan": "Berlumur sesuatu berupa cairan atau kotoran.",
+  "jp": "汗まみれになりました。",
+  "furi": "あせ まみれに なりました。",
+  "idn": "Saya jadi berlumuran keringat."
+ },
+ {
+  "pola": "ずつ",
+  "arti": "masing-masing",
+  "rumus": "N ＋ ずつ",
+  "penjelasan": "Jumlah yang dibagi rata.",
+  "jp": "一人ずつ配ってください。",
+  "furi": "ひとり ずつ くばって ください。",
+  "idn": "Tolong bagikan satu per orang."
+ },
+ {
+  "pola": "おきに",
+  "arti": "setiap selang",
+  "rumus": "N ＋ おきに",
+  "penjelasan": "Interval waktu atau jarak tertentu.",
+  "jp": "一時間おきに電車が来ます。",
+  "furi": "いちじかん おきに でんしゃが きます。",
+  "idn": "Kereta datang setiap satu jam."
+ },
+ {
+  "pola": "ぶりに",
+  "arti": "setelah sekian lama",
+  "rumus": "N ＋ ぶりに",
+  "penjelasan": "Setelah jeda yang lama.",
+  "jp": "3年ぶりに日本へ行きました。",
+  "furi": "さんねん ぶりに にほんへ いきました。",
+  "idn": "Saya ke Jepang setelah tiga tahun."
+ },
+ {
+  "pola": "うちは",
+  "arti": "selama masih",
+  "rumus": "V-ている／A-い ＋ うちは",
+  "penjelasan": "Selama keadaan itu masih berlangsung.",
+  "jp": "若いうちは無理ができます。",
+  "furi": "わかい うちは むりが できます。",
+  "idn": "Selama masih muda, bisa memaksakan diri."
+ },
+ {
+  "pola": "間は",
+  "arti": "selama",
+  "rumus": "N＋の／V-ている ＋ 間は",
+  "penjelasan": "Selama periode tertentu.",
+  "jp": "日本にいる間は日本語で話します。",
+  "furi": "にほんに いる あいだは にほんごで はなします。",
+  "idn": "Selama di Jepang, saya bicara bahasa Jepang."
+ },
+ {
+  "pola": "たとたん",
+  "arti": "begitu",
+  "rumus": "V-た ＋ とたん",
+  "penjelasan": "Peristiwa mendadak tepat setelahnya.",
+  "jp": "ドアを開けたとたん、音が止まった。",
+  "furi": "どあを あけた とたん、おとが とまった。",
+  "idn": "Begitu pintu dibuka, suaranya berhenti."
+ },
+ {
+  "pola": "次第",
+  "arti": "segera setelah",
+  "rumus": "V-ます(basis) ＋ 次第",
+  "penjelasan": "Setelah itu langsung dilakukan.",
+  "jp": "着き次第連絡します。",
+  "furi": "つき しだい れんらく します。",
+  "idn": "Begitu tiba, saya hubungi."
+ },
+ {
+  "pola": "次第だ",
+  "arti": "tergantung",
+  "rumus": "N ＋ 次第だ",
+  "penjelasan": "Bergantung sepenuhnya pada sesuatu.",
+  "jp": "成功するかは努力次第です。",
+  "furi": "せいこう するかは どりょく しだいです。",
+  "idn": "Berhasil atau tidak tergantung usaha."
+ },
+ {
+  "pola": "上で",
+  "arti": "setelah / dalam hal",
+  "rumus": "V-た／N＋の ＋ 上で",
+  "penjelasan": "Setelah melakukan sesuatu lebih dulu.",
+  "jp": "よく考えた上で決めます。",
+  "furi": "よく かんがえた うえで きめます。",
+  "idn": "Saya putuskan setelah mempertimbangkan."
+ },
+ {
+  "pola": "上に",
+  "arti": "selain itu",
+  "rumus": "Bentuk biasa ＋ 上に",
+  "penjelasan": "Menambahkan hal lain yang searah.",
+  "jp": "この店は安い上に、おいしいです。",
+  "furi": "この みせは やすい うえに、おいしいです。",
+  "idn": "Toko ini selain murah, juga enak."
+ },
+ {
+  "pola": "上は",
+  "arti": "karena sudah",
+  "rumus": "V-た／V-辞書形 ＋ 上は",
+  "penjelasan": "Konsekuensi setelah berketetapan.",
+  "jp": "やる上は最後までやります。",
+  "furi": "やる うえは さいごまで やります。",
+  "idn": "Kalau sudah mengerjakan, sampai akhir."
+ },
+ {
+  "pola": "末に",
+  "arti": "akhirnya",
+  "rumus": "V-た／N＋の ＋ 末に",
+  "penjelasan": "Hasil setelah proses panjang.",
+  "jp": "考えた末に決めました。",
+  "furi": "かんがえた すえに きめました。",
+  "idn": "Akhirnya saya putuskan setelah berpikir panjang."
+ },
+ {
+  "pola": "あげく",
+  "arti": "ujung-ujungnya",
+  "rumus": "V-た／N＋の ＋ あげく",
+  "penjelasan": "Hasil buruk setelah usaha panjang.",
+  "jp": "悩んだあげく、諦めました。",
+  "furi": "なやんだ あげく、あきらめました。",
+  "idn": "Setelah lama bingung, akhirnya menyerah."
+ },
+ {
+  "pola": "ところが",
+  "arti": "namun",
+  "rumus": "Bentuk biasa ＋ ところが",
+  "penjelasan": "Pertentangan dengan dugaan.",
+  "jp": "行ってみました。ところが閉まっていました。",
+  "furi": "いって みました。ところが しまって いました。",
+  "idn": "Saya coba pergi. Namun ternyata tutup."
+ },
+ {
+  "pola": "ところで",
+  "arti": "ngomong-ngomong",
+  "rumus": "Bentuk biasa ＋ ところで",
+  "penjelasan": "Mengganti topik pembicaraan.",
+  "jp": "ところで、仕事はどうですか。",
+  "furi": "ところで、しごとは どうですか。",
+  "idn": "Ngomong-ngomong, pekerjaanmu bagaimana?"
+ },
+ {
+  "pola": "ところに",
+  "arti": "ketika (tepat saat)",
+  "rumus": "V-ている／V-た ＋ ところに",
+  "penjelasan": "Tepat saat keadaan berlangsung.",
+  "jp": "出かけようとしているところに電話が来ました。",
+  "furi": "でかけようと している ところに でんわが きました。",
+  "idn": "Saat hendak berangkat, telepon datang."
+ },
+ {
+  "pola": "ものの",
+  "arti": "walaupun",
+  "rumus": "Bentuk biasa ＋ ものの",
+  "penjelasan": "Mengakui sesuatu lalu bertentangan.",
+  "jp": "買ったものの、使っていません。",
+  "furi": "かった ものの、つかって いません。",
+  "idn": "Sudah kubeli, tetapi belum kupakai."
+ },
+ {
+  "pola": "ものなら",
+  "arti": "kalau sampai",
+  "rumus": "V-可能形 ＋ ものなら",
+  "penjelasan": "Syarat yang sulit atau berlebihan.",
+  "jp": "帰れるものなら帰りたい。",
+  "furi": "かえれる ものなら かえりたい。",
+  "idn": "Kalau bisa pulang, saya ingin pulang."
+ },
+ {
+  "pola": "ものか",
+  "arti": "tidak akan",
+  "rumus": "V-辞書形 ＋ ものか",
+  "penjelasan": "Penolakan tegas.",
+  "jp": "あんな店、二度行くものか。",
+  "furi": "あんな みせ、にど いく ものか。",
+  "idn": "Toko seperti itu, tidak akan kudatangi lagi."
+ },
+ {
+  "pola": "ことか",
+  "arti": "betapa",
+  "rumus": "Bentuk biasa ＋ ことか",
+  "penjelasan": "Menyatakan perasaan yang kuat.",
+  "jp": "どんなに嬉しかったことか。",
+  "furi": "どんなに うれしかった ことか。",
+  "idn": "Betapa senangnya saya."
+ },
+ {
+  "pola": "ことなく",
+  "arti": "tanpa",
+  "rumus": "V-辞書形 ＋ ことなく",
+  "penjelasan": "Melakukan sesuatu tanpa hal lain.",
+  "jp": "休むことなく働いています。",
+  "furi": "やすむ ことなく はたらいて います。",
+  "idn": "Saya bekerja tanpa berhenti."
+ },
+ {
+  "pola": "かわりに",
+  "arti": "sebagai ganti",
+  "rumus": "V-辞書形／N＋の ＋ かわりに",
+  "penjelasan": "Pengganti atau kompensasi.",
+  "jp": "日曜に出るかわりに、月曜は休みます。",
+  "furi": "にちように でる かわりに、げつようは やすみます。",
+  "idn": "Sebagai ganti masuk hari Minggu, Senin libur."
+ },
+ {
+  "pola": "つもりだった",
+  "arti": "dulu berniat",
+  "rumus": "V-辞書形 ＋ つもりだった",
+  "penjelasan": "Niat masa lalu yang tidak terlaksana.",
+  "jp": "行くつもりでしたが、行けませんでした。",
+  "furi": "いく つもりでしたが、いけませんでした。",
+  "idn": "Dulu berniat pergi, tapi tidak bisa."
+ },
+ {
+  "pola": "やすい",
+  "arti": "mudah",
+  "rumus": "V-ます(basis) ＋ やすい",
+  "penjelasan": "Mudah dilakukan.",
+  "jp": "この本は読みやすいです。",
+  "furi": "この ほんは よみやすいです。",
+  "idn": "Buku ini mudah dibaca."
+ },
+ {
+  "pola": "にくい",
+  "arti": "sulit",
+  "rumus": "V-ます(basis) ＋ にくい",
+  "penjelasan": "Sulit dilakukan.",
+  "jp": "この字は小さくて読みにくいです。",
+  "furi": "この じは ちいさくて よみにくいです。",
+  "idn": "Tulisan ini kecil dan sulit dibaca."
+ },
+ {
+  "pola": "すぎる",
+  "arti": "terlalu",
+  "rumus": "V-ます(basis)／A-い(basis) ＋ すぎる",
+  "penjelasan": "Melebihi batas wajar.",
+  "jp": "昨日飲みすぎました。",
+  "furi": "きのう のみすぎました。",
+  "idn": "Kemarin saya minum terlalu banyak."
+ },
+ {
+  "pola": "たがる",
+  "arti": "ingin (orang lain)",
+  "rumus": "V-ます(basis) ＋ たがる",
+  "penjelasan": "Menyatakan keinginan orang lain, bukan diri sendiri.",
+  "jp": "子どもは外で遊びたがります。",
+  "furi": "こどもは そとで あそびたがります。",
+  "idn": "Anak ingin bermain di luar."
+ },
+ {
+  "pola": "てもかまわない",
+  "arti": "tidak masalah kalau",
+  "rumus": "V-て ＋ もかまわない",
+  "penjelasan": "Memberi izin.",
+  "jp": "ここに座ってもかまいませんか。",
+  "furi": "ここに すわっても かまいませんか。",
+  "idn": "Boleh saya duduk di sini?"
+ }
+]

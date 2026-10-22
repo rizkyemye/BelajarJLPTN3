@@ -1,0 +1,55 @@
+## 1|生活|26
+意識|いしき|kesadaran|nomina|意識が高いです。|いしきが たかいです。|Kesadarannya tinggi.
+信用|しんよう|kepercayaan / kredibilitas|nomina|信用が大切です。|しんようが たいせつです。|Kepercayaan itu penting.
+決意|けつい|tekad|nomina|決意しました。|けついしました。|Saya sudah bertekad.
+反省|はんせい|refleksi diri|nomina|少し反省しています。|すこし はんせいしています。|Saya sedikit merenung.
+支え|ささえ|penopang / dukungan|nomina|家族が支えです。|かぞくが ささえです。|Keluarga adalah penopang saya.
+
+## 2|家族・人|26
+家庭|かてい|rumah tangga|nomina|家庭が大事です。|かていが だいじです。|Rumah tangga itu penting.
+双子|ふたご|kembar|nomina|双子の兄弟です。|ふたごの きょうだいです。|Saudara kembar.
+甥|おい|keponakan laki-laki|nomina|甥が来ました。|おいが きました。|Keponakan saya datang.
+姪|めい|keponakan perempuan|nomina|姪は学生です。|めいは がくせいです。|Keponakan saya seorang pelajar.
+家族連れ|かぞくづれ|rombongan keluarga|nomina|家族連れが多いです。|かぞくづれが おおいです。|Banyak keluarga yang datang.
+
+## 3|体・健康|26
+肩|かた|bahu|nomina|肩が凝ります。|かたが こります。|Bahu saya pegal.
+腰|こし|pinggang|nomina|腰が痛いです。|こしが いたいです。|Pinggang saya sakit.
+歯|は|gigi|nomina|歯が痛いです。|はが いたいです。|Gigi saya sakit.
+血|ち|darah|nomina|血が出ました。|ちが でました。|Darahnya keluar.
+呼吸|こきゅう|pernapasan|nomina|呼吸が苦しいです。|こきゅうが くるしいです。|Napas saya sesak.
+
+## 4|食べ物・味|26
+蒸す|むす|mengukus|verba|野菜を蒸します。|やさいを むします。|Saya mengukus sayur.
+こしょう|こしょう|merica|nomina|こしょうをかけます。|こしょうを かけます。|Saya menabur merica.
+バター|バター|mentega|nomina|バターを塗ります。|バターを ぬります。|Saya mengoles mentega.
+パン|パン|roti|nomina|パンを食べます。|パンを たべます。|Saya makan roti.
+飲み物|のみもの|minuman|nomina|飲み物は何にしますか。|のみものは なんに しますか。|Mau minum apa?
+
+## 5|買い物・お金|26
+特売|とくばい|obral|nomina|今日は特売です。|きょうは とくばいです。|Hari ini obral.
+定価|ていか|harga resmi|nomina|定価で買います。|ていかで かいます。|Saya beli dengan harga resmi.
+小銭|こぜに|uang receh|nomina|小銭がありますか。|こぜにが ありますか。|Ada uang receh?
+領収書|りょうしゅうしょ|kuitansi|nomina|領収書をください。|りょうしゅうしょを ください。|Minta kuitansinya.
+返品|へんぴん|pengembalian barang|nomina|返品できますか。|へんぴん できますか。|Bisa dikembalikan?
+
+## 6|交通・道|26
+新幹線|しんかんせん|shinkansen|nomina|新幹線で行きます。|しんかんせんで いきます。|Saya pergi naik shinkansen.
+地下鉄|ちかてつ|kereta bawah tanah|nomina|地下鉄に乗ります。|ちかてつに のります。|Saya naik subway.
+定期券|ていきけん|tiket langganan|nomina|定期券を買います。|ていきけんを かいます。|Saya membeli tiket langganan.
+座席|ざせき|kursi|nomina|座席を予約します。|ざせきを よやくします。|Saya memesan kursi.
+満員|まんいん|penuh (orang)|nomina|電車が満員です。|でんしゃが まんいんです。|Keretanya penuh.
+
+## 7|住まい・部屋|26
+庭|にわ|halaman|nomina|庭があります。|にわが あります。|Ada halaman.
+屋根|やね|atap|nomina|屋根が赤いです。|やねが あかいです。|Atapnya merah.
+冷蔵庫|れいぞうこ|kulkas|nomina|冷蔵庫に入れます。|れいぞうこに いれます。|Saya taruh di kulkas.
+洗面所|せんめんじょ|wastafel|nomina|洗面所はどこですか。|せんめんじょは どこですか。|Wastafelnya di mana?
+照明|しょうめい|lampu penerangan|nomina|照明を変えます。|しょうめいを かえます。|Saya mengganti lampunya.
+
+## 8|仕事・会社|26
+就職|しゅうしょく|mendapat pekerjaan|nomina|就職しました。|しゅうしょくしました。|Saya sudah dapat kerja.
+転職|てんしょく|pindah kerja|nomina|転職を考えています。|てんしょくを かんがえています。|Saya mempertimbangkan pindah kerja.
+昇給|しょうきゅう|kenaikan gaji|nomina|昇給しました。|しょうきゅうしました。|Gaji saya naik.
+研修|けんしゅう|pelatihan kerja|nomina|研修を受けます。|けんしゅうを うけます。|Saya ikut pelatihan.
+職場|しょくば|tempat kerja|nomina|職場が遠いです。|しょくばが とおいです。|Tempat kerjanya jauh.

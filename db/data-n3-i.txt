@@ -1,0 +1,124 @@
+## 39|苦情・トラブル
+謝罪|しゃざい|permintaan maaf|nomina|心より謝罪します。|こころより しゃざい します。|Saya meminta maaf sepenuh hati.
+誤り|あやまり|kesalahan|nomina|記載に誤りがありました。|きさいに あやまりが ありました。|Ada kesalahan pada catatannya.
+手違い|てちがい|kekeliruan|nomina|手違いで部屋が違いました。|てちがいで へやが ちがいました。|Karena kekeliruan kamarnya berbeda.
+不備|ふび|kekurangan|nomina|設備に不備があります。|せつびに ふびが あります。|Ada kekurangan pada fasilitasnya.
+紛失|ふんしつ|kehilangan|nomina|鍵の紛失がありました。|かぎの ふんしつが ありました。|Ada kehilangan kunci.
+破損|はそん|kerusakan|nomina|備品が破損しました。|びひんが はそん しました。|Perlengkapannya rusak.
+不具合|ふぐあい|masalah teknis|nomina|不具合を直します。|ふぐあいを なおします。|Saya memperbaiki masalahnya.
+漏水|ろうすい|kebocoran air|nomina|漏水がありました。|ろうすいが ありました。|Ada kebocoran air.
+停電|ていでん|mati listrik|nomina|昨夜停電しました。|ゆうべ ていでん しました。|Semalam mati listrik.
+騒音|そうおん|kebisingan|nomina|騒音の苦情がありました。|そうおんの くじょうが ありました。|Ada keluhan kebisingan.
+注意事項|ちゅういじこう|hal yang perlu diperhatikan|nomina|注意事項を説明します。|ちゅういじこうを せつめい します。|Saya menjelaskan hal yang perlu diperhatikan.
+説明不足|せつめいぶそく|penjelasan kurang|nomina|説明不足でした。|せつめいぶそく でした。|Penjelasannya kurang.
+誤解|ごかい|salah paham|nomina|誤解がありました。|ごかいが ありました。|Terjadi salah paham.
+補償|ほしょう|kompensasi|nomina|補償をご案内します。|ほしょうを ごあんない します。|Kami sampaikan kompensasinya.
+交換品|こうかんひん|barang pengganti|nomina|交換品をお持ちします。|こうかんひんを おもち します。|Saya bawakan barang penggantinya.
+代案|だいあん|alternatif|nomina|代案をご用意しました。|だいあんを ごようい しました。|Kami siapkan alternatifnya.
+再発防止|さいはつぼうし|pencegahan terulang|nomina|再発防止を話し合います。|さいはつぼうしを はなしあいます。|Kami bahas pencegahan terulangnya.
+原因究明|げんいんきゅうめい|penelusuran penyebab|nomina|原因究明を進めます。|げんいんきゅうめいを すすめます。|Kami telusuri penyebabnya.
+報告義務|ほうこくぎむ|kewajiban melapor|nomina|報告義務があります。|ほうこくぎむが あります。|Ada kewajiban melapor.
+上司判断|じょうしはんだん|keputusan atasan|nomina|上司判断を仰ぎます。|じょうしはんだんを あおぎます。|Saya meminta keputusan atasan.
+迅速|じんそく|cepat tanggap|nomina|迅速に対応します。|じんそくに たいおう します。|Saya menangani dengan cepat.
+冷静|れいせい|tenang|nomina|冷静に話を聞きます。|れいせいに はなしを ききます。|Saya mendengar dengan tenang.
+誠意|せいい|itikad baik|nomina|誠意を持って対応します。|せいいを もって たいおう します。|Saya menangani dengan itikad baik.
+改善策|かいぜんさく|langkah perbaikan|nomina|改善策を考えます。|かいぜんさくを かんがえます。|Saya memikirkan langkah perbaikannya.
+記録簿|きろくぼ|buku catatan|nomina|記録簿に書きます。|きろくぼに かきます。|Saya menulis di buku catatan.
+申し出|もうしで|pengaduan / penawaran|nomina|お客様の申し出を受けます。|おきゃくさまの もうしでを うけます。|Saya menerima pengaduan tamu.
+承諾|しょうだく|persetujuan|nomina|承諾をいただきました。|しょうだくを いただきました。|Kami sudah mendapat persetujuan.
+拒否|きょひ|penolakan|nomina|拒否はできません。|きょひは できません。|Penolakan tidak bisa dilakukan.
+仲裁|ちゅうさい|penengahan|nomina|間に入って仲裁します。|あいだに はいって ちゅうさい します。|Saya menengahi di antaranya.
+手順書|てじゅんしょ|panduan prosedur|nomina|手順書を確認します。|てじゅんしょを かくにん します。|Saya memeriksa panduan prosedurnya.
+## 40|シフト・スタッフ
+勤務|きんむ|dinas / jam kerja|nomina|明日は勤務です。|あしたは きんむです。|Besok saya masuk kerja.
+出勤|しゅっきん|masuk kerja|nomina|八時に出勤します。|はちじに しゅっきん します。|Saya masuk kerja jam delapan.
+退勤|たいきん|pulang kerja|nomina|退勤は九時です。|たいきんは くじです。|Pulang kerjanya jam sembilan.
+早退|そうたい|pulang lebih awal|nomina|今日は早退します。|きょうは そうたい します。|Hari ini saya pulang lebih awal.
+欠勤|けっきん|tidak masuk kerja|nomina|欠勤の連絡をします。|けっきんの れんらくを します。|Saya memberi kabar tidak masuk.
+休暇|きゅうか|cuti|nomina|来週休暇を取ります。|らいしゅう きゅうかを とります。|Minggu depan saya ambil cuti.
+代休|だいきゅう|cuti pengganti|nomina|代休をもらいます。|だいきゅうを もらいます。|Saya mendapat cuti pengganti.
+交代|こうたい|pergantian shift|nomina|十時に交代します。|じゅうじに こうたい します。|Berganti shift jam sepuluh.
+早番|はやばん|shift pagi|nomina|明日は早番です。|あしたは はやばんです。|Besok shift pagi.
+遅番|おそばん|shift sore|nomina|今日は遅番です。|きょうは おそばんです。|Hari ini shift sore.
+夜勤|やきん|shift malam|nomina|夜勤は疲れます。|やきんは つかれます。|Shift malam melelahkan.
+申し送り|もうしおくり|serah terima tugas|nomina|申し送りをします。|もうしおくりを します。|Saya melakukan serah terima tugas.
+引継ぎ|ひきつぎ|alih tugas|nomina|引継ぎを書きます。|ひきつぎを かきます。|Saya menulis alih tugasnya.
+勤務表|きんむひょう|jadwal kerja|nomina|勤務表を確認します。|きんむひょうを かくにん します。|Saya memeriksa jadwal kerjanya.
+人員|じんいん|jumlah personel|nomina|人員が足りません。|じんいんが たりません。|Jumlah personelnya kurang.
+補充|ほじゅう|penambahan tenaga|nomina|人員を補充します。|じんいんを ほじゅう します。|Saya menambah personelnya.
+育成|いくせい|pengembangan SDM|nomina|新人を育成します。|しんじんを いくせい します。|Saya mengembangkan karyawan baru.
+指導|しどう|bimbingan|nomina|優しく指導します。|やさしく しどう します。|Saya membimbing dengan lembut.
+新人|しんじん|karyawan baru|nomina|新人が入りました。|しんじんが はいりました。|Ada karyawan baru masuk.
+先輩|せんぱい|senior|nomina|先輩に聞きます。|せんぱいに ききます。|Saya bertanya ke senior.
+後輩|こうはい|junior|nomina|後輩を助けます。|こうはいを たすけます。|Saya membantu junior.
+勤怠|きんたい|kehadiran kerja|nomina|勤怠を記録します。|きんたいを きろく します。|Saya mencatat kehadiran kerjanya.
+規律|きりつ|disiplin|nomina|規律を守ります。|きりつを まもります。|Saya menaati disiplinnya.
+連携|れんけい|kerja sama tim|nomina|連携が大切です。|れんけいが たいせつです。|Kerja sama tim itu penting.
+役割|やくわり|peran|nomina|役割を決めます。|やくわりを きめます。|Saya menentukan perannya.
+命令|めいれい|perintah|nomina|命令に従います。|めいれいに したがいます。|Saya mengikuti perintah.
+報連相|ほうれんそう|pelaporan & konsultasi|nomina|報連相を徹底します。|ほうれんそうを てってい します。|Saya pastikan pelaporan dan konsultasi.
+作業|さぎょう|pekerjaan operasional|nomina|作業を始めます。|さぎょうを はじめます。|Saya mulai pekerjaannya.
+分担|ぶんたん|pembagian tugas|nomina|仕事を分担します。|しごとを ぶんたん します。|Saya membagi tugasnya.
+統一|とういつ|penyeragaman|nomina|対応を統一します。|たいおうを とういつ します。|Saya menyeragamkan penanganannya.
+## 41|季節・行事
+年末年始|ねんまつねんし|akhir dan awal tahun|nomina|年末年始は忙しいです。|ねんまつねんしは いそがしいです。|Akhir tahun sibuk.
+梅雨|つゆ|musim hujan|nomina|梅雨は湿気が多いです。|つゆは しっけが おおいです。|Musim hujan lembap.
+猛暑|もうしょ|panas ekstrem|nomina|今年は猛暑でした。|ことしは もうしょ でした。|Tahun ini panas ekstrem.
+残暑|ざんしょ|panas sisa musim|nomina|残暑が続きます。|ざんしょが つづきます。|Panasnya masih berlanjut.
+初雪|はつゆき|salju pertama|nomina|初雪が降りました。|はつゆきが ふりました。|Salju pertama turun.
+大雪|おおゆき|salju lebat|nomina|大雪で電車が止まりました。|おおゆきで でんしゃが とまりました。|Karena salju lebat keretanya berhenti.
+除雪|じょせつ|penyingkiran salju|nomina|除雪をします。|じょせつを します。|Saya membersihkan saljunya.
+路面凍結|ろめんとうけつ|jalan membeku|nomina|路面凍結に注意してください。|ろめんとうけつに ちゅうい して ください。|Hati-hati jalan membeku.
+防寒|ぼうかん|pakaian hangat|nomina|防寒をしっかりします。|ぼうかんを しっかり します。|Saya pakai pakaian hangat.
+暖房器具|だんぼうきぐ|alat pemanas|nomina|暖房器具を確認します。|だんぼうきぐを かくにん します。|Saya memeriksa alat pemanasnya.
+観光シーズン|かんこうしーずん|musim wisata|nomina|観光シーズンが始まります。|かんこうしーずんが はじまります。|Musim wisata dimulai.
+繁忙期|はんぼうき|musim sibuk|nomina|繁忙期は残業が多いです。|はんぼうきは ざんぎょうが おおいです。|Musim sibuk lemburnya banyak.
+閑散期|かんさんき|musim sepi|nomina|閑散期は静かです。|かんさんきは しずかです。|Musim sepi tenang.
+連休|れんきゅう|libur berturut-turut|nomina|連休は予約が多いです。|れんきゅうは よやくが おおいです。|Saat libur panjang reservasinya banyak.
+宿泊需要|しゅくはくじゅよう|permintaan menginap|nomina|宿泊需要が増えました。|しゅくはくじゅようが ふえました。|Permintaan menginap naik.
+特別料金|とくべつりょうきん|tarif khusus|nomina|特別料金がかかります。|とくべつりょうきんが かかります。|Akan dikenakan tarif khusus.
+予約状況|よやくじょうきょう|status reservasi|nomina|予約状況を確認します。|よやくじょうきょうを かくにん します。|Saya memeriksa status reservasinya.
+飾り付け|かざりつけ|dekorasi|nomina|ロビーを飾り付けします。|ろびーを かざりつけ します。|Saya mendekorasi lobinya.
+生け花|いけばな|ikebana|nomina|生け花を飾ります。|いけばなを かざります。|Saya memajang ikebana.
+掛け軸|かけじく|gulungan hias|nomina|掛け軸を掛けます。|かけじくを かけます。|Saya memasang gulungan hiasnya.
+季節限定|きせつげんてい|terbatas musim|nomina|季節限定の料理です。|きせつげんていの りょうりです。|Hidangan terbatas musim.
+旬|しゅん|musim terbaik|nomina|魚が旬です。|さかなが しゅんです。|Ikannya sedang musim.
+献立表|こんだてひょう|daftar menu|nomina|献立表を作ります。|こんだてひょうを つくります。|Saya membuat daftar menunya.
+お品書き|おしながき|daftar hidangan|nomina|お品書きをお持ちします。|おしながきを おもち します。|Saya bawakan daftar hidangannya.
+会席|かいせき|hidangan kaiseki|nomina|会席料理をご用意します。|かいせきりょうりを ごようい します。|Kami siapkan hidangan kaiseki.
+御節|おせち|makanan tahun baru|nomina|御節を作ります。|おせちを つくります。|Saya membuat makanan tahun baru.
+鏡開き|かがみびらき|tradisi membuka kagami mochi|nomina|鏡開きを行います。|かがみびらきを おこないます。|Kami melaksanakan tradisi kagami mochi.
+桜|さくら|bunga sakura|nomina|桜が咲きました。|さくらが さきました。|Sakuranya berbunga.
+花火|はなび|kembang api|nomina|花火大会があります。|はなびたいかいが あります。|Ada festival kembang api.
+冬至|とうじ|titik balik musim dingin|nomina|冬至に柚子湯に入ります。|とうじに ゆずゆに はいります。|Saat titik balik musim dingin saya berendam yuzu.
+## 42|重要語③
+適切|てきせつ|tepat|na-adj|適切に判断します。|てきせつに はんだん します。|Saya menilai dengan tepat.
+円滑|えんかつ|lancar|na-adj|円滑に進みました。|えんかつに すすみました。|Berjalan dengan lancar.
+効率|こうりつ|efisiensi|nomina|効率を上げます。|こうりつを あげます。|Saya meningkatkan efisiensinya.
+優先順位|ゆうせんじゅんい|prioritas|nomina|優先順位を決めます。|ゆうせんじゅんいを きめます。|Saya menentukan prioritasnya.
+見直し|みなおし|peninjauan ulang|nomina|やり方を見直します。|やりかたを みなおし します。|Saya meninjau ulang caranya.
+改善|かいぜん|perbaikan|nomina|少しずつ改善します。|すこしずつ かいぜん します。|Saya memperbaiki sedikit demi sedikit.
+工夫|くふう|upaya kreatif|nomina|工夫が必要です。|くふうが ひつようです。|Perlu upaya kreatif.
+内省|ないせい|perenungan diri|nomina|自分の行動を内省します。|じぶんの こうどうを ないせい します。|Saya merenungkan perbuatan saya.
+自覚|じかく|kesadaran diri|nomina|自覚を持って働きます。|じかくを もって はたらきます。|Saya bekerja dengan kesadaran diri.
+意欲|いよく|semangat|nomina|意欲が高いです。|いよくが たかいです。|Semangatnya tinggi.
+達成|たっせい|pencapaian|nomina|目標を達成しました。|もくひょうを たっせい しました。|Targetnya tercapai.
+持続|じぞく|keberlanjutan|nomina|努力を持続します。|どりょくを じぞく します。|Saya menjaga usaha tetap berlanjut.
+習慣|しゅうかん|kebiasaan|nomina|毎朝の習慣です。|まいあさの しゅうかんです。|Ini kebiasaan setiap pagi.
+段取り|だんどり|persiapan alur kerja|nomina|段取りよく進めます。|だんどりよく すすめます。|Saya jalankan dengan alur yang siap.
+要領|ようりょう|kunci cara|nomina|要領がいいです。|ようりょうが いいです。|Dia tangkas mengerjakan.
+見通し|みとおし|perkiraan ke depan|nomina|先の見通しを立てます。|さきの みとおしを たてます。|Saya membuat perkiraan ke depan.
+余裕|よゆう|kelonggaran|nomina|時間に余裕があります。|じかんに よゆうが あります。|Ada kelonggaran waktu.
+負担|ふたん|beban|nomina|負担を減らします。|ふたんを へらします。|Saya mengurangi bebannya.
+辛抱|しんぼう|kesabaran|nomina|辛抱強く待ちます。|しんぼうづよく まちます。|Saya menunggu dengan sabar.
+励み|はげみ|dorongan semangat|nomina|お客様の言葉が励みです。|おきゃくさまの ことばが はげみです。|Kata tamu jadi penyemangat.
+助言|じょげん|nasihat|nomina|先輩の助言を聞きます。|せんぱいの じょげんを ききます。|Saya mendengar nasihat senior.
+見本|みほん|contoh barang|nomina|見本を見せます。|みほんを みせます。|Saya menunjukkan contohnya.
+手本|てほん|teladan|nomina|先輩を手本にします。|せんぱいを てほんに します。|Saya menjadikan senior teladan.
+準備|じゅんび|persiapan|nomina|開店の準備をします。|かいてんの じゅんびを します。|Saya menyiapkan sebelum buka.
+目安|めやす|patokan|nomina|十分が目安です。|じゅっぷんが めやすです。|Sepuluh menit jadi patokannya.
+要点|ようてん|poin penting|nomina|要点をまとめます。|ようてんを まとめます。|Saya merangkum poin pentingnya.
+詳細|しょうさい|rincian|nomina|詳細を確認します。|しょうさいを かくにん します。|Saya memeriksa rinciannya.
+具体例|ぐたいれい|contoh konkret|nomina|具体例を挙げます。|ぐたいれいを あげます。|Saya memberi contoh konkret.
+実践|じっせん|praktik nyata|nomina|学んだことを実践します。|まなんだ ことを じっせん します。|Saya mempraktikkan yang dipelajari.
+振り返り|ふりかえり|refleksi|nomina|一日の振り返りをします。|いちにちの ふりかえりを します。|Saya merefleksikan hari ini.

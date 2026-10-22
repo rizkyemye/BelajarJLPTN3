@@ -1,0 +1,41 @@
+# Bunpou N3 — batch 3 (71–110)
+として|sebagai|N ＋ として|Menunjukkan peran atau status.|彼は先生として働いています。|かれは せんせい として はたらいて います。|Dia bekerja sebagai guru.
+に比べて|dibandingkan|N ＋ に比べて|Membandingkan dua hal.|去年に比べて寒いです。|きょねん に くらべて さむいです。|Dibanding tahun lalu, lebih dingin.
+に代わって|menggantikan|N ＋ に代わって|Bertindak sebagai pengganti.|私が部長に代わって説明します。|わたしが ぶちょう に かわって せつめい します。|Saya menggantikan kepala bagian menjelaskan.
+を通じて|melalui|N ＋ を通じて|Lewat perantara atau media.|友人を通じて知り合いました。|ゆうじんを つうじて しりあいました。|Kami berkenalan lewat teman.
+に限る|paling baik|N／V-辞書形 ＋ に限る|Menyatakan pilihan terbaik.|夏はビールに限ります。|なつは びーる に かぎります。|Kalau musim panas, bir paling enak.
+に限って|khusus|N ＋ に限って|Hanya pada kasus tertentu, sering bernada heran.|うちの子に限って嘘はつきません。|うちの こ に かぎって うそは つきません。|Anak saya khususnya tidak akan berbohong.
+に違いない|pasti|Bentuk biasa ＋ に違いない|Keyakinan yang kuat.|彼は犯人に違いありません。|かれは はんにん に ちがいありません。|Dia pasti pelakunya.
+に決まっている|sudah pasti|Bentuk biasa ＋ に決まっている|Kepastian yang dianggap jelas.|そんなの無理に決まっています。|そんなの むり に きまって います。|Begitu jelas tidak mungkin.
+とは限らない|belum tentu|Bentuk biasa ＋ とは限らない|Menyangkal anggapan umum.|高い物がいいとは限りません。|たかい もの が いい とは かぎりません。|Barang mahal belum tentu bagus.
+というより|lebih tepatnya|Bentuk biasa ＋ というより|Membetulkan cara menyebut.|嫌いというより、苦手なんです。|きらい というより、にがて なんです。|Bukan benci, lebih tepatnya tidak mahir.
+というのは|adalah bahwa|Bentuk biasa ＋ というのは|Menjelaskan makna sesuatu.|敬語というのは、難しいです。|けいご というのは、むずかしいです。|Bahasa sopan itu memang sulit.
+ということだ|artinya / katanya|Bentuk biasa ＋ ということだ|Menyimpulkan atau meneruskan kabar.|休みは明日だということです。|やすみは あした だ ということです。|Katanya liburnya besok.
+ように見える|kelihatan seperti|Bentuk biasa ＋ ように見える|Tampilan dari luar.|彼は元気なように見えます。|かれは げんきな ように みえます。|Dia kelihatan sehat.
+かのようだ|seakan-akan|Bentuk biasa ＋ かのようだ|Perumpamaan yang dilebih-lebihkan.|冬が来たかのように寒いです。|ふゆが きた かのように さむいです。|Dinginnya seakan-akan musim dingin tiba.
+ふりをする|berpura-pura|V-た／N＋の ＋ ふりをする|Berbuat seolah tidak tahu atau tidak merasa.|知らないふりをしました。|しらない ふりを しました。|Saya berpura-pura tidak tahu.
+まま|dibiarkan begitu|V-た／V-ない ＋ まま|Keadaan yang tidak berubah.|窓を開けたまま寝ました。|まどを あけた まま ねました。|Saya tidur dengan jendela tetap terbuka.
+っぱなし|dibiarkan terus|V-ます(basis) ＋ っぱなし|Dibiarkan tanpa dirapikan, sedikit negatif.|水を出しっぱなしにしないでください。|みずを だしっぱなし に しないで ください。|Jangan biarkan air mengalir terus.
+ながらも|meskipun|V-ます(basis)／A-い ＋ ながらも|Pertentangan yang halus.|狭いながらも快適な部屋です。|せまい ながらも かいてきな へやです。|Meskipun sempit, kamarnya nyaman.
+つつある|sedang berlangsung|V-ます(basis) ＋ つつある|Perubahan yang sedang berlangsung.|日本語が上手になりつつあります。|にほんごが じょうずに なりつつ あります。|Bahasa Jepang saya sedang makin baik.
+一方だ|terus semakin|V-辞書形 ＋ 一方だ|Perubahan yang bergerak satu arah terus.|物価は上がる一方です。|ぶっかは あがる いっぽうです。|Harga terus naik.
+わけにはいかない|tidak boleh (karena tanggung jawab)|V-辞書形 ＋ わけにはいかない|Tidak bisa dilakukan karena alasan sosial atau moral.|明日は試験だから休むわけにはいかない。|あしたは しけん だから やすむ わけには いかない。|Besok ujian, jadi tidak bisa libur.
+ようがない|tidak ada cara|V-ます(basis) ＋ ようがない|Tidak mungkin karena tidak ada caranya.|名前が分からないので連絡しようがない。|なまえが わからないので れんらく しようが ない。|Karena tidak tahu namanya, tidak ada cara menghubungi.
+かねる|sulit untuk|V-ます(basis) ＋ かねる|Menolak dengan cara sopan.|その件はお答えしかねます。|その けんは おこたえ しかねます。|Soal itu sulit saya jawab.
+かねない|mungkin (buruk)|V-ます(basis) ＋ かねない|Kemungkinan hasil buruk.|そんなに働いたら倒れかねません。|そんなに はたらいたら たおれ かねません。|Kalau kerja begitu, bisa jadi dia pingsan.
+きる|selesai sepenuhnya|V-ます(basis) ＋ きる|Melakukan sampai habis atau tuntas.|全部食べきりました。|ぜんぶ たべきりました。|Saya habiskan semuanya.
+きれない|tidak bisa habis|V-ます(basis) ＋ きれない|Tidak sanggup menyelesaikan.|こんなに多くは食べきれません。|こんなに おおくは たべきれません。|Sebanyak ini tidak bisa kuhabiskan.
+がち|cenderung|V-ます(basis)／N ＋ がち|Sering terjadi, biasanya bernada negatif.|冬は風邪を引きがちです。|ふゆは かぜを ひきがちです。|Musim dingin cenderung masuk angin.
+気味|agak / sedikit|V-ます(basis)／N ＋ ぎみ|Sedikit menunjukkan gejala.|疲れ気味です。|つかれ ぎみです。|Saya agak kelelahan.
+っぽい|mirip / mudah|N／V-ます(basis) ＋ っぽい|Berkesan seperti sesuatu, atau mudah terjadi.|彼は子どもっぽいです。|かれは こどもっぽいです。|Dia kekanak-kanakan.
+だらけ|penuh|N ＋ だらけ|Penuh dengan sesuatu, biasanya negatif.|部屋がほこりだらけです。|へやが ほこり だらけです。|Kamarnya penuh debu.
+まみれ|berlumur|N ＋ まみれ|Berlumur sesuatu berupa cairan atau kotoran.|汗まみれになりました。|あせ まみれに なりました。|Saya jadi berlumuran keringat.
+ずつ|masing-masing|N ＋ ずつ|Jumlah yang dibagi rata.|一人ずつ配ってください。|ひとり ずつ くばって ください。|Tolong bagikan satu per orang.
+おきに|setiap selang|N ＋ おきに|Interval waktu atau jarak tertentu.|一時間おきに電車が来ます。|いちじかん おきに でんしゃが きます。|Kereta datang setiap satu jam.
+ぶりに|setelah sekian lama|N ＋ ぶりに|Setelah jeda yang lama.|3年ぶりに日本へ行きました。|さんねん ぶりに にほんへ いきました。|Saya ke Jepang setelah tiga tahun.
+うちは|selama masih|V-ている／A-い ＋ うちは|Selama keadaan itu masih berlangsung.|若いうちは無理ができます。|わかい うちは むりが できます。|Selama masih muda, bisa memaksakan diri.
+間は|selama|N＋の／V-ている ＋ 間は|Selama periode tertentu.|日本にいる間は日本語で話します。|にほんに いる あいだは にほんごで はなします。|Selama di Jepang, saya bicara bahasa Jepang.
+たとたん|begitu|V-た ＋ とたん|Peristiwa mendadak tepat setelahnya.|ドアを開けたとたん、音が止まった。|どあを あけた とたん、おとが とまった。|Begitu pintu dibuka, suaranya berhenti.
+次第|segera setelah|V-ます(basis) ＋ 次第|Setelah itu langsung dilakukan.|着き次第連絡します。|つき しだい れんらく します。|Begitu tiba, saya hubungi.
+次第だ|tergantung|N ＋ 次第だ|Bergantung sepenuhnya pada sesuatu.|成功するかは努力次第です。|せいこう するかは どりょく しだいです。|Berhasil atau tidak tergantung usaha.
+上で|setelah / dalam hal|V-た／N＋の ＋ 上で|Setelah melakukan sesuatu lebih dulu.|よく考えた上で決めます。|よく かんがえた うえで きめます。|Saya putuskan setelah mempertimbangkan.

@@ -1,0 +1,42 @@
+# Bunpou N3 — batch 2 (31–70)
+# pola|arti|rumus|penjelasan|contoh_jp|contoh_furi|contoh_id
+てばかりいる|terus-menerus melakukan|V-て ＋ ばかりいる|Menyatakan kebiasaan yang berulang terus, biasanya bernada mengeluh.|彼は遊んでばかりいる。|かれは あそんで ばかりいる。|Dia terus-menerus main.
+てほしい|ingin orang lain melakukan|V-て ＋ ほしい|Mengharapkan orang lain melakukan sesuatu untuk kita.|早く返事をしてほしいです。|はやく へんじを して ほしいです。|Saya ingin kamu cepat membalas.
+てもらう|menerima jasa|V-て ＋ もらう|Menerima bantuan atau jasa dari orang lain.|友達に日本語を教えてもらいました。|ともだちに にほんごを おしえて もらいました。|Saya dibantu teman belajar bahasa Jepang.
+てくれる|diberi jasa|V-て ＋ くれる|Orang lain melakukan sesuatu untuk kita; fokus pada rasa terima kasih.|母が弁当を作ってくれました。|ははが べんとうを つくって くれました。|Ibu membuatkan bekal untuk saya.
+てあげる|memberi jasa|V-て ＋ あげる|Kita melakukan sesuatu untuk orang lain.|弟に宿題を教えてあげました。|おとうとに しゅくだいを おしえて あげました。|Saya mengajari PR adik.
+ていただく|menerima jasa (sopan)|V-て ＋ いただく|Versi sopan てもらう, untuk atasan atau tamu.|部長に説明していただきました。|ぶちょうに せつめいして いただきました。|Saya dijelaskan oleh kepala bagian.
+てくださる|memberi jasa (sopan)|V-て ＋ くださる|Versi sopan てくれる.|先生が直してくださいました。|せんせいが なおして くださいました。|Guru memperbaikinya untuk saya.
+させられる|dipaksa melakukan|V-させる ＋ 受身|Bentuk kausatif-pasif: melakukan karena terpaksa.|毎日残業させられています。|まいにち ざんぎょう させられて います。|Saya dipaksa lembur setiap hari.
+させる|menyuruh / membiarkan|V-させる|Menyuruh atau membiarkan orang lain melakukan.|子どもを外で遊ばせます。|こどもを そとで あそばせます。|Saya membiarkan anak bermain di luar.
+てもらえないか|boleh minta tolong…?|V-て ＋ もらえないか|Permintaan sopan yang tidak memaksa.|この書類を確認してもらえませんか。|この しょるいを かくにんして もらえませんか。|Boleh minta tolong cek dokumen ini?
+お〜ください|mohon melakukan|お ＋ V-ます(basis) ＋ ください|Permintaan sopan untuk tindakan orang lain.|こちらにお掛けください。|こちらに おかけ ください。|Silakan duduk di sini.
+ご〜ください|mohon melakukan|ご ＋ N ＋ ください|Sama seperti お〜ください, untuk kata berawalan ご.|ご利用ください。|ごりよう ください。|Silakan digunakan.
+なさい|perintah halus|V-ます(basis) ＋ なさい|Perintah lembut, biasanya dari orang tua atau guru.|早く寝なさい。|はやく ねなさい。|Cepat tidur.
+な|jangan|V-辞書形 ＋ な|Larangan tegas dengan nada kasar.|触るな。|さわるな。|Jangan sentuh.
+てはいけない|tidak boleh|V-て ＋ はいけない|Larangan berdasarkan aturan.|ここで写真を撮ってはいけません。|ここで しゃしんを とっては いけません。|Tidak boleh memotret di sini.
+なくてもいい|tidak perlu|V-ない(basis) ＋ くてもいい|Menyatakan sesuatu tidak wajib.|明日は来なくてもいいです。|あしたは こなくても いいです。|Besok tidak perlu datang.
+なければならない|harus|V-ない(basis) ＋ ければならない|Kewajiban karena aturan atau keadaan.|毎日薬を飲まなければなりません。|まいにち くすりを のまなければ なりません。|Saya harus minum obat setiap hari.
+なくてはならない|harus|V-ない(basis) ＋ くてはならない|Sama dengan なければならない, sedikit lebih formal.|明日までに報告しなくてはなりません。|あしたまでに ほうこく しなくては なりません。|Saya harus melapor sebelum besok.
+ざるを得ない|terpaksa|V-ない(basis) ＋ ざるを得ない|Tidak ada pilihan lain selain melakukan.|バスがないので歩かざるを得ません。|ばすが ないので あるかざるを えません。|Karena tidak ada bus, saya terpaksa jalan.
+しか〜ない|hanya|N／V ＋ しか ＋ ない|Hanya itu saja, menekankan keterbatasan.|水しかありません。|みず しか ありません。|Hanya ada air.
+ばかりか|bukan hanya|Bentuk biasa ＋ ばかりか|Menambahkan hal lain yang lebih mengejutkan.|彼は英語ばかりか、中国語も話せます。|かれは えいご ばかりか、ちゅうごくごも はなせます。|Dia bukan hanya Inggris, Mandarin juga bisa.
+だけでなく|tidak hanya|Bentuk biasa ＋ だけでなく|Menambahkan hal lain sederajat.|肉だけでなく、魚も食べます。|にく だけでなく、さかなも たべます。|Bukan hanya daging, ikan juga saya makan.
+ほど|sejauh / sedemikian|N ＋ ほど|Menyatakan tingkat atau perkiraan.|泣きたいほど嬉しいです。|なきたい ほど うれしいです。|Senang sampai ingin menangis.
+くらい|kira-kira / sampai|N ／ bentuk biasa ＋ くらい|Perkiraan jumlah atau tingkat ringan.|十分くらい待ってください。|じゅっぷん くらい まって ください。|Tolong tunggu sekitar sepuluh menit.
+ばかり|baru saja|V-た ＋ ばかり|Baru saja terjadi.|今帰ったばかりです。|いま かえった ばかりです。|Saya baru saja pulang.
+ところだ|baru akan / sedang|V-辞書形／V-ている ＋ ところだ|Menunjukkan tahap tindakan.|今出かけるところです。|いま でかける ところです。|Saya baru akan berangkat.
+ところだった|hampir saja|V-辞書形 ＋ ところだった|Hampir terjadi, tetapi tidak jadi.|もう少しで転ぶところでした。|もう すこしで ころぶ ところでした。|Tadi hampir saja jatuh.
+つもりだ|berniat|V-辞書形 ＋ つもりだ|Menyatakan rencana pribadi.|来年日本へ行くつもりです。|らいねん にほんへ いく つもりです。|Saya berniat ke Jepang tahun depan.
+ようと思う|berpikir untuk|V-よう ＋ と思う|Niat yang masih dipertimbangkan.|早く寝ようと思います。|はやく ねようと おもいます。|Saya pikir mau tidur cepat.
+べきだ|sepatutnya|V-辞書形 ＋ べきだ|Kewajiban moral, bukan aturan tertulis.|約束は守るべきです。|やくそくは まもる べきです。|Janji sepatutnya ditepati.
+べきではない|tidak sepatutnya|V-辞書形 ＋ べきではない|Larangan moral.|人の悪口を言うべきではない。|ひと の わるぐちを いう べきでは ない。|Tidak sepatutnya membicarakan keburukan orang.
+ことだ|sebaiknya|V-辞書形／V-ない ＋ ことだ|Saran atau nasihat.|早く病院へ行くことです。|はやく びょういんへ いく ことです。|Sebaiknya cepat ke rumah sakit.
+ものだ|memang begitulah|Bentuk biasa ＋ ものだ|Menyatakan hal yang wajar atau umum.|年を取ると忘れやすくなるものです。|としを とると わすれやすく なるものです。|Kalau bertambah tua memang mudah lupa.
+ものだから|karena|Bentuk biasa ＋ ものだから|Alasan yang dibawa sebagai pembelaan.|雨が降ったものだから、遅れました。|あめが ふった ものだから、おくれました。|Karena hujan, saya terlambat.
+おかげで|berkat|N＋の／V-た ＋ おかげで|Hasil baik karena sesuatu.|先生のおかげで合格しました。|せんせいの おかげで ごうかく しました。|Berkat guru saya lulus.
+せいで|gara-gara|N＋の／V-た ＋ せいで|Hasil buruk karena sesuatu.|寝坊したせいで遅刻しました。|ねぼうした せいで ちこく しました。|Gara-gara kesiangan saya terlambat.
+について|tentang|N ＋ について|Membahas topik.|日本の文化について話しました。|にほんの ぶんか について はなしました。|Kami bicara tentang budaya Jepang.
+に対して|terhadap|N ＋ に対して|Sikap atau tindakan yang ditujukan kepada pihak lain.|お客様に対して丁寧に話します。|おきゃくさま に たいして ていねいに はなします。|Saya bicara sopan terhadap tamu.
+にとって|bagi|N ＋ にとって|Dari sudut pandang pihak tertentu.|私にとって家族が一番大切です。|わたしに とって かぞくが いちばん たいせつです。|Bagi saya keluarga paling penting.
+によって|oleh / tergantung|N ＋ によって|Pelaku dalam kalimat pasif, atau sebab perbedaan.|この絵は彼によって描かれました。|この えは かれに よって かかれました。|Lukisan ini dibuat oleh dia.

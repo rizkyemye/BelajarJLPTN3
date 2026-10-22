@@ -1,0 +1,32 @@
+# Bunpou N3 — pola dasar (batch 1: 30 pola)
+# format: pola|arti|bentuk|contoh_jp|contoh_furi|contoh_id
+ながら|sambil melakukan|V-ます（ます dihapus）＋ ながら|音楽を聞きながら勉強します。|おんがくを ききながら べんきょうします。|Saya belajar sambil mendengarkan musik.
+たことがある|pernah melakukan|V-た ＋ ことがある|京都へ行ったことがあります。|きょうとへ いったことが あります。|Saya pernah pergi ke Kyoto.
+てしまう|terlanjur / selesai sepenuhnya|V-て ＋ しまう|ケーキを全部食べてしまいました。|けーきを ぜんぶ たべて しまいました。|Kuenya terlanjur kumakan semua.
+ておく|melakukan dulu untuk persiapan|V-て ＋ おく|会議の前に資料を準備しておきます。|かいぎの まえに しりょうを じゅんびして おきます。|Saya siapkan dokumennya dulu sebelum rapat.
+てみる|coba melakukan|V-て ＋ みる|この料理を食べてみてください。|この りょうりを たべて みて ください。|Coba makan masakan ini.
+てある|sudah dalam keadaan (hasil tindakan)|V-て ＋ ある|窓が開けてあります。|まどが あけて あります。|Jendelanya sudah dibuka (dan tetap terbuka).
+そうだ|kelihatannya (dari penglihatan)|V-ます(basis)／A-い／A-な ＋ そうだ|この店の料理はおいしそうです。|この みせの りょうりは おいしそうです。|Masakan toko ini kelihatan enak.
+らしい|tampaknya / katanya|Kata benda／bentuk biasa ＋ らしい|明日は雨らしいです。|あしたは あめ らしいです。|Katanya besok hujan.
+みたいだ|seperti / mirip|Kata benda／bentuk biasa ＋ みたいだ|彼は子どものみたいです。|かれは こどもの みたいです。|Dia seperti anak kecil.
+ようだ|sepertinya (dugaan halus)|Bentuk biasa ＋ ようだ|誰か来たようです。|だれか きた ようです。|Sepertinya ada yang datang.
+かもしれない|mungkin|Bentuk biasa ＋ かもしれない|少し遅れるかもしれません。|すこし おくれる かもしれません。|Mungkin saya agak terlambat.
+はずだ|seharusnya / semestinya|Bentuk biasa ＋ はずだ|彼はもう着いているはずです。|かれは もう ついている はずです。|Dia seharusnya sudah sampai.
+わけだ|wajar saja / berarti|Bentuk biasa ＋ わけだ|エアコンが壊れた。暑いわけだ。|えあこんが こわれた。あつい わけだ。|AC-nya rusak. Wajar saja panas.
+わけではない|bukan berarti|Bentuk biasa ＋ わけではない|嫌いなわけではありません。|きらいな わけでは ありません。|Bukan berarti saya tidak suka.
+ことにする|memutuskan (kemauan sendiri)|V-辞書形 ＋ ことにする|来月から早起きすることにしました。|らいげつから はやおきする ことに しました。|Saya memutuskan bangun pagi mulai bulan depan.
+ことになる|menjadi / diputuskan (oleh keadaan)|V-辞書形 ＋ ことになる|来年、大阪へ転勤することになりました。|らいねん、おおさかへ てんきんする ことに なりました。|Tahun depan saya dipindahkan ke Osaka.
+ようにする|berusaha agar|V-辞書形／V-ない ＋ ようにする|毎日野菜を食べるようにしています。|まいにち やさいを たべる ように しています。|Saya berusaha makan sayur setiap hari.
+ようになる|menjadi bisa / mulai|V-辞書形 ＋ ようになる|日本語が話せるようになりました。|にほんごが はなせる ように なりました。|Saya jadi bisa berbicara bahasa Jepang.
+ために|untuk / demi|V-辞書形／N＋の ＋ ために|家族のために働いています。|かぞくの ために はたらいて います。|Saya bekerja demi keluarga.
+ように|agar / supaya|V-辞書形／V-ない ＋ ように|忘れないように書いてください。|わすれない ように かいて ください。|Tolong tulis supaya tidak lupa.
+のに|padahal|Bentuk biasa ＋ のに|一生懸命勉強したのに、不合格でした。|いっしょうけんめい べんきょうした のに、ふごうかく でした。|Padahal sudah belajar keras, tetap tidak lulus.
+ても|walaupun|V-て ＋ も|雨が降っても行きます。|あめが ふっても いきます。|Walaupun hujan, saya tetap pergi.
+ば|kalau (syarat)|V-ば形|時間があれば、手伝います。|じかんが あれば、てつだいます。|Kalau ada waktu, saya bantu.
+たら|kalau / setelah|V-たら|家に着いたら電話してください。|いえに ついたら でんわして ください。|Kalau sudah sampai rumah, tolong telepon.
+なら|kalau soal|N ＋ なら|日本なら、どこへ行きたいですか。|にほんなら、どこへ いきたいですか。|Kalau soal Jepang, mau pergi ke mana?
+と|kalau (pasti terjadi)|V-辞書形 ＋ と|このボタンを押すと、ドアが開きます。|この ぼたんを おすと、どあが あきます。|Kalau tombol ini ditekan, pintunya terbuka.
+うちに|selagi / sebelum berubah|V-ている／A-い ＋ うちに|温かいうちに食べてください。|あたたかい うちに たべて ください。|Makanlah selagi masih hangat.
+あいだ|selama / sementara|V-ている／N＋の ＋ あいだ|休みのあいだ、ずっと寝ていました。|やすみの あいだ、ずっと ねて いました。|Selama libur, saya terus tidur.
+たびに|setiap kali|V-辞書形／N＋の ＋ たびに|旅行のたびに写真を撮ります。|りょこうの たびに しゃしんを とります。|Setiap kali bepergian, saya memotret.
+し|dan juga (menyebut alasan)|Bentuk biasa ＋ し|この店は安いし、おいしいです。|この みせは やすいし、おいしいです。|Toko ini murah, dan juga enak.

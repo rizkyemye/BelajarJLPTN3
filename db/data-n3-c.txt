@@ -1,0 +1,134 @@
+## 12|時間・予定
+時間|じかん|waktu|nomina|時間がありません。|じかんが ありません。|Saya tidak punya waktu.
+予定|よてい|rencana|nomina|週末の予定はありますか。|しゅうまつの よていは ありますか。|Akhir pekan ada rencana?
+予約|よやく|reservasi|nomina|席を予約します。|せきを よやくします。|Saya memesan tempat.
+今日|きょう|hari ini|nomina|今日は休みです。|きょうは やすみです。|Hari ini libur.
+明日|あした|besok|nomina|明日会いましょう。|あした あいましょう。|Ayo bertemu besok.
+昨日|きのう|kemarin|nomina|昨日は雨でした。|きのうは あめでした。|Kemarin hujan.
+今週|こんしゅう|minggu ini|nomina|今週は忙しいです。|こんしゅうは いそがしいです。|Minggu ini sibuk.
+来月|らいげつ|bulan depan|nomina|来月旅行します。|らいげつ りょこうします。|Bulan depan saya pergi.
+去年|きょねん|tahun lalu|nomina|去年日本へ来ました。|きょねん にほんへ きました。|Tahun lalu saya datang ke Jepang.
+最近|さいきん|akhir-akhir ini|nomina|最近寒いです。|さいきん さむいです。|Akhir-akhir ini dingin.
+将来|しょうらい|masa depan|nomina|将来は日本で働きたいです。|しょうらいは にほんで はたらきたいです。|Nanti saya ingin kerja di Jepang.
+途中|とちゅう|di tengah jalan|nomina|途中で休みます。|とちゅうで やすみます。|Saya istirahat di tengah jalan.
+期間|きかん|periode|nomina|期間は二週間です。|きかんは にしゅうかんです。|Periodenya dua minggu.
+期限|きげん|batas waktu|nomina|期限は明日です。|きげんは あしたです。|Batas waktunya besok.
+早い|はやい|cepat / awal|adjektiva-i|今日は早いですね。|きょうは はやいですね。|Hari ini cepat ya.
+遅い|おそい|lambat|adjektiva-i|バスが遅いです。|バスが おそいです。|Busnya lambat.
+急に|きゅうに|tiba-tiba|adverbia|急に雨が降りました。|きゅうに あめが ふりました。|Tiba-tiba hujan turun.
+ずっと|ずっと|terus-menerus|adverbia|ずっと待っています。|ずっと まっています。|Saya menunggu terus.
+もうすぐ|もうすぐ|sebentar lagi|adverbia|もうすぐ春です。|もうすぐ はるです。|Sebentar lagi musim semi.
+しばらく|しばらく|sementara|adverbia|しばらく休みます。|しばらく やすみます。|Saya istirahat sebentar.
+まず|まず|pertama-tama|adverbia|まず手を洗います。|まず てを あらいます。|Pertama, cuci tangan.
+つぎに|つぎに|selanjutnya|adverbia|つぎに野菜を切ります。|つぎに やさいを きります。|Selanjutnya memotong sayur.
+最後に|さいごに|terakhir|adverbia|最後に塩を入れます。|さいごに しおを いれます。|Terakhir, masukkan garam.
+毎週|まいしゅう|tiap minggu|nomina|毎週映画を見ます。|まいしゅう えいがを みます。|Tiap minggu saya menonton film.
+一日中|いちにちじゅう|sepanjang hari|nomina|一日中働きました。|いちにちじゅう はたらきました。|Saya bekerja sepanjang hari.
+
+## 13|機械・通信
+携帯|けいたい|ponsel|nomina|携帯を忘れました。|けいたいを わすれました。|Saya lupa ponsel.
+メール|メール|surel|nomina|メールを送ります。|メールを おくります。|Saya mengirim surel.
+機械|きかい|mesin|nomina|機械が壊れました。|きかいが こわれました。|Mesinnya rusak.
+道具|どうぐ|alat|nomina|道具を借ります。|どうぐを かります。|Saya meminjam alat.
+部品|ぶひん|suku cadang|nomina|部品が足りません。|ぶひんが たりません。|Suku cadangnya kurang.
+画面|がめん|layar|nomina|画面が小さいです。|がめんが ちいさいです。|Layarnya kecil.
+電源|でんげん|sumber listrik|nomina|電源を入れます。|でんげんを いれます。|Saya menyalakan listrik.
+充電|じゅうでん|mengisi daya|nomina|充電がありません。|じゅうでんが ありません。|Baterainya habis.
+壊れる|こわれる|rusak|verba|時計が壊れました。|とけいが こわれました。|Jamnya rusak.
+直す|なおす|memperbaiki|verba|自転車を直します。|じてんしゃを なおします。|Saya memperbaiki sepeda.
+使う|つかう|menggunakan|verba|この道具を使います。|この どうぐを つかいます。|Saya memakai alat ini.
+動く|うごく|bergerak / berfungsi|verba|エアコンが動きません。|エアコンが うごきません。|AC-nya tidak menyala.
+音|おと|bunyi|nomina|音が大きいです。|おとが おおきいです。|Bunyinya besar.
+写真|しゃしん|foto|nomina|写真を撮ります。|しゃしんを とります。|Saya mengambil foto.
+映像|えいぞう|gambar bergerak|nomina|映像がきれいです。|えいぞうが きれいです。|Gambarnya bagus.
+情報|じょうほう|informasi|nomina|情報を集めます。|じょうほうを あつめます。|Saya mengumpulkan informasi.
+返事|へんじ|balasan|nomina|返事がありません。|へんじが ありません。|Tidak ada balasan.
+送る|おくる|mengirim|verba|荷物を送ります。|にもつを おくります。|Saya mengirim paket.
+届く|とどく|tiba / terkirim|verba|荷物が届きました。|にもつが とどきました。|Paketnya sudah sampai.
+受ける|うける|menerima / mengikuti|verba|試験を受けます。|しけんを うけます。|Saya ikut ujian.
+検索|けんさく|pencarian|nomina|ネットで検索します。|ネットで けんさくします。|Saya mencari di internet.
+登録|とうろく|pendaftaran|nomina|登録が必要です。|とうろくが ひつようです。|Perlu mendaftar.
+設定|せってい|pengaturan|nomina|設定を変えます。|せっていを かえます。|Saya mengubah pengaturan.
+便利|べんり|praktis|adjektiva-na|とても便利です。|とても べんりです。|Sangat praktis.
+苦手|にがて|kurang bisa|adjektiva-na|機械は苦手です。|きかいは にがてです。|Saya kurang bisa soal mesin.
+
+## 14|趣味・スポーツ
+趣味|しゅみ|hobi|nomina|趣味は読書です。|しゅみは どくしょです。|Hobi saya membaca.
+音楽|おんがく|musik|nomina|音楽を聞きます。|おんがくを ききます。|Saya mendengarkan musik.
+映画|えいが|film|nomina|映画を見ます。|えいがを みます。|Saya menonton film.
+読書|どくしょ|membaca buku|nomina|読書が好きです。|どくしょが すきです。|Saya suka membaca.
+絵|え|gambar|nomina|絵を描きます。|えを かきます。|Saya menggambar.
+歌|うた|lagu|nomina|歌を歌います。|うたを うたいます。|Saya menyanyikan lagu.
+楽器|がっき|alat musik|nomina|楽器ができます。|がっきが できます。|Saya bisa main alat musik.
+試合|しあい|pertandingan|nomina|試合を見ます。|しあいを みます。|Saya menonton pertandingan.
+選手|せんしゅ|pemain|nomina|選手が走ります。|せんしゅが はしります。|Pemainnya berlari.
+勝つ|かつ|menang|verba|試合に勝ちました。|しあいに かちました。|Kami menang.
+負ける|まける|kalah|verba|試合に負けました。|しあいに まけました。|Kami kalah.
+泳ぐ|およぐ|berenang|verba|海で泳ぎます。|うみで およぎます。|Saya berenang di laut.
+走る|はしる|berlari|verba|毎朝走ります。|まいあさ はしります。|Saya lari tiap pagi.
+歩く|あるく|berjalan|verba|駅まで歩きます。|えきまで あるきます。|Saya berjalan ke stasiun.
+投げる|なげる|melempar|verba|ボールを投げます。|ボールを なげます。|Saya melempar bola.
+蹴る|ける|menendang|verba|ボールを蹴ります。|ボールを けります。|Saya menendang bola.
+遊ぶ|あそぶ|bermain|verba|公園で遊びます。|こうえんで あそびます。|Saya bermain di taman.
+集める|あつめる|mengumpulkan|verba|切手を集めます。|きってを あつめます。|Saya mengumpulkan perangko.
+続ける|つづける|melanjutkan|verba|勉強を続けます。|べんきょうを つづけます。|Saya melanjutkan belajar.
+夢|ゆめ|mimpi|nomina|夢があります。|ゆめが あります。|Saya punya mimpi.
+目標|もくひょう|target|nomina|目標を決めます。|もくひょうを きめます。|Saya menetapkan target.
+大会|たいかい|turnamen|nomina|大会に出ます。|たいかいに でます。|Saya ikut turnamen.
+観戦|かんせん|menonton pertandingan|nomina|試合を観戦します。|しあいを かんせんします。|Saya menonton pertandingan.
+上手|じょうず|pandai|adjektiva-na|歌が上手です。|うたが じょうずです。|Dia pandai bernyanyi.
+下手|へた|tidak pandai|adjektiva-na|絵が下手です。|えが へたです。|Saya tidak pandai menggambar.
+
+## 15|旅行・宿
+旅行|りょこう|perjalanan|nomina|旅行が好きです。|りょこうが すきです。|Saya suka bepergian.
+観光|かんこう|wisata|nomina|京都を観光します。|きょうとを かんこうします。|Saya berwisata di Kyoto.
+案内|あんない|memandu|nomina|町を案内します。|まちを あんないします。|Saya memandu keliling kota.
+地図|ちず|peta|nomina|地図を見ます。|ちずを みます。|Saya melihat peta.
+荷物|にもつ|barang bawaan|nomina|荷物が重いです。|にもつが おもいです。|Barangnya berat.
+スーツケース|スーツケース|koper|nomina|スーツケースを持ちます。|スーツケースを もちます。|Saya membawa koper.
+パスポート|パスポート|paspor|nomina|パスポートを見せてください。|パスポートを みせてください。|Tolong tunjukkan paspor.
+ホテル|ホテル|hotel|nomina|ホテルに泊まります。|ホテルに とまります。|Saya menginap di hotel.
+泊まる|とまる|menginap|verba|温泉に泊まります。|おんせんに とまります。|Saya menginap di onsen.
+チェックイン|チェックイン|check-in|nomina|三時にチェックインします。|さんじに チェックインします。|Saya check-in jam tiga.
+土産|みやげ|oleh-oleh|nomina|土産を買います。|みやげを かいます。|Saya membeli oleh-oleh.
+景色|けしき|pemandangan|nomina|景色がきれいです。|けしきが きれいです。|Pemandangannya indah.
+名所|めいしょ|tempat terkenal|nomina|名所を回ります。|めいしょを まわります。|Saya mengelilingi tempat terkenal.
+温泉|おんせん|sumber air panas|nomina|温泉が好きです。|おんせんが すきです。|Saya suka onsen.
+神社|じんじゃ|kuil Shinto|nomina|神社に行きます。|じんじゃに いきます。|Saya pergi ke kuil.
+寺|てら|kuil Buddha|nomina|寺を見ます。|てらを みます。|Saya melihat kuil.
+城|しろ|kastel|nomina|城が古いです。|しろが ふるいです。|Kastelnya tua.
+出発|しゅっぱつ|keberangkatan|nomina|朝八時に出発します。|あさ はちじに しゅっぱつします。|Berangkat jam delapan pagi.
+到着|とうちゃく|kedatangan|nomina|夜に到着します。|よるに とうちゃくします。|Tiba malam hari.
+帰る|かえる|pulang|verba|国へ帰ります。|くにへ かえります。|Saya pulang ke negara saya.
+案内所|あんないじょ|kantor informasi|nomina|案内所で聞きます。|あんないじょで ききます。|Saya bertanya di kantor informasi.
+海外|かいがい|luar negeri|nomina|海外に行きたいです。|かいがいに いきたいです。|Saya ingin ke luar negeri.
+国内|こくない|dalam negeri|nomina|国内旅行をします。|こくない りょこうを します。|Saya bepergian dalam negeri.
+思い出|おもいで|kenangan|nomina|いい思い出です。|いい おもいでです。|Kenangan yang bagus.
+楽しい|たのしい|menyenangkan|adjektiva-i|旅行は楽しいです。|りょこうは たのしいです。|Bepergian itu menyenangkan.
+
+## 16|街・場所
+町|まち|kota|nomina|町が静かです。|まちが しずかです。|Kotanya tenang.
+村|むら|desa|nomina|村に住んでいます。|むらに すんでいます。|Saya tinggal di desa.
+場所|ばしょ|tempat|nomina|場所を教えてください。|ばしょを おしえてください。|Tolong beri tahu tempatnya.
+公園|こうえん|taman|nomina|公園を散歩します。|こうえんを さんぽします。|Saya berjalan di taman.
+銀行|ぎんこう|bank|nomina|銀行でお金を出します。|ぎんこうで おかねを だします。|Saya tarik uang di bank.
+郵便局|ゆうびんきょく|kantor pos|nomina|郵便局はどこですか。|ゆうびんきょくは どこですか。|Kantor pos di mana?
+市役所|しやくしょ|balai kota|nomina|市役所へ行きます。|しやくしょへ いきます。|Saya pergi ke balai kota.
+交番|こうばん|pos polisi|nomina|交番で聞きます。|こうばんで ききます。|Saya bertanya di pos polisi.
+美術館|びじゅつかん|museum seni|nomina|美術館を見ます。|びじゅつかんを みます。|Saya mengunjungi museum seni.
+建物|たてもの|bangunan|nomina|建物が高いです。|たてものが たかいです。|Bangunannya tinggi.
+入口|いりぐち|pintu masuk|nomina|入口は右です。|いりぐちは みぎです。|Pintu masuknya di kanan.
+出口|でぐち|pintu keluar|nomina|出口を探します。|でぐちを さがします。|Saya mencari pintu keluar.
+角|かど|sudut / tikungan|nomina|角の店です。|かどの みせです。|Tokonya di tikungan.
+前|まえ|depan|nomina|駅の前で待ちます。|えきの まえで まちます。|Saya menunggu di depan stasiun.
+後ろ|うしろ|belakang|nomina|後ろに座ります。|うしろに すわります。|Saya duduk di belakang.
+近く|ちかく|dekat|nomina|家の近くです。|いえの ちかくです。|Dekat rumah.
+遠い|とおい|jauh|adjektiva-i|駅は遠いです。|えきは とおいです。|Stasiunnya jauh.
+近い|ちかい|dekat|adjektiva-i|店は近いです。|みせは ちかいです。|Tokonya dekat.
+中心|ちゅうしん|pusat|nomina|町の中心です。|まちの ちゅうしんです。|Pusat kota.
+通る|とおる|melewati|verba|この道を通ります。|この みちを とおります。|Saya melewati jalan ini.
+曲がり角|まがりかど|tikungan|nomina|曲がり角で止まります。|まがりかどで とまります。|Berhenti di tikungan.
+坂|さか|tanjakan|nomina|坂が多いです。|さかが おおいです。|Tanjakan banyak.
+橋|はし|jembatan|nomina|橋を渡ります。|はしを わたります。|Saya menyeberangi jembatan.
+港|みなと|pelabuhan|nomina|港が見えます。|みなとが みえます。|Pelabuhan terlihat.
+通り|とおり|jalan (besar)|nomina|この通りは広いです。|この とおりは ひろいです。|Jalan ini lebar.

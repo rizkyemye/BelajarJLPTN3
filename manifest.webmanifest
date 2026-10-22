@@ -1,0 +1,17 @@
+{
+  "name": "日本語 Belajar — JLPT N3",
+  "short_name": "日本語 N3",
+  "description": "Belajar kanji, kosakata, bunpou, dokkai, choukai N3.",
+  "lang": "id",
+  "start_url": "./n3/index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f3ea",
+  "theme_color": "#b7202e",
+  "icons": [
+    { "src": "./ikon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./ikon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./ikon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

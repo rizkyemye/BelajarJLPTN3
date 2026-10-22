@@ -1,0 +1,134 @@
+## 22|副詞①
+とても|とても|sangat|adverbia|とても綺麗です。|とても きれいです。|Sangat indah.
+少し|すこし|sedikit|adverbia|少し待ってください。|すこし まってください。|Tolong tunggu sebentar.
+ちょっと|ちょっと|sedikit / agak|adverbia|ちょっと高いです。|ちょっと たかいです。|Agak mahal.
+たくさん|たくさん|banyak|adverbia|本がたくさんあります。|ほんが たくさん あります。|Bukunya banyak.
+全部|ぜんぶ|semua|nomina|全部食べました。|ぜんぶ たべました。|Saya makan semuanya.
+ほとんど|ほとんど|hampir|adverbia|ほとんど終わりました。|ほとんど おわりました。|Hampir selesai.
+だいたい|だいたい|kira-kira|adverbia|だいたい分かりました。|だいたい わかりました。|Saya kira-kira mengerti.
+必ず|かならず|pasti|adverbia|必ず行きます。|かならず いきます。|Saya pasti pergi.
+たぶん|たぶん|mungkin|adverbia|たぶん来ます。|たぶん きます。|Mungkin dia datang.
+きっと|きっと|pasti (keyakinan)|adverbia|きっと大丈夫です。|きっと だいじょうぶです。|Pasti tidak apa-apa.
+特に|とくに|terutama|adverbia|特に問題ありません。|とくに もんだい ありません。|Tidak ada masalah khusus.
+実は|じつは|sebenarnya|adverbia|実は知りません。|じつは しりません。|Sebenarnya saya tidak tahu.
+やはり|やはり|ternyata / memang|adverbia|やはり雨です。|やはり あめです。|Ternyata hujan.
+もちろん|もちろん|tentu saja|adverbia|もちろん行きます。|もちろん いきます。|Tentu saja saya pergi.
+例えば|たとえば|misalnya|adverbia|例えばこれです。|たとえば これです。|Misalnya ini.
+つまり|つまり|artinya / jadi|adverbia|つまり同じです。|つまり おなじです。|Jadi sama saja.
+しかも|しかも|selain itu|adverbia|しかも安いです。|しかも やすいです。|Selain itu murah.
+それに|それに|ditambah lagi|adverbia|それに近いです。|それに ちかいです。|Ditambah lagi dekat.
+でも|でも|tapi|adverbia|でも行きます。|でも いきます。|Tapi saya pergi.
+ただし|ただし|dengan syarat|adverbia|ただし予約が必要です。|ただし よやくが ひつようです。|Dengan syarat harus reservasi.
+先に|さきに|lebih dulu|adverbia|先に帰ります。|さきに かえります。|Saya pulang lebih dulu.
+ゆっくり|ゆっくり|pelan-pelan|adverbia|ゆっくり歩きます。|ゆっくり あるきます。|Saya berjalan pelan.
+はっきり|はっきり|jelas|adverbia|はっきり言ってください。|はっきり いってください。|Tolong bicara jelas.
+すぐ|すぐ|langsung|adverbia|すぐ行きます。|すぐ いきます。|Saya langsung pergi.
+もう|もう|sudah|adverbia|もう食べました。|もう たべました。|Saya sudah makan.
+
+## 23|副詞②・つなぎ言葉
+ずいぶん|ずいぶん|cukup / lumayan|adverbia|ずいぶん大きいですね。|ずいぶん おおきいですね。|Lumayan besar ya.
+なかなか|なかなか|cukup (baik)|adverbia|なかなかいいです。|なかなか いいです。|Cukup bagus.
+かなり|かなり|cukup|adverbia|かなり寒いです。|かなり さむいです。|Cukup dingin.
+全然|ぜんぜん|sama sekali (negatif)|adverbia|全然分かりません。|ぜんぜん わかりません。|Sama sekali tidak mengerti.
+あまり|あまり|tidak begitu|adverbia|あまり高くないです。|あまり たかくないです。|Tidak begitu mahal.
+何も|なにも|tidak ada apa-apa|adverbia|何もありません。|なにも ありません。|Tidak ada apa-apa.
+誰も|だれも|tidak ada siapa-siapa|adverbia|誰もいません。|だれも いません。|Tidak ada siapa-siapa.
+いつも|いつも|selalu|adverbia|いつも早いです。|いつも はやいです。|Selalu cepat.
+よく|よく|sering|adverbia|よく映画を見ます。|よく えいがを みます。|Saya sering menonton film.
+たまに|たまに|kadang-kadang|adverbia|たまに走ります。|たまに はしります。|Kadang saya lari.
+まだ|まだ|masih|adverbia|まだ終わっていません。|まだ おわっていません。|Belum selesai.
+そして|そして|dan|adverbia|そして家へ帰ります。|そして いえへ かえります。|Lalu saya pulang.
+しかし|しかし|tetapi|adverbia|しかし時間がありません。|しかし じかんが ありません。|Tetapi saya tidak punya waktu.
+だから|だから|karena itu|adverbia|だから行きません。|だから いきません。|Karena itu saya tidak pergi.
+それで|それで|oleh sebab itu|adverbia|それで遅れました。|それで おくれました。|Karena itu saya terlambat.
+けれども|けれども|tetapi|adverbia|けれども大丈夫です。|けれども だいじょうぶです。|Tetapi tidak apa-apa.
+また|また|lagi|adverbia|また来ます。|また きます。|Saya datang lagi.
+そろそろ|そろそろ|sebentar lagi (waktunya)|adverbia|そろそろ帰りましょう。|そろそろ かえりましょう。|Ayo sebentar lagi pulang.
+一度|いちど|sekali|nomina|一度行きました。|いちど いきました。|Saya pernah pergi sekali.
+二度|にど|dua kali|nomina|二度見ました。|にど みました。|Saya menonton dua kali.
+ぜひ|ぜひ|sangat ingin / mohon|adverbia|ぜひ来てください。|ぜひ きてください。|Tolong datang ya.
+さっき|さっき|barusan|adverbia|さっき来ました。|さっき きました。|Barusan dia datang.
+後で|あとで|nanti|adverbia|後で電話します。|あとで でんわします。|Nanti saya telepon.
+今すぐ|いますぐ|sekarang juga|adverbia|今すぐ行きます。|いますぐ いきます。|Saya pergi sekarang juga.
+だんだん|だんだん|perlahan-lahan|adverbia|だんだん暖かくなります。|だんだん あたたかくなります。|Perlahan jadi hangat.
+
+## 24|擬音語・擬態語
+ぴったり|ぴったり|pas|adverbia|ぴったりのサイズです。|ぴったりの サイズです。|Ukurannya pas.
+しっかり|しっかり|dengan sungguh-sungguh|adverbia|しっかり勉強します。|しっかり べんきょうします。|Saya belajar dengan sungguh-sungguh.
+のんびり|のんびり|santai|adverbia|のんびり休みます。|のんびり やすみます。|Saya istirahat santai.
+いっぱい|いっぱい|penuh / banyak|adverbia|お腹がいっぱいです。|おなかが いっぱいです。|Perut saya kenyang.
+ぐっすり|ぐっすり|tidur nyenyak|adverbia|ぐっすり寝ました。|ぐっすり ねました。|Saya tidur nyenyak.
+ぺこぺこ|ぺこぺこ|sangat lapar|adverbia|お腹がぺこぺこです。|おなかが ぺこぺこです。|Perut saya sangat lapar.
+ぐるぐる|ぐるぐる|berputar-putar|adverbia|目がぐるぐるします。|めが ぐるぐるします。|Kepala saya pusing.
+きらきら|きらきら|berkilau|adverbia|星がきらきらしています。|ほしが きらきらしています。|Bintangnya berkilau.
+ざあざあ|ざあざあ|hujan deras|adverbia|雨がざあざあ降っています。|あめが ざあざあ ふっています。|Hujannya deras sekali.
+そっと|そっと|dengan hati-hati|adverbia|そっと閉めます。|そっと しめます。|Saya menutupnya pelan-pelan.
+ふらふら|ふらふら|sempoyongan|adverbia|頭がふらふらします。|あたまが ふらふらします。|Kepala saya pusing berat.
+どきどき|どきどき|deg-degan|adverbia|胸がどきどきします。|むねが どきどきします。|Jantung saya berdebar.
+わくわく|わくわく|bersemangat menanti|adverbia|旅行がわくわくします。|りょこうが わくわくします。|Perjalanannya bikin semangat.
+ぺらぺら|ぺらぺら|fasih|adverbia|日本語がぺらぺらです。|にほんごが ぺらぺらです。|Bahasa Jepangnya fasih.
+ぼんやり|ぼんやり|melamun|adverbia|ぼんやりしています。|ぼんやりしています。|Saya sedang melamun.
+こっそり|こっそり|diam-diam|adverbia|こっそり出ました。|こっそり でました。|Dia keluar diam-diam.
+ぐちゃぐちゃ|ぐちゃぐちゃ|berantakan|adverbia|机がぐちゃぐちゃです。|つくえが ぐちゃぐちゃです。|Mejanya berantakan.
+ぴかぴか|ぴかぴか|mengkilap|adverbia|靴がぴかぴかです。|くつが ぴかぴかです。|Sepatunya mengkilap.
+がっかり|がっかり|kecewa|adverbia|とてもがっかりしました。|とても がっかりしました。|Saya sangat kecewa.
+うっかり|うっかり|tanpa sengaja|adverbia|うっかり忘れました。|うっかり わすれました。|Tidak sengaja saya lupa.
+ゆったり|ゆったり|lega / santai|adverbia|ゆったり過ごします。|ゆったり すごします。|Saya menghabiskan waktu santai.
+どんどん|どんどん|semakin / terus|adverbia|どんどん上手になります。|どんどん じょうずに なります。|Semakin hari makin pandai.
+ばらばら|ばらばら|terpisah-pisah|adverbia|紙がばらばらです。|かみが ばらばらです。|Kertasnya berserakan.
+ぐったり|ぐったり|lemas|adverbia|疲れてぐったりです。|つかれて ぐったりです。|Lemas karena lelah.
+ひらひら|ひらひら|berkibar|adverbia|花びらがひらひら落ちます。|はなびらが ひらひら おちます。|Kelopak bunga berjatuhan.
+
+## 25|複合語・よく使う名詞
+天気予報|てんきよほう|prakiraan cuaca|nomina|天気予報を見ます。|てんきよほうを みます。|Saya melihat prakiraan cuaca.
+待ち合わせ|まちあわせ|janji temu|nomina|待ち合わせは駅です。|まちあわせは えきです。|Janji temunya di stasiun.
+食料品|しょくりょうひん|bahan makanan|nomina|食料品を買います。|しょくりょうひんを かいます。|Saya membeli bahan makanan.
+日記|にっき|buku harian|nomina|日記を書きます。|にっきを かきます。|Saya menulis buku harian.
+手紙|てがみ|surat|nomina|手紙を送ります。|てがみを おくります。|Saya mengirim surat.
+切手|きって|perangko|nomina|切手を貼ります。|きってを はります。|Saya menempel perangko.
+葉書|はがき|kartu pos|nomina|葉書を出します。|はがきを だします。|Saya mengirim kartu pos.
+小包|こづつみ|paket|nomina|小包が届きました。|こづつみが とどきました。|Paketnya sudah sampai.
+住所|じゅうしょ|alamat|nomina|住所を書きます。|じゅうしょを かきます。|Saya menulis alamat.
+名前|なまえ|nama|nomina|名前を教えてください。|なまえを おしえてください。|Tolong beri tahu namanya.
+誕生日|たんじょうび|ulang tahun|nomina|明日は誕生日です。|あしたは たんじょうびです。|Besok ulang tahun.
+休憩|きゅうけい|istirahat sejenak|nomina|少し休憩しましょう。|すこし きゅうけいしましょう。|Ayo istirahat sebentar.
+行事|ぎょうじ|acara (sekolah/kantor)|nomina|学校の行事です。|がっこうの ぎょうじです。|Acara sekolah.
+会場|かいじょう|tempat acara|nomina|会場はどこですか。|かいじょうは どこですか。|Tempat acaranya di mana?
+参加|さんか|partisipasi|nomina|会議に参加します。|かいぎに さんかします。|Saya ikut rapat.
+用意|ようい|persiapan|nomina|用意ができました。|よういが できました。|Persiapannya sudah siap.
+片付け|かたづけ|merapikan|nomina|片付けをします。|かたづけを します。|Saya merapikan.
+洗濯物|せんたくもの|cucian|nomina|洗濯物を干します。|せんたくものを ほします。|Saya menjemur cucian.
+味付け|あじつけ|bumbu|nomina|味付けが薄いです。|あじつけが うすいです。|Bumbunya kurang.
+料理人|りょうりにん|juru masak|nomina|料理人になりたいです。|りょうりにんに なりたいです。|Saya ingin jadi juru masak.
+時間割|じかんわり|jadwal pelajaran|nomina|時間割を見ます。|じかんわりを みます。|Saya melihat jadwal.
+忘れ物|わすれもの|barang tertinggal|nomina|忘れ物をしました。|わすれものを しました。|Saya meninggalkan barang.
+待ち時間|まちじかん|waktu tunggu|nomina|待ち時間が長いです。|まちじかんが ながいです。|Waktu tunggunya lama.
+人口|じんこう|populasi|nomina|人口が少ないです。|じんこうが すくないです。|Populasinya sedikit.
+付き合い|つきあい|pergaulan|nomina|付き合いが大切です。|つきあいが たいせつです。|Pergaulan itu penting.
+
+## 26|社会・出来事
+社会|しゃかい|masyarakat|nomina|社会の問題です。|しゃかいの もんだいです。|Masalah sosial.
+政治|せいじ|politik|nomina|政治の話です。|せいじの はなしです。|Bicara soal politik.
+経済|けいざい|ekonomi|nomina|経済が悪いです。|けいざいが わるいです。|Ekonominya buruk.
+法律|ほうりつ|hukum|nomina|法律を守ります。|ほうりつを まもります。|Saya menaati hukum.
+選挙|せんきょ|pemilu|nomina|選挙があります。|せんきょが あります。|Ada pemilu.
+事件|じけん|insiden|nomina|事件がありました。|じけんが ありました。|Ada insiden.
+事故|じこ|kecelakaan|nomina|事故で遅れました。|じこで おくれました。|Terlambat karena kecelakaan.
+火事|かじ|kebakaran|nomina|火事が起きました。|かじが おきました。|Terjadi kebakaran.
+災害|さいがい|bencana|nomina|災害に備えます。|さいがいに そなえます。|Saya bersiap untuk bencana.
+警察|けいさつ|polisi|nomina|警察に連絡します。|けいさつに れんらくします。|Saya menghubungi polisi.
+政府|せいふ|pemerintah|nomina|政府が決めました。|せいふが きめました。|Pemerintah memutuskan.
+市民|しみん|warga kota|nomina|市民が集まりました。|しみんが あつまりました。|Warga berkumpul.
+税金|ぜいきん|pajak|nomina|税金を払います。|ぜいきんを はらいます。|Saya membayar pajak.
+保険|ほけん|asuransi|nomina|保険に入ります。|ほけんに はいります。|Saya ikut asuransi.
+報道|ほうどう|pemberitaan|nomina|報道を見ます。|ほうどうを みます。|Saya melihat pemberitaan.
+記事|きじ|artikel|nomina|記事を読みます。|きじを よみます。|Saya membaca artikel.
+世の中|よのなか|kehidupan sosial|nomina|世の中が変わりました。|よのなかが かわりました。|Dunia sudah berubah.
+制度|せいど|sistem / aturan|nomina|制度が変わりました。|せいどが かわりました。|Sistemnya berubah.
+話し合い|はなしあい|diskusi|nomina|話し合いをします。|はなしあいを します。|Kami berdiskusi.
+方針|ほうしん|kebijakan / arah|nomina|方針を決めます。|ほうしんを きめます。|Kami menentukan arah.
+問題|もんだい|masalah|nomina|問題があります。|もんだいが あります。|Ada masalah.
+対応|たいおう|penanganan|nomina|対応が遅れました。|たいおうが おくれました。|Penanganannya terlambat.
+影響|えいきょう|pengaruh|nomina|影響が大きいです。|えいきょうが おおきいです。|Pengaruhnya besar.
+増加|ぞうか|penambahan|nomina|人口が増加しています。|じんこうが ぞうかしています。|Populasi bertambah.
+減少|げんしょう|pengurangan|nomina|数が減少しました。|かずが げんしょうしました。|Jumlahnya berkurang.

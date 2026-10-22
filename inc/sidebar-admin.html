@@ -1,0 +1,27 @@
+<aside class="sisi-kiri">
+  <a href="index.html" class="merek-kecil">管理<small>Admin</small></a>
+
+  <nav>
+    <ul class="menu">
+      <li><a href="index.html#users" data-untuk="users" data-tab="users"><span class="kanji-menu">人</span>Pengguna</a></li>
+      <li><a href="index.html#bahan" data-untuk="bahan" data-tab="bahan"><span class="kanji-menu">語</span>Bahan</a></li>
+      <li><a href="index.html#statistik" data-untuk="statistik" data-tab="statistik"><span class="kanji-menu">統</span>Statistik</a></li>
+      <li><a href="kosakata.html" data-untuk="kosakata"><span class="kanji-menu">＋</span>Tambah kata</a></li>
+    </ul>
+  </nav>
+
+  <div class="akun">
+    <span class="nama" data-akun="username">…</span>
+    <span data-akun="level">ADMIN</span>
+    <button type="button" data-buka-keluar>Keluar</button>
+  </div>
+<!-- konfirmasi keluar (dialog asli HTML; dibuka sesi.js) -->
+<dialog id="dialog-keluar" class="dialog keluar-dialog">
+  <h2>Keluar dari akun?</h2>
+  <p>Progres tetap tersimpan. Kamu harus masuk lagi untuk lanjut belajar.</p>
+  <div class="dialog-aksi">
+    <button type="button" class="tbl-kosong" data-tutup-keluar>Batal</button>
+    <button type="button" class="tbl" data-akun="keluar">Keluar</button>
+  </div>
+</dialog>
+</aside>

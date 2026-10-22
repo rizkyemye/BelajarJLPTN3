@@ -1,0 +1,31 @@
+# penjelasan untuk pola 1–30 (batch 1)
+ながら|Dua kegiatan dikerjakan oleh satu orang pada waktu yang sama. Subjeknya harus sama, dan kegiatan kedua menjadi fokus kalimat.
+たことがある|Menceritakan pengalaman yang pernah dialami sampai sekarang. Kalau belum pernah, akhirannya menjadi たことがない.
+てしまう|Menunjukkan pekerjaan selesai tuntas, atau sesuatu yang terjadi tanpa diniatkan (terlanjur). Sering bernada menyesal.
+ておく|Melakukan sesuatu lebih dulu untuk persiapan, supaya keadaan nanti sudah siap.
+てみる|Mencoba melakukan sesuatu untuk melihat hasilnya. Tidak menjamin berhasil.
+てある|Keadaan sekarang adalah hasil dari tindakan seseorang sebelumnya, dan keadaan itu masih berlangsung.
+そうだ|Dugaan berdasarkan penglihatan langsung. Bentuknya menempel pada dasar kata: おいしい→おいしそう、静か→静かそう.
+らしい|Dugaan berdasarkan kabar atau ciri yang khas. Lebih objektif daripada みたいだ.
+みたいだ|Perbandingan atau dugaan yang santai, banyak dipakai dalam percakapan. Seperti ようだ tetapi lebih lisan.
+ようだ|Dugaan halus berdasarkan bukti atau kesan. Lebih formal dan tertulis daripada みたいだ.
+かもしれない|Kemungkinan yang tidak pasti. Tingkat keyakinannya paling rendah di antara dugaan.
+はずだ|Kesimpulan logis: seharusnya begitu menurut alasan yang masuk akal.
+わけだ|Kesimpulan wajar: memang begitu seharusnya, setelah tahu sebabnya.
+わけではない|Menyangkal kesimpulan orang lain dengan halus: bukan berarti begitu.
+ことにする|Keputusan diambil oleh pembicara sendiri, berdasarkan kemauan sendiri.
+ことになる|Keputusan atau hasil yang muncul dari keadaan atau pihak lain, bukan dari kemauan sendiri.
+ようにする|Berusaha agar kebiasaan atau keadaan tertentu terwujud. Fokusnya pada usaha, bukan hasil.
+ようになる|Perubahan kemampuan atau kebiasaan dari tidak bisa menjadi bisa.
+ために|Menyatakan tujuan. Kalau subjeknya kata benda, dipakai のために.
+ように|Menyatakan tujuan berupa keadaan yang diharapkan. Berbeda dengan ために, kata kerjanya biasanya bentuk potensial atau negatif.
+のに|Menyatakan pertentangan atau kekecewaan: padahal sudah begitu, tetapi hasilnya tidak sesuai.
+ても|Menyatakan bahwa hasilnya tetap sama walaupun ada keadaan yang biasanya menghalangi.
+ば|Bentuk syarat paling netral. Cocok untuk syarat umum, bukan permintaan langsung.
+たら|Syarat yang menekankan urutan: setelah hal pertama terjadi, hal kedua menyusul.
+なら|Mengambil topik yang sudah disebut lawan bicara, lalu memberi syarat atau saran tentang topik itu.
+と|Syarat yang hasilnya otomatis dan pasti, misalnya aturan mesin atau hukum alam.
+うちに|Selagi keadaan masih seperti sekarang, lakukan sesuatu sebelum berubah.
+あいだ|Selama rentang waktu tertentu, suatu keadaan berlangsung terus.
+たびに|Setiap kali peristiwa pertama terjadi, peristiwa kedua selalu menyusul.
+し|Menyebutkan dua hal atau lebih sebagai alasan atau ciri, biasanya untuk mendukung kesimpulan.

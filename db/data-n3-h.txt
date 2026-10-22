@@ -1,0 +1,124 @@
+## 35|レストラン・ホール
+注文|ちゅうもん|pesanan|nomina|注文を取ります。|ちゅうもんを とります。|Saya mengambil pesanan.
+給仕|きゅうじ|penyajian|nomina|給仕は私がします。|きゅうじは わたしが します。|Saya yang menyajikan.
+献立|こんだて|susunan menu|nomina|献立を考えます。|こんだてを かんがえます。|Saya menyusun menunya.
+配膳|はいぜん|menyajikan hidangan|nomina|料理を配膳します。|りょうりを はいぜん します。|Saya menyajikan hidangannya.
+下膳|げぜん|mengangkat hidangan selesai|nomina|食器を下膳します。|しょっきを げぜん します。|Saya mengangkat piring yang sudah selesai.
+取り皿|とりざら|piring saji kecil|nomina|取り皿をお持ちします。|とりざらを おもち します。|Saya bawakan piring saji.
+箸置き|はしおき|penyangga sumpit|nomina|箸置きを置きます。|はしおきを おきます。|Saya meletakkan penyangga sumpit.
+水差し|みずさし|teko air|nomina|水差しを替えます。|みずさしを かえます。|Saya mengganti teko airnya.
+空調|くうちょう|pendingin ruangan|nomina|空調を調整します。|くうちょうを ちょうせい します。|Saya mengatur pendingin ruangannya.
+混雑|こんざつ|keramaian|nomina|夜は混雑します。|よるは こんざつ します。|Malam ramai.
+待合|まちあい|ruang tunggu|nomina|待合でお待ちください。|まちあいで おまち ください。|Silakan tunggu di ruang tunggu.
+順番待ち|じゅんばんまち|menunggu urutan|nomina|順番待ちのお客様です。|じゅんばんまちの おきゃくさまです。|Ini tamu yang menunggu urutan.
+満席|まんせき|kursi penuh|nomina|今は満席です。|いまは まんせきです。|Sekarang kursinya penuh.
+席札|せきふだ|kartu nomor kursi|nomina|席札を置いてください。|せきふだを おいて ください。|Tolong letakkan kartu kursinya.
+追加注文|ついかちゅうもん|pesanan tambahan|nomina|追加注文を承ります。|ついかちゅうもんを うけたまわります。|Saya menerima pesanan tambahan.
+飲み放題|のみほうだい|minum sepuasnya|nomina|飲み放題の店です。|のみほうだいの みせです。|Ini toko dengan minum sepuasnya.
+食べ放題|たべほうだい|makan sepuasnya|nomina|食べ放題もあります。|たべほうだいも あります。|Ada juga makan sepuasnya.
+定食|ていしょく|set menu|nomina|定食を二つください。|ていしょくを ふたつ ください。|Tolong dua set menu.
+単品|たんぴん|menu satuan|nomina|単品でも頼めます。|たんぴんでも たのめます。|Bisa dipesan satuan juga.
+お通し|おとおし|hidangan pembuka|nomina|お通しをお出しします。|おとおしを おだし します。|Saya menyajikan hidangan pembukanya.
+皿洗い|さらあらい|mencuci piring|nomina|皿洗いを手伝います。|さらあらいを てつだいます。|Saya membantu mencuci piring.
+給水|きゅうすい|pengisian air|nomina|お客様に給水します。|おきゃくさまに きゅうすい します。|Saya mengisi air untuk tamu.
+席数|せきすう|jumlah kursi|nomina|席数は四十です。|せきすうは よんじゅうです。|Jumlah kursinya empat puluh.
+予約席|よやくせき|kursi reservasi|nomina|ここは予約席です。|ここは よやくせきです。|Ini kursi reservasi.
+窓際|まどぎわ|pinggir jendela|nomina|窓際の席が空いています。|まどぎわの せきが あいて います。|Kursi pinggir jendela kosong.
+個室|こしつ|ruang privat|nomina|個室をご用意します。|こしつを ごようい します。|Kami siapkan ruang privatnya.
+通路側|つうろがわ|sisi lorong|nomina|通路側でよろしいですか。|つうろがわで よろしいですか。|Apakah sisi lorong tidak apa-apa?
+席案内|せきあんない|pengantar ke kursi|nomina|席案内をします。|せきあんないを します。|Saya mengantar ke kursinya.
+料理説明|りょうりせつめい|penjelasan hidangan|nomina|料理説明をしながら出します。|りょうりせつめいを しながら だします。|Saya menyajikan sambil menjelaskan hidangannya.
+席順|せきじゅん|urutan tempat duduk|nomina|席順を決めます。|せきじゅんを きめます。|Saya menentukan urutan tempat duduknya.
+## 36|電話・メール
+電話対応|でんわたいおう|menangani telepon|nomina|電話対応をお願いします。|でんわたいおうを おねがい します。|Tolong tangani teleponnya.
+折り返し|おりかえし|panggilan balik|nomina|折り返し電話します。|おりかえし でんわ します。|Saya akan menelepon balik.
+伝言|でんごん|pesan titipan|nomina|伝言をお願いします。|でんごんを おねがい します。|Tolong sampaikan pesannya.
+取り次ぎ|とりつぎ|menyambungkan|nomina|担当者に取り次ぎます。|たんとうしゃに とりつぎます。|Saya sambungkan ke penanggung jawab.
+内線|ないせん|ekstensi|nomina|内線は十二番です。|ないせんは じゅうにばんです。|Ekstensinya nomor dua belas.
+外線|がいせん|saluran luar|nomina|外線がつながりました。|がいせんが つながりました。|Saluran luarnya tersambung.
+留守|るす|tidak di tempat|nomina|今は留守です。|いまは るすです。|Sekarang dia tidak di tempat.
+録音|ろくおん|rekaman|nomina|録音を確認します。|ろくおんを かくにん します。|Saya memeriksa rekamannya.
+題名|だいめい|judul|nomina|題名を入れてください。|だいめいを いれて ください。|Tolong isi judulnya.
+本文|ほんぶん|isi pesan|nomina|本文を読みました。|ほんぶんを よみました。|Isi pesannya sudah saya baca.
+添付書類|てんぷしょるい|lampiran dokumen|nomina|添付書類を送ります。|てんぷしょるいを おくります。|Saya kirim lampiran dokumennya.
+送付先|そうふさき|tujuan pengiriman|nomina|送付先を確認します。|そうふさきを かくにん します。|Saya memeriksa tujuan pengirimannya.
+差出人|さしだしにん|pengirim|nomina|差出人が分かりません。|さしだしにんが わかりません。|Pengirimnya tidak jelas.
+転送先|てんそうさき|tujuan penerusan|nomina|転送先を決めます。|てんそうさきを きめます。|Saya menentukan tujuan penerusannya.
+回答|かいとう|jawaban (resmi)|nomina|回答をお願いします。|かいとうを おねがい します。|Mohon jawabannya.
+受信|じゅしん|menerima (pesan)|nomina|受信を確認しました。|じゅしんを かくにん しました。|Sudah saya cek penerimaannya.
+送信|そうしん|mengirim (pesan)|nomina|送信が終わりました。|そうしんが おわりました。|Pengirimannya selesai.
+暗号|あんごう|kata sandi|nomina|暗号を忘れました。|あんごうを わすれました。|Saya lupa kata sandinya.
+保存先|ほぞんさき|tempat penyimpanan|nomina|保存先を決めます。|ほぞんさきを きめます。|Saya tentukan tempat simpannya.
+迷惑メール|めいわくめーる|email sampah|nomina|迷惑メールが増えました。|めいわくめーるが ふえました。|Email sampahnya bertambah.
+確認事項|かくにんじこう|hal yang dikonfirmasi|nomina|確認事項をまとめます。|かくにんじこうを まとめます。|Saya merangkum hal yang perlu dikonfirmasi.
+折り返し番号|おりかえしばんごう|nomor untuk ditelepon balik|nomina|折り返し番号を伺います。|おりかえしばんごうを うかがいます。|Saya menanyakan nomor untuk ditelepon balik.
+敬称|けいしょう|sebutan hormat|nomina|敬称をつけて書きます。|けいしょうを つけて かきます。|Saya menulis dengan sebutan hormat.
+拝啓|はいけい|salam pembuka surat|nomina|拝啓で始めます。|はいけいで はじめます。|Dimulai dengan salam pembuka.
+敬具|けいぐ|salam penutup surat|nomina|敬具で結びます。|けいぐで むすびます。|Ditutup dengan salam penutup.
+取り急ぎ|とりいそぎ|dengan singkat segera|frasa|取り急ぎご連絡します。|とりいそぎ ごれんらく します。|Saya hubungi dengan singkat.
+ご査収|ごさしゅう|mohon diperiksa|frasa|ご査収ください。|ごさしゅう ください。|Mohon diperiksa.
+受付時間|うけつけじかん|jam layanan|nomina|受付時間は九時からです。|うけつけじかんは くじからです。|Jam layanannya mulai jam sembilan.
+営業時間|えいぎょうじかん|jam operasional|nomina|営業時間は十時までです。|えいぎょうじかんは じゅうじまでです。|Jam operasionalnya sampai jam sepuluh.
+電話帳|でんわちょう|buku telepon|nomina|電話帳で調べます。|でんわちょうで しらべます。|Saya mencari di buku telepon.
+## 37|予約・受付
+予約管理|よやくかんり|pengelolaan reservasi|nomina|予約管理を担当します。|よやくかんりを たんとう します。|Saya menangani pengelolaan reservasi.
+空室|くうしつ|kamar kosong|nomina|空室があります。|くうしつが あります。|Ada kamar kosong.
+空き状況|あきじょうきょう|ketersediaan|nomina|空き状況を調べます。|あきじょうきょうを しらべます。|Saya memeriksa ketersediaannya.
+取消|とりけし|pembatalan|nomina|予約を取り消します。|よやくを とりけし します。|Saya membatalkan reservasinya.
+変更依頼|へんこういらい|permintaan perubahan|nomina|変更依頼を受けました。|へんこういらいを うけました。|Saya menerima permintaan perubahan.
+部屋割り|へやわり|pembagian kamar|nomina|部屋割りを決めます。|へやわりを きめます。|Saya menentukan pembagian kamar.
+名簿|めいぼ|daftar nama|nomina|名簿に書いてください。|めいぼに かいて ください。|Tolong tulis di daftar nama.
+到着時刻|とうちゃくじこく|jam kedatangan|nomina|到着時刻を聞きます。|とうちゃくじこくを ききます。|Saya menanyakan jam kedatangannya.
+宿泊日|しゅくはくび|tanggal menginap|nomina|宿泊日を教えてください。|しゅくはくびを おしえて ください。|Tolong beri tahu tanggal menginapnya.
+連泊|れんぱく|menginap beberapa malam|nomina|二連泊になります。|にれんぱくに なります。|Jadi menginap dua malam berturut.
+朝食付き|ちょうしょくつき|termasuk sarapan|nomina|朝食付きの部屋です。|ちょうしょくつきの へやです。|Kamarnya termasuk sarapan.
+素泊まり|すどまり|tanpa makan|nomina|素泊まりでお願いします。|すどまりで おねがい します。|Tolong tanpa makan.
+加算|かさん|penambahan biaya|nomina|料金を加算します。|りょうきんを かさん します。|Saya menambahkan biayanya.
+前払い|まえばらい|bayar di muka|nomina|前払いでお願いします。|まえばらいで おねがい します。|Tolong bayar di muka.
+後払い|あとばらい|bayar belakangan|nomina|後払いもできます。|あとばらいも できます。|Bayar belakangan juga bisa.
+明細|めいさい|rincian|nomina|明細を確認します。|めいさいを かくにん します。|Saya memeriksa rinciannya.
+客単価|きゃくたんか|nilai transaksi per tamu|nomina|客単価が上がりました。|きゃくたんかが あがりました。|Nilai transaksi per tamu naik.
+稼働率|かどうりつ|tingkat hunian|nomina|稼働率が上がりました。|かどうりつが あがりました。|Tingkat huniannya naik.
+部屋割表|へやわりひょう|tabel pembagian kamar|nomina|部屋割表を見ます。|へやわりひょうを みます。|Saya melihat tabel pembagian kamar.
+受付票|うけつけひょう|formulir penerimaan|nomina|受付票に記入します。|うけつけひょうに きにゅう します。|Saya mengisi formulir penerimaan.
+本人確認|ほんにんかくにん|verifikasi identitas|nomina|本人確認をします。|ほんにんかくにんを します。|Saya melakukan verifikasi identitas.
+宿泊者名簿|しゅくはくしゃめいぼ|daftar tamu menginap|nomina|宿泊者名簿を作ります。|しゅくはくしゃめいぼを つくります。|Saya membuat daftar tamu menginap.
+緊急連絡先|きんきゅうれんらくさき|kontak darurat|nomina|緊急連絡先を書きます。|きんきゅうれんらくさきを かきます。|Saya menulis kontak daruratnya.
+特記事項|とっきじこう|catatan khusus|nomina|特記事項はありません。|とっきじこうは ありません。|Tidak ada catatan khusus.
+事前|じぜん|sebelumnya|nomina|事前に連絡します。|じぜんに れんらく します。|Saya hubungi sebelumnya.
+当日|とうじつ|hari itu|nomina|当日でも大丈夫です。|とうじつでも だいじょうぶです。|Hari itu pun tidak masalah.
+翌日|よくじつ|hari berikutnya|nomina|翌日に確認します。|よくじつに かくにん します。|Saya cek hari berikutnya.
+申込締切|もうしこみしめきり|batas akhir pendaftaran|nomina|申込締切は金曜です。|もうしこみしめきりは きんようです。|Batas pendaftarannya hari Jumat.
+空室状況|くうしつじょうきょう|status ketersediaan kamar|nomina|空室状況を確認します。|くうしつじょうきょうを かくにん します。|Saya memeriksa status kamar kosong.
+満室|まんしつ|semua kamar penuh|nomina|今日は満室です。|きょうは まんしつです。|Hari ini semua kamar penuh.
+## 38|会計・レジ
+勘定|かんじょう|nota / rekening|nomina|勘定をお願いします。|かんじょうを おねがい します。|Mohon notanya.
+清算|せいさん|penyelesaian pembayaran|nomina|最後に清算します。|さいごに せいさん します。|Diselesaikan di akhir.
+支払方法|しはらいほうほう|metode pembayaran|nomina|支払方法を選んでください。|しはらいほうほうを えらんで ください。|Silakan pilih metode pembayaran.
+現金払い|げんきんばらい|bayar tunai|nomina|現金払いでお願いします。|げんきんばらいで おねがい します。|Tolong bayar tunai.
+釣り銭|つりせん|uang kembalian|nomina|釣り銭を渡します。|つりせんを わたします。|Saya menyerahkan uang kembaliannya.
+釣銭切れ|つりせんぎれ|kembalian habis|nomina|釣銭切れになりました。|つりせんぎれに なりました。|Uang kembaliannya habis.
+売上金|うりあげきん|uang hasil penjualan|nomina|売上金を数えます。|うりあげきんを かぞえます。|Saya menghitung uang hasil penjualan.
+集計|しゅうけい|rekap|nomina|一日の売上を集計します。|いちにちの うりあげを しゅうけい します。|Saya merekap penjualan harian.
+税込|ぜいこみ|termasuk pajak|nomina|税込千円です。|ぜいこみ せんえんです。|Seribu yen termasuk pajak.
+税抜|ぜいぬき|tanpa pajak|nomina|税抜の価格です。|ぜいぬきの かかくです。|Harga tanpa pajak.
+消費税|しょうひぜい|pajak konsumsi|nomina|消費税が入っています。|しょうひぜいが はいって います。|Sudah termasuk pajak konsumsi.
+値引き|ねびき|potongan harga|nomina|少し値引きできます。|すこし ねびき できます。|Bisa sedikit potongan harga.
+サービス料|さーびすりょう|biaya layanan|nomina|サービス料は別です。|さーびすりょうは べつです。|Biaya layanannya terpisah.
+合計金額|ごうけいきんがく|jumlah total|nomina|合計金額をお伝えします。|ごうけいきんがくを おつたえ します。|Saya sampaikan jumlah totalnya.
+過不足|かふそく|kelebihan kekurangan|nomina|レジに過不足があります。|れじに かふそくが あります。|Ada selisih di kasir.
+金庫|きんこ|brankas|nomina|お金を金庫に入れます。|おかねを きんこに いれます。|Uangnya saya masukkan ke brankas.
+両替|りょうがえ|penukaran uang|nomina|両替をお願いします。|りょうがえを おねがい します。|Mohon tukar uangnya.
+千円札|せんえんさつ|uang seribu yen|nomina|千円札を用意します。|せんえんさつを ようい します。|Saya menyiapkan uang seribu yen.
+硬貨|こうか|uang logam|nomina|硬貨が足りません。|こうかが たりません。|Uang logamnya kurang.
+紙幣|しへい|uang kertas|nomina|紙幣を数えます。|しへいを かぞえます。|Saya menghitung uang kertasnya.
+暗証番号|あんしょうばんごう|PIN|nomina|暗証番号を入力します。|あんしょうばんごうを にゅうりょく します。|Saya memasukkan PIN.
+署名|しょめい|tanda tangan|nomina|ここに署名してください。|ここに しょめい して ください。|Tolong tanda tangan di sini.
+控え|ひかえ|salinan bukti|nomina|控えをお渡しします。|ひかえを おわたし します。|Saya berikan salinan buktinya.
+明細書|めいさいしょ|rincian tertulis|nomina|明細書をお渡しします。|めいさいしょを おわたし します。|Saya berikan rincian tertulisnya.
+返金|へんきん|pengembalian uang|nomina|返金いたします。|へんきん いたします。|Kami kembalikan uangnya.
+差額|さがく|selisih|nomina|差額を計算します。|さがくを けいさん します。|Saya menghitung selisihnya.
+端数|はすう|angka pecahan|nomina|端数を切り捨てます。|はすうを きりすてます。|Angka pecahannya dibulatkan ke bawah.
+決済|けっさい|penyelesaian transaksi|nomina|カードで決済します。|かーどで けっさい します。|Transaksinya saya selesaikan dengan kartu.
+釣り合わせ|つりあわせ|penyeimbangan kas|nomina|夜に釣り合わせをします。|よるに つりあわせを します。|Malamnya saya menyeimbangkan kas.
+レジ締め|れじしめ|penutupan kasir|nomina|レジ締めをします。|れじしめを します。|Saya menutup kasir.

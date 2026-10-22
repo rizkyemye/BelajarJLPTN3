@@ -1,0 +1,55 @@
+## 9|学校・勉強|26
+出席|しゅっせき|kehadiran|nomina|出席を取ります。|しゅっせきを とります。|Saya mengambil absen.
+欠席|けっせき|tidak hadir|nomina|欠席しました。|けっせきしました。|Saya tidak masuk.
+黒板|こくばん|papan tulis|nomina|黒板を見ます。|こくばんを みます。|Saya melihat papan tulis.
+鉛筆|えんぴつ|pensil|nomina|鉛筆で書きます。|えんぴつで かきます。|Saya menulis dengan pensil.
+進学|しんがく|melanjutkan sekolah|nomina|進学します。|しんがくします。|Saya melanjutkan sekolah.
+
+## 10|天気・自然|26
+雷|かみなり|petir|nomina|雷が鳴っています。|かみなりが なっています。|Petirnya berbunyi.
+虹|にじ|pelangi|nomina|虹が出ました。|にじが でました。|Pelangi muncul.
+霧|きり|kabut|nomina|霧が濃いです。|きりが こいです。|Kabutnya tebal.
+洪水|こうずい|banjir|nomina|洪水がありました。|こうずいが ありました。|Terjadi banjir.
+火山|かざん|gunung berapi|nomina|火山が見えます。|かざんが みえます。|Gunung berapi terlihat.
+
+## 11|感情・性格|26
+不安|ふあん|gelisah|adjektiva-na|不安になります。|ふあんに なります。|Saya jadi gelisah.
+興奮|こうふん|terangsang / bersemangat|nomina|少し興奮しています。|すこし こうふんしています。|Dia agak bersemangat.
+感動|かんどう|terharu|nomina|とても感動しました。|とても かんどうしました。|Saya sangat terharu.
+羨ましい|うらやましい|iri|adjektiva-i|少し羨ましいです。|すこし うらやましいです。|Sedikit iri.
+悔しい|くやしい|kesal / menyesal|adjektiva-i|とても悔しいです。|とても くやしいです。|Sangat kesal.
+
+## 12|時間・予定|26
+明後日|あさって|lusa|nomina|明後日会います。|あさって あいます。|Kita bertemu lusa.
+一昨日|おととい|kemarin lusa|nomina|一昨日来ました。|おととい きました。|Dia datang kemarin lusa.
+毎月|まいつき|tiap bulan|nomina|毎月払います。|まいつき はらいます。|Saya bayar tiap bulan.
+毎年|まいとし|tiap tahun|nomina|毎年旅行します。|まいとし りょこうします。|Tiap tahun saya pergi.
+年末|ねんまつ|akhir tahun|nomina|年末は忙しいです。|ねんまつは いそがしいです。|Akhir tahun sibuk.
+
+## 13|機械・通信|26
+機能|きのう|fungsi|nomina|機能が多いです。|きのうが おおいです。|Fungsinya banyak.
+容量|ようりょう|kapasitas|nomina|容量が足りません。|ようりょうが たりません。|Kapasitasnya kurang.
+接続|せつぞく|koneksi|nomina|接続してください。|せつぞくしてください。|Tolong sambungkan.
+更新|こうしん|pembaruan|nomina|更新が必要です。|こうしんが ひつようです。|Perlu pembaruan.
+故障|こしょう|kerusakan|nomina|故障しました。|こしょうしました。|Rusak.
+
+## 14|趣味・スポーツ|26
+将棋|しょうぎ|shogi|nomina|将棋をします。|しょうぎを します。|Saya main shogi.
+漫画|まんが|komik|nomina|漫画を読みます。|まんがを よみます。|Saya membaca komik.
+ゲーム|ゲーム|gim|nomina|ゲームをします。|ゲームを します。|Saya main gim.
+登山|とざん|mendaki gunung|nomina|登山が好きです。|とざんが すきです。|Saya suka mendaki.
+釣り|つり|memancing|nomina|釣りに行きます。|つりに いきます。|Saya pergi memancing.
+
+## 15|旅行・宿|26
+観光客|かんこうきゃく|turis|nomina|観光客が多いです。|かんこうきゃくが おおいです。|Turisnya banyak.
+出国|しゅっこく|keluar negeri|nomina|出国します。|しゅっこくします。|Saya berangkat ke luar negeri.
+入国|にゅうこく|masuk negara|nomina|入国しました。|にゅうこくしました。|Saya masuk negara.
+現地|げんち|lokasi setempat|nomina|現地で買います。|げんちで かいます。|Saya beli di lokasi.
+滞在|たいざい|masa tinggal|nomina|三日間滞在します。|みっかかん たいざいします。|Saya tinggal tiga hari.
+
+## 16|街・場所|26
+商店街|しょうてんがい|kawasan pertokoan|nomina|商店街を歩きます。|しょうてんがいを あるきます。|Saya berjalan di kawasan pertokoan.
+住宅|じゅうたく|perumahan|nomina|住宅が多いです。|じゅうたくが おおいです。|Perumahannya banyak.
+工場|こうじょう|pabrik|nomina|工場で働きます。|こうじょうで はたらきます。|Saya bekerja di pabrik.
+屋上|おくじょう|atap gedung|nomina|屋上へ行きます。|おくじょうへ いきます。|Saya pergi ke atap.
+通路|つうろ|lorong|nomina|通路を開けてください。|つうろを あけてください。|Tolong buka jalannya.

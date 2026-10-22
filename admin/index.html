@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-store">
+<title>Admin · 日本語 Belajar</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../aset/desain.css?v=cf302755">
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#b7202e">
+<link rel="apple-touch-icon" href="../ikon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+<body>
+<script src="../aset/splash.js?v=84c0bf89"></script>
+<script src="../aset/skeleton.js?v=7d41ad73"></script>
+
+<div class="rangka">
+
+  <!-- ===== sisi kiri ===== -->
+  <!-- @SIDEBAR-ADMIN:users -->
+<aside class="sisi-kiri">
+  <a href="index.html" class="merek-kecil">管理<small>Admin</small></a>
+
+  <nav>
+    <ul class="menu">
+      <li><a class="aktif" href="index.html#users" data-tab="users"><span class="kanji-menu">人</span>Pengguna</a></li>
+      <li><a href="index.html#bahan" data-tab="bahan"><span class="kanji-menu">語</span>Bahan</a></li>
+      <li><a href="index.html#statistik" data-tab="statistik"><span class="kanji-menu">統</span>Statistik</a></li>
+      <li><a href="kosakata.html"><span class="kanji-menu">＋</span>Tambah kata</a></li>
+    </ul>
+  </nav>
+
+  <div class="akun">
+    <span class="nama" data-akun="username">…</span>
+    <span data-akun="level">ADMIN</span>
+    <button type="button" data-buka-keluar>Keluar</button>
+  </div>
+<!-- konfirmasi keluar (dialog asli HTML; dibuka sesi.js) -->
+<dialog id="dialog-keluar" class="dialog keluar-dialog">
+  <h2>Keluar dari akun?</h2>
+  <p>Progres tetap tersimpan. Kamu harus masuk lagi untuk lanjut belajar.</p>
+  <div class="dialog-aksi">
+    <button type="button" class="tbl-kosong" data-tutup-keluar>Batal</button>
+    <button type="button" class="tbl" data-akun="keluar">Keluar</button>
+  </div>
+</dialog>
+</aside>
+  <!-- ===== isi ===== -->
+  <main class="isi-kanan">
+
+    <!-- ============ PENGGUNA ============ -->
+    <section id="tab-users">
+      <header class="kepala-isi">
+        <div class="atas-kecil">
+          <span>Panel admin</span>
+          <span id="info-user">memuat…</span>
+        </div>
+        <h1>Pengguna</h1>
+        <p>Ubah level, tangguhkan akun, atau reset sandi.</p>
+      </header>
+
+      <div class="cari">
+        <input type="search" id="cari-user" placeholder="Cari nama pengguna…" autocomplete="off">
+      </div>
+
+      <div class="tabel-bungkus">
+        <table class="tabel" id="tabel-user">
+          <thead>
+            <tr>
+              <th>Pengguna</th>
+              <th>Level</th>
+              <th>Status</th>
+              <th>Terakhir masuk</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="isi-user">
+            <tr><td colspan="5" class="kosong-baris">memuat…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ============ BAHAN ============ -->
+    <section id="tab-bahan" hidden>
+      <header class="kepala-isi">
+        <div class="atas-kecil">
+          <span>Panel admin</span>
+          <span id="info-bahan">memuat…</span>
+        </div>
+        <h1>Bahan pelajaran</h1>
+        <p>Kosakata yang tersedia per level dan per hari.</p>
+      </header>
+
+      <div class="ringkas" id="ringkas-bahan"></div>
+
+      <div class="tabel-bungkus">
+        <table class="tabel" id="tabel-bahan">
+          <thead>
+            <tr>
+              <th>Level</th>
+              <th>Hari</th>
+              <th>Jumlah kata</th>
+              <th>Contoh kata</th>
+            </tr>
+          </thead>
+          <tbody id="isi-bahan">
+            <tr><td colspan="4" class="kosong-baris">memuat…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ============ STATISTIK ============ -->
+    <section id="tab-statistik" hidden>
+      <header class="kepala-isi">
+        <div class="atas-kecil">
+          <span>Panel admin</span>
+          <span>ringkasan</span>
+        </div>
+        <h1>Statistik</h1>
+        <p>Angka cepat soal pengguna dan aktivitas.</p>
+      </header>
+
+      <div class="kartu-angka" id="kartu-angka"></div>
+    </section>
+
+  </main>
+
+</div>
+
+<!-- ===== dialog reset sandi ===== -->
+<dialog id="dialog-sandi" class="dialog">
+  <h2>Reset sandi</h2>
+  <p id="sandi-untuk" class="dialog-sub"></p>
+  <div class="baris">
+    <label for="sandi-baru">Sandi baru</label>
+    <input type="password" id="sandi-baru" minlength="8" autocomplete="new-password" placeholder="minimal 8 karakter">
+  </div>
+  <p class="pesan" id="pesan-sandi" role="alert"></p>
+  <div class="dialog-aksi">
+    <button class="tbl-kosong" id="batal-sandi" type="button">Batal</button>
+    <button class="tbl" id="simpan-sandi" type="button">Simpan</button>
+  </div>
+</dialog>
+
+<script src="../aset/konfig.js?v=6620f70c"></script>
+<script type="module" src="../aset/sesi.js?v=2707a189"></script>
+<script type="module" src="../aset/admin.js?v=32c69900"></script>
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+## 25|複合語・よく使う名詞|26
+出入口|でいりぐち|pintu masuk-keluar|nomina|出入口はこちらです。|でいりぐちは こちらです。|Pintu masuknya di sini.
+引っ越し|ひっこし|pindahan|nomina|引っ越しをします。|ひっこしを します。|Saya akan pindahan.
+早口|はやくち|bicara cepat|nomina|早口で話します。|はやくちで はなします。|Dia bicara cepat.
+物価|ぶっか|harga barang|nomina|物価が高いです。|ぶっかが たかいです。|Harga barang mahal.
+夜空|よぞら|langit malam|nomina|夜空がきれいです。|よぞらが きれいです。|Langit malamnya indah.
+
+## 26|社会・出来事|26
+国際|こくさい|internasional|nomina|国際会議があります。|こくさい かいぎが あります。|Ada konferensi internasional.
+教育|きょういく|pendidikan|nomina|教育が大切です。|きょういくが たいせつです。|Pendidikan itu penting.
+産業|さんぎょう|industri|nomina|産業が発達しています。|さんぎょうが はったつしています。|Industrinya maju.
+環境|かんきょう|lingkungan|nomina|環境を守ります。|かんきょうを まもります。|Saya menjaga lingkungan.
+犯罪|はんざい|kejahatan|nomina|犯罪が減りました。|はんざいが へりました。|Kejahatan berkurang.
+
+## 27|文化・行事|26
+盆踊り|ぼんおどり|tarian obon|nomina|盆踊りをします。|ぼんおどりを します。|Kami menari obon.
+初詣|はつもうで|ziarah tahun baru|nomina|初詣に行きます。|はつもうでに いきます。|Saya pergi ziarah tahun baru.
+節分|せつぶん|setsubun|nomina|節分に豆をまきます。|せつぶんに まめを まきます。|Saat setsubun saya menabur kacang.
+紅葉|こうよう|daun musim gugur|nomina|紅葉がきれいです。|こうようが きれいです。|Daun musim gugurnya indah.
+和食|わしょく|masakan Jepang|nomina|和食が好きです。|わしょくが すきです。|Saya suka masakan Jepang.
+
+## 28|ビジネス・連絡|26
+見積もり|みつもり|estimasi biaya|nomina|見積もりをお願いします。|みつもりを おねがいします。|Mohon estimasi biayanya.
+請求書|せいきゅうしょ|tagihan|nomina|請求書を送ります。|せいきゅうしょを おくります。|Saya mengirim tagihan.
+在庫|ざいこ|stok|nomina|在庫がありません。|ざいこが ありません。|Stoknya habis.
+納品|のうひん|pengiriman barang|nomina|納品しました。|のうひんしました。|Barangnya sudah dikirim.
+取引|とりひき|transaksi|nomina|取引があります。|とりひきが あります。|Ada transaksi.
+
+## 29|数・量・程度|26
+大部分|だいぶぶん|sebagian besar|nomina|大部分終わりました。|だいぶぶん おわりました。|Sebagian besar sudah selesai.
+数え方|かぞえかた|cara menghitung|nomina|数え方が難しいです。|かぞえかたが むずかしいです。|Cara menghitungnya sulit.
+重さ|おもさ|berat|nomina|重さを量ります。|おもさを はかります。|Saya menimbang beratnya.
+長さ|ながさ|panjang|nomina|長さは二メートルです。|ながさは にメートルです。|Panjangnya dua meter.
+広さ|ひろさ|luas|nomina|広さは二十畳です。|ひろさは にじゅうじょうです。|Luasnya dua puluh tatami.
+
+## 30|重要語レビュー①|26
+可能性|かのうせい|kemungkinan|nomina|可能性があります。|かのうせいが あります。|Ada kemungkinan.
+必要性|ひつようせい|keperluan|nomina|必要性を感じます。|ひつようせいを かんじます。|Saya merasa perlu.
+優先|ゆうせん|prioritas|nomina|仕事を優先します。|しごとを ゆうせんします。|Saya memprioritaskan kerja.
+具体的|ぐたいてき|konkret|adjektiva-na|具体的に話します。|ぐたいてきに はなします。|Saya bicara konkret.
+一般的|いっぱんてき|umum|adjektiva-na|一般的な考えです。|いっぱんてきな かんがえです。|Pandangan yang umum.
+
+## 31|重要語レビュー②|26
+向上|こうじょう|peningkatan|nomina|能力が向上しました。|のうりょくが こうじょうしました。|Kemampuannya meningkat.
+評価|ひょうか|penilaian|nomina|評価が高いです。|ひょうかが たかいです。|Penilaiannya tinggi.
+貢献|こうけん|kontribusi|nomina|会社に貢献します。|かいしゃに こうけんします。|Saya berkontribusi ke perusahaan.
+段階|だんかい|tahap|nomina|次の段階です。|つぎの だんかいです。|Tahap berikutnya.
+継続|けいぞく|kelanjutan|nomina|継続が大事です。|けいぞくが だいじです。|Konsistensi itu penting.

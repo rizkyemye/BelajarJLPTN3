@@ -1,0 +1,93 @@
+## 32|宿泊・ホテル
+宿泊|しゅくはく|menginap|nomina|ホテルに宿泊します。|ほてるに しゅくはく します。|Saya menginap di hotel.
+予約票|よやくひょう|lembar reservasi|nomina|予約票を出してください。|よやくひょうを だして ください。|Tolong tunjukkan lembar reservasinya.
+出迎え|でむかえ|penjemputan|nomina|玄関でお出迎えします。|げんかんで おでむかえ します。|Saya menjemput di pintu masuk.
+滞在日数|たいざいんすう|jumlah hari tinggal|nomina|滞在日数を確認します。|たいざいんすうを かくにん します。|Saya memeriksa jumlah hari tinggalnya.
+手荷物|てにもつ|barang bawaan tangan|nomina|手荷物をお預かりします。|てにもつを おあずかり します。|Saya menitipkan barang bawaannya.
+浴室|よくしつ|kamar mandi|nomina|浴室はこちらです。|よくしつは こちらです。|Kamar mandinya di sini.
+寝間着|ねまき|pakaian tidur|nomina|寝間着は棚にあります。|ねまきは たなに あります。|Pakaian tidurnya ada di rak.
+毛布|もうふ|selimut|nomina|毛布をもう一枚ください。|もうふを もう いちまい ください。|Tolong tambah satu selimut lagi.
+枕|まくら|bantal|nomina|枕が硬いです。|まくらが かたいです。|Bantalnya keras.
+廊下|ろうか|koridor|nomina|廊下は静かにしてください。|ろうかは しずかに して ください。|Tolong tenang di koridor.
+正面玄関|しょうめんげんかん|pintu masuk utama|nomina|正面玄関が開きました。|しょうめんげんかんが あきました。|Pintu masuk utamanya sudah dibuka.
+合鍵|あいかぎ|kunci duplikat|nomina|合鍵を作ります。|あいかぎを つくります。|Saya membuat kunci duplikat.
+電球|でんきゅう|bola lampu|nomina|電球が切れました。|でんきゅうが きれました。|Bola lampunya putus.
+冷房|れいぼう|pendingin (AC)|nomina|冷房が強いです。|れいぼうが つよいです。|AC-nya terlalu dingin.
+暖房|だんぼう|pemanas|nomina|暖房をつけてください。|だんぼうを つけて ください。|Tolong nyalakan pemanas.
+温水|おんすい|air panas|nomina|温水が出ません。|おんすいが でません。|Air panasnya tidak keluar.
+蛇口|じゃぐち|keran air|nomina|蛇口を閉めてください。|じゃぐちを しめて ください。|Tolong tutup kerannya.
+鏡|かがみ|cermin|nomina|鏡が汚れています。|かがみが よごれて います。|Cerminnya kotor.
+宿泊客|しゅくはくきゃく|tamu menginap|nomina|宿泊客が増えました。|しゅくはくきゃくが ふえました。|Tamu menginap bertambah.
+部屋番号|へやばんごう|nomor kamar|nomina|部屋番号を教えてください。|へやばんごうを おしえて ください。|Tolong beri tahu nomor kamarnya.
+夕食|ゆうしょく|makan malam|nomina|夕食は七時からです。|ゆうしょくは しちじからです。|Makan malam mulai jam tujuh.
+清掃|せいそう|pembersihan|nomina|毎日清掃します。|まいにち せいそう します。|Dibersihkan setiap hari.
+点検|てんけん|pemeriksaan|nomina|部屋を点検しました。|へやを てんけん しました。|Kamarnya sudah diperiksa.
+館内|かんない|di dalam gedung|nomina|館内は禁煙です。|かんないは きんえんです。|Di dalam gedung dilarang merokok.
+禁煙|きんえん|dilarang merokok|nomina|ここは禁煙です。|ここは きんえんです。|Di sini dilarang merokok.
+喫煙|きつえん|merokok|nomina|喫煙所は一階です。|きつえんじょは いっかいです。|Tempat merokok di lantai satu.
+延長|えんちょう|perpanjangan|nomina|滞在を延長します。|たいざいを えんちょう します。|Saya memperpanjang masa tinggal.
+問い合わせ|といあわせ|pertanyaan / tanya|nomina|電話で問い合わせがありました。|でんわで といあわせが ありました。|Ada pertanyaan lewat telepon.
+案内図|あんないず|denah gedung|nomina|案内図を差し上げます。|あんないずを さしあげます。|Saya berikan denahnya.
+変更|へんこう|perubahan|nomina|予約を変更します。|よやくを へんこう します。|Saya mengubah reservasinya.
+## 33|接客・応対
+接客|せっきゃく|melayani tamu|nomina|接客の練習をします。|せっきゃくの れんしゅうを します。|Saya berlatih melayani tamu.
+応対|おうたい|menanggapi tamu|nomina|電話の応対が上手です。|でんわの おうたいが じょうずです。|Dia piawai menanggapi telepon.
+謙譲語|けんじょうご|bahasa merendah|nomina|謙譲語を使います。|けんじょうごを つかいます。|Saya memakai bahasa merendah.
+身だしなみ|みだしなみ|penampilan diri|nomina|身だしなみを整えます。|みだしなみを ととのえます。|Saya merapikan penampilan.
+笑顔|えがお|senyum|nomina|笑顔で迎えます。|えがおで むかえます。|Saya menyambut dengan senyum.
+順番|じゅんばん|urutan|nomina|順番にお並びください。|じゅんばんに おならび ください。|Silakan antre sesuai urutan.
+案内係|あんないがかり|petugas informasi|nomina|案内係に聞いてください。|あんないがかりに きいて ください。|Tolong tanya petugas informasinya.
+呼び出し|よびだし|panggilan|nomina|お客様を呼び出します。|おきゃくさまを よびだし します。|Saya memanggil tamu.
+案内板|あんないばん|papan petunjuk|nomina|案内板を見てください。|あんないばんを みて ください。|Silakan lihat papan petunjuknya.
+受付|うけつけ|resepsionis|nomina|受付でお待ちください。|うけつけで おまち ください。|Silakan tunggu di resepsionis.
+担当者|たんとうしゃ|penanggung jawab|nomina|担当者を呼びます。|たんとうしゃを よびます。|Saya memanggil penanggung jawabnya.
+確認|かくにん|konfirmasi|nomina|予約を確認します。|よやくを かくにん します。|Saya konfirmasi reservasinya.
+説明|せつめい|penjelasan|nomina|館内を説明します。|かんないを せつめい します。|Saya menjelaskan isi gedung.
+提案書|ていあんしょ|dokumen usulan|nomina|提案書を書きました。|ていあんしょを かきました。|Saya menulis dokumen usulannya.
+相談|そうだん|konsultasi|nomina|上司に相談します。|じょうしに そうだん します。|Saya berkonsultasi dengan atasan.
+報告書|ほうこくしょ|dokumen laporan|nomina|報告書を出します。|ほうこくしょを だします。|Saya menyerahkan laporannya.
+接遇|せつぐう|etiket melayani|nomina|接遇を学びます。|せつぐうを まなびます。|Saya mempelajari etiket melayani.
+苦情|くじょう|keluhan|nomina|苦情を受けました。|くじょうを うけました。|Saya menerima keluhan.
+要望|ようぼう|permintaan|nomina|お客様の要望を聞きます。|おきゃくさまの ようぼうを ききます。|Saya mendengar permintaan tamu.
+質問者|しつもんしゃ|penanya|nomina|質問者はこちらです。|しつもんしゃは こちらです。|Penanyanya yang ini.
+返答|へんとう|balasan|nomina|すぐ返答します。|すぐ へんとう します。|Saya balas segera.
+名札|なふだ|papan nama|nomina|名札をつけてください。|なふだを つけて ください。|Tolong pakai papan namanya.
+服装|ふくそう|pakaian|nomina|服装に気をつけます。|ふくそうに きを つけます。|Saya memperhatikan pakaian.
+受け答え|うけこたえ|tanggapan jawaban|nomina|受け答えがはっきりしています。|うけこたえが はっきり して います。|Jawabannya jelas.
+好印象|こういんしょう|kesan baik|nomina|好印象を持たれます。|こういんしょうを もたれます。|Kita dianggap memberi kesan baik.
+満足度|まんぞくど|tingkat kepuasan|nomina|満足度が上がりました。|まんぞくどが あがりました。|Tingkat kepuasannya naik.
+不満|ふまん|tidak puas|nomina|不満がありました。|ふまんが ありました。|Ada ketidakpuasan.
+お礼|おれい|ucapan terima kasih|nomina|お礼を言いました。|おれいを いいました。|Saya mengucapkan terima kasih.
+気配り|きくばり|perhatian pada sekitar|nomina|気配りが足りません。|きくばりが たりません。|Perhatiannya kurang.
+言葉遣い|ことばづかい|pilihan kata|nomina|言葉遣いに気をつけます。|ことばづかいに きを つけます。|Saya menjaga pilihan kata.
+## 34|厨房・調理
+厨房|ちゅうぼう|dapur (tempat masak)|nomina|厨房は暑いです。|ちゅうぼうは あついです。|Dapurnya panas.
+調理|ちょうり|memasak|nomina|料理を調理します。|りょうりを ちょうり します。|Saya memasak hidangan.
+包丁|ほうちょう|pisau dapur|nomina|包丁を研ぎます。|ほうちょうを とぎます。|Saya mengasah pisau.
+鍋|なべ|panci|nomina|鍋を火にかけます。|なべを ひに かけます。|Panci ditaruh di atas api.
+皿|さら|piring|nomina|皿を洗います。|さらを あらいます。|Saya mencuci piring.
+盛り付け|もりつけ|penataan hidangan|nomina|盛り付けがきれいです。|もりつけが きれいです。|Penataan hidangannya rapi.
+火加減|ひかげん|pengaturan api|nomina|火加減を見てください。|ひかげんを みて ください。|Tolong perhatikan api-nya.
+隠し味|かくしあじ|bumbu rahasia|nomina|隠し味を入れます。|かくしあじを いれます。|Saya memasukkan bumbu rahasia.
+下ごしらえ|したごしらえ|persiapan bahan|nomina|野菜を下ごしらえします。|やさいを したごしらえ します。|Saya menyiapkan sayurnya.
+冷凍庫|れいとうこ|freezer|nomina|冷凍庫に入れます。|れいとうこに いれます。|Saya masukkan ke freezer.
+冷凍|れいとう|pembekuan|nomina|肉を冷凍します。|にくを れいとう します。|Saya membekukan dagingnya.
+保存|ほぞん|penyimpanan|nomina|冷蔵庫で保存します。|れいぞうこで ほぞん します。|Disimpan di kulkas.
+賞味期限|しょうみきげん|batas layak makan|nomina|賞味期限を見てください。|しょうみきげんを みて ください。|Tolong lihat batas layak makannya.
+衛生|えいせい|higienitas|nomina|衛生に気をつけます。|えいせいに きを つけます。|Saya menjaga kebersihan.
+手洗い|てあらい|cuci tangan|nomina|手洗いをしてください。|てあらいを して ください。|Silakan cuci tangan.
+消毒|しょうどく|disinfeksi|nomina|道具を消毒します。|どうぐを しょうどく します。|Saya mendisinfeksi peralatannya.
+洗剤|せんざい|deterjen|nomina|洗剤が足りません。|せんざいが たりません。|Deterjennya kurang.
+器具|きぐ|peralatan|nomina|器具を片付けます。|きぐを かたづけます。|Saya membereskan peralatan.
+分量|ぶんりょう|takaran|nomina|分量を量ります。|ぶんりょうを はかります。|Saya menakar jumlahnya.
+順序|じゅんじょ|urutan|nomina|順序を守ります。|じゅんじょを まもります。|Saya mengikuti urutannya.
+完成|かんせい|selesai|nomina|料理が完成しました。|りょうりが かんせい しました。|Hidangannya selesai.
+後片付け|あとかたづけ|membereskan sesudahnya|nomina|後片付けをします。|あとかたづけを します。|Saya membereskan sesudahnya.
+在庫切れ|ざいこぎれ|stok habis|nomina|在庫切れになりました。|ざいこぎれに なりました。|Stoknya habis.
+発注|はっちゅう|pemesanan barang|nomina|野菜を発注します。|やさいを はっちゅう します。|Saya memesan sayur.
+仕入れ|しいれ|pembelian bahan|nomina|野菜を仕入れます。|やさいを しいれます。|Saya membeli bahan sayur.
+検品|けんぴん|pemeriksaan barang|nomina|納品を検品します。|のうひんを けんぴん します。|Saya memeriksa barang kiriman.
+廃棄|はいき|pembuangan|nomina|古い物を廃棄します。|ふるい ものを はいき します。|Saya membuang barang lama.
+記録|きろく|catatan|nomina|温度を記録します。|おんどを きろく します。|Saya mencatat suhunya.
+加熱|かねつ|pemanasan|nomina|スープを加熱します。|すーぷを かねつ します。|Supnya saya panaskan.
+盛り合わせ|もりあわせ|hidangan campur|nomina|盛り合わせを作ります。|もりあわせを つくります。|Saya membuat hidangan campur.

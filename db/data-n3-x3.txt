@@ -1,0 +1,55 @@
+## 17|動詞①・毎日の動作|26
+歌う|うたう|menyanyi|verba|みんなで歌います。|みんなで うたいます。|Kami menyanyi bersama.
+描く|かく|menggambar|verba|絵を描きます。|えを かきます。|Saya menggambar.
+弾く|ひく|memainkan (alat musik)|verba|ピアノを弾きます。|ピアノを ひきます。|Saya bermain piano.
+読む|よむ|membaca|verba|本を読みます。|ほんを よみます。|Saya membaca buku.
+書く|かく|menulis|verba|名前を書きます。|なまえを かきます。|Saya menulis nama.
+
+## 18|動詞②・考える・伝える|26
+報告する|ほうこくする|melaporkan|verba|結果を報告します。|けっかを ほうこくします。|Saya melaporkan hasilnya.
+相談する|そうだんする|berkonsultasi|verba|先生に相談します。|せんせいに そうだんします。|Saya berkonsultasi ke guru.
+約束する|やくそくする|berjanji|verba|友達と約束しました。|ともだちと やくそくしました。|Saya berjanji dengan teman.
+案内する|あんないする|memandu|verba|町を案内します。|まちを あんないします。|Saya memandu keliling kota.
+紹介する|しょうかいする|memperkenalkan|verba|友達を紹介します。|ともだちを しょうかいします。|Saya memperkenalkan teman.
+
+## 19|動詞③・変化と移動|26
+開く|あく|terbuka|verba|店が開きました。|みせが あきました。|Tokonya sudah buka.
+閉まる|しまる|tertutup|verba|ドアが閉まりました。|ドアが しまりました。|Pintunya tertutup.
+落ちる|おちる|jatuh|verba|荷物が落ちました。|にもつが おちました。|Barangnya jatuh.
+割れる|われる|pecah|verba|コップが割れました。|コップが われました。|Gelasnya pecah.
+壊す|こわす|merusak|verba|おもちゃを壊しました。|おもちゃを こわしました。|Saya merusak mainannya.
+
+## 20|形容詞・い|26
+暗い|くらい|gelap|adjektiva-i|外は暗いです。|そとは くらいです。|Di luar gelap.
+深い|ふかい|dalam|adjektiva-i|川が深いです。|かわが ふかいです。|Sungainya dalam.
+浅い|あさい|dangkal|adjektiva-i|ここは浅いです。|ここは あさいです。|Di sini dangkal.
+硬い|かたい|keras|adjektiva-i|パンが硬いです。|パンが かたいです。|Rotinya keras.
+柔らかい|やわらかい|lembut|adjektiva-i|肉が柔らかいです。|にくが やわらかいです。|Dagingnya lembut.
+
+## 21|形容詞・な|26
+迷惑|めいわく|merepotkan|adjektiva-na|迷惑をかけました。|めいわくを かけました。|Saya merepotkan.
+贅沢|ぜいたく|mewah|adjektiva-na|贅沢な料理です。|ぜいたくな りょうりです。|Masakan yang mewah.
+新鮮|しんせん|segar|adjektiva-na|魚が新鮮です。|さかなが しんせんです。|Ikannya segar.
+油っこい|あぶらっこい|berminyak|adjektiva-i|少し油っこいです。|すこし あぶらっこいです。|Agak berminyak.
+地味|じみ|sederhana / kalem|adjektiva-na|地味な色です。|じみな いろです。|Warnanya kalem.
+
+## 22|副詞①|26
+すっかり|すっかり|sama sekali (sudah)|adverbia|すっかり忘れました。|すっかり わすれました。|Saya lupa sama sekali.
+せっかく|せっかく|dengan susah payah|adverbia|せっかく来ました。|せっかく きました。|Saya datang susah payah.
+わざわざ|わざわざ|sengaja repot-repot|adverbia|わざわざ来ました。|わざわざ きました。|Dia repot-repot datang.
+たしかに|たしかに|memang benar|adverbia|たしかにそうです。|たしかに そうです。|Memang begitu.
+むしろ|むしろ|justru|adverbia|むしろ嬉しいです。|むしろ うれしいです。|Justru saya senang.
+
+## 23|副詞②・つなぎ言葉|26
+決して|けっして|tidak akan (dengan negatif)|adverbia|決して忘れません。|けっして わすれません。|Saya tidak akan lupa.
+別に|べつに|tidak begitu|adverbia|別に大丈夫です。|べつに だいじょうぶです。|Biasa saja, tidak apa-apa.
+逆に|ぎゃくに|sebaliknya|adverbia|逆に安いです。|ぎゃくに やすいです。|Sebaliknya jadi murah.
+一方|いっぽう|di sisi lain|nomina|一方で難しいです。|いっぽうで むずかしいです。|Di sisi lain sulit.
+さらに|さらに|lebih lagi|adverbia|さらに増えました。|さらに ふえました。|Bertambah lagi.
+
+## 24|擬音語・擬態語|26
+ごろごろ|ごろごろ|mager / berguling|adverbia|休みはごろごろします。|やすみは ごろごろします。|Hari libur saya mager.
+にこにこ|にこにこ|tersenyum|adverbia|彼女はにこにこしています。|かのじょは にこにこしています。|Dia tersenyum.
+ぷんぷん|ぷんぷん|marah (kelihatan)|adverbia|少しぷんぷんしています。|すこし ぷんぷんしています。|Dia agak marah.
+しーん|しーん|hening|adverbia|部屋がしーんとしています。|へやが しーんと しています。|Kamarnya hening.
+ぐーぐー|ぐーぐー|tidur mendengkur|adverbia|ぐーぐー寝ています。|ぐーぐー ねています。|Dia tidur mendengkur.

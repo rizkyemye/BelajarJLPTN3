@@ -1,0 +1,134 @@
+## 17|動詞①・毎日の動作
+起きる|おきる|bangun tidur|verba|六時に起きます。|ろくじに おきます。|Saya bangun jam enam.
+寝る|ねる|tidur|verba|十一時に寝ます。|じゅういちじに ねます。|Saya tidur jam sebelas.
+着る|きる|memakai (atasan)|verba|シャツを着ます。|シャツを きます。|Saya memakai kemeja.
+脱ぐ|ぬぐ|melepas|verba|靴を脱ぎます。|くつを ぬぎます。|Saya melepas sepatu.
+履く|はく|memakai (bawahan/sepatu)|verba|靴を履きます。|くつを はきます。|Saya memakai sepatu.
+座る|すわる|duduk|verba|椅子に座ります。|いすに すわります。|Saya duduk di kursi.
+立つ|たつ|berdiri|verba|ここに立ちます。|ここに たちます。|Saya berdiri di sini.
+開ける|あける|membuka|verba|ドアを開けます。|ドアを あけます。|Saya membuka pintu.
+閉める|しめる|menutup|verba|窓を閉めます。|まどを しめます。|Saya menutup jendela.
+入れる|いれる|memasukkan|verba|牛乳を入れます。|ぎゅうにゅうを いれます。|Saya memasukkan susu.
+出す|だす|mengeluarkan|verba|手紙を出します。|てがみを だします。|Saya mengirim surat.
+取る|とる|mengambil|verba|塩を取ります。|しおを とります。|Saya mengambil garam.
+置く|おく|meletakkan|verba|机に置きます。|つくえに おきます。|Saya meletakkan di meja.
+持つ|もつ|membawa / memegang|verba|荷物を持ちます。|にもつを もちます。|Saya membawa barang.
+洗う|あらう|mencuci|verba|手を洗います。|てを あらいます。|Saya mencuci tangan.
+拭く|ふく|mengelap|verba|机を拭きます。|つくえを ふきます。|Saya mengelap meja.
+切る|きる|memotong|verba|野菜を切ります。|やさいを きります。|Saya memotong sayur.
+待つ|まつ|menunggu|verba|駅で待ちます。|えきで まちます。|Saya menunggu di stasiun.
+会う|あう|bertemu|verba|友達に会います。|ともだちに あいます。|Saya bertemu teman.
+話す|はなす|berbicara|verba|ゆっくり話してください。|ゆっくり はなしてください。|Tolong bicara pelan-pelan.
+聞く|きく|mendengar / bertanya|verba|音楽を聞きます。|おんがくを ききます。|Saya mendengarkan musik.
+見る|みる|melihat|verba|テレビを見ます。|テレビを みます。|Saya menonton TV.
+答える|こたえる|menjawab|verba|質問に答えます。|しつもんに こたえます。|Saya menjawab pertanyaan.
+呼ぶ|よぶ|memanggil|verba|名前を呼びます。|なまえを よびます。|Saya memanggil namanya.
+片付ける|かたづける|merapikan|verba|部屋を片付けます。|へやを かたづけます。|Saya merapikan kamar.
+
+## 18|動詞②・考える・伝える
+考える|かんがえる|berpikir|verba|よく考えます。|よく かんがえます。|Saya berpikir baik-baik.
+思う|おもう|merasa / berpikir|verba|そう思います。|そう おもいます。|Saya rasa begitu.
+知る|しる|tahu|verba|その話は知っています。|その はなしは しっています。|Saya tahu soal itu.
+分かる|わかる|mengerti|verba|意味が分かります。|いみが わかります。|Saya mengerti artinya.
+信じる|しんじる|percaya|verba|彼を信じます。|かれを しんじます。|Saya percaya padanya.
+決める|きめる|memutuskan|verba|日にちを決めます。|ひにちを きめます。|Saya menentukan tanggalnya.
+変える|かえる|mengubah|verba|予定を変えます。|よていを かえます。|Saya mengubah rencana.
+選ぶ|えらぶ|memilih|verba|色を選びます。|いろを えらびます。|Saya memilih warna.
+比べる|くらべる|membandingkan|verba|値段を比べます。|ねだんを くらべます。|Saya membandingkan harga.
+伝える|つたえる|menyampaikan|verba|気持ちを伝えます。|きもちを つたえます。|Saya menyampaikan perasaan.
+説明する|せつめいする|menjelaskan|verba|使い方を説明します。|つかいかたを せつめいします。|Saya menjelaskan cara pakainya.
+頼む|たのむ|meminta|verba|友達に頼みます。|ともだちに たのみます。|Saya meminta bantuan teman.
+誘う|さそう|mengajak|verba|友達を誘います。|ともだちを さそいます。|Saya mengajak teman.
+断る|ことわる|menolak|verba|誘いを断りました。|さそいを ことわりました。|Saya menolak ajakannya.
+認める|みとめる|mengakui|verba|間違いを認めます。|まちがいを みとめます。|Saya mengakui kesalahan.
+疑う|うたがう|meragukan|verba|少し疑っています。|すこし うたがっています。|Saya agak ragu.
+褒める|ほめる|memuji|verba|上手だと褒めます。|じょうずだと ほめます。|Saya memuji karena pandai.
+謝る|あやまる|meminta maaf|verba|遅れて謝ります。|おくれて あやまります。|Saya minta maaf karena terlambat.
+頼る|たよる|bergantung / minta tolong|verba|家族に頼ります。|かぞくに たよります。|Saya minta tolong keluarga.
+決まる|きまる|ditentukan|verba|日が決まりました。|ひが きまりました。|Tanggalnya sudah ditentukan.
+注意する|ちゅういする|berhati-hati / menegur|verba|車に注意してください。|くるまに ちゅういしてください。|Hati-hati dengan mobil.
+思い出す|おもいだす|mengingat kembali|verba|名前を思い出しました。|なまえを おもいだしました。|Saya ingat namanya.
+気づく|きづく|menyadari|verba|間違いに気づきました。|まちがいに きづきました。|Saya menyadari kesalahannya.
+数える|かぞえる|menghitung|verba|お金を数えます。|おかねを かぞえます。|Saya menghitung uang.
+感じる|かんじる|merasakan|verba|寒さを感じます。|さむさを かんじます。|Saya merasakan dingin.
+
+## 19|動詞③・変化と移動
+始まる|はじまる|dimulai|verba|授業が始まります。|じゅぎょうが はじまります。|Pelajaran dimulai.
+終わる|おわる|selesai|verba|仕事が終わりました。|しごとが おわりました。|Kerjaannya sudah selesai.
+始める|はじめる|memulai|verba|勉強を始めます。|べんきょうを はじめます。|Saya mulai belajar.
+続く|つづく|berlanjut|verba|雨が続きます。|あめが つづきます。|Hujannya berlanjut.
+変わる|かわる|berubah|verba|天気が変わりました。|てんきが かわりました。|Cuacanya berubah.
+増える|ふえる|bertambah|verba|人が増えました。|ひとが ふえました。|Orangnya bertambah.
+減る|へる|berkurang|verba|水が減りました。|みずが へりました。|Airnya berkurang.
+上がる|あがる|naik|verba|値段が上がります。|ねだんが あがります。|Harganya naik.
+下がる|さがる|turun|verba|気温が下がります。|きおんが さがります。|Suhunya turun.
+入る|はいる|masuk|verba|部屋に入ります。|へやに はいります。|Saya masuk kamar.
+出る|でる|keluar|verba|家を出ます。|いえを でます。|Saya keluar rumah.
+進む|すすむ|maju / berjalan|verba|工事が進みます。|こうじが すすみます。|Pembangunannya maju.
+戻る|もどる|kembali|verba|席に戻ります。|せきに もどります。|Saya kembali ke kursi.
+着く|つく|tiba|verba|駅に着きました。|えきに つきました。|Saya sudah tiba di stasiun.
+通う|かよう|bolak-balik|verba|学校に通っています。|がっこうに かよっています。|Saya bolak-balik ke sekolah.
+越える|こえる|melewati|verba|山を越えます。|やまを こえます。|Saya melewati gunung.
+集まる|あつまる|berkumpul|verba|人が集まりました。|ひとが あつまりました。|Orang-orang berkumpul.
+残る|のこる|tersisa|verba|お金が残りました。|おかねが のこりました。|Uangnya tersisa.
+消える|きえる|hilang / padam|verba|電気が消えました。|でんきが きえました。|Lampunya padam.
+生まれる|うまれる|lahir|verba|子供が生まれました。|こどもが うまれました。|Anaknya lahir.
+育つ|そだつ|tumbuh|verba|野菜が育ちます。|やさいが そだちます。|Sayurnya tumbuh.
+枯れる|かれる|layu / mati (tanaman)|verba|花が枯れました。|はなが かれました。|Bunganya layu.
+止まる|とまる|berhenti|verba|バスが止まりました。|バスが とまりました。|Busnya berhenti.
+逃げる|にげる|kabur|verba|犬が逃げました。|いぬが にげました。|Anjingnya kabur.
+届ける|とどける|mengantarkan|verba|荷物を届けます。|にもつを とどけます。|Saya mengantar barang.
+
+## 20|形容詞・い
+大きい|おおきい|besar|adjektiva-i|家が大きいです。|いえが おおきいです。|Rumahnya besar.
+小さい|ちいさい|kecil|adjektiva-i|部屋が小さいです。|へやが ちいさいです。|Kamarnya kecil.
+長い|ながい|panjang|adjektiva-i|髪が長いです。|かみが ながいです。|Rambutnya panjang.
+短い|みじかい|pendek|adjektiva-i|時間が短いです。|じかんが みじかいです。|Waktunya singkat.
+新しい|あたらしい|baru|adjektiva-i|新しい車です。|あたらしい くるまです。|Mobil baru.
+古い|ふるい|tua / lama|adjektiva-i|古い家です。|ふるい いえです。|Rumah tua.
+若い|わかい|muda|adjektiva-i|まだ若いです。|まだ わかいです。|Masih muda.
+強い|つよい|kuat|adjektiva-i|風が強いです。|かぜが つよいです。|Anginnya kencang.
+弱い|よわい|lemah|adjektiva-i|体が弱いです。|からだが よわいです。|Badan saya lemah.
+重い|おもい|berat|adjektiva-i|荷物が重いです。|にもつが おもいです。|Barangnya berat.
+軽い|かるい|ringan|adjektiva-i|この袋は軽いです。|この ふくろは かるいです。|Kantong ini ringan.
+速い|はやい|cepat (kecepatan)|adjektiva-i|走るのが速いです。|はしるのが はやいです。|Larinya cepat.
+太い|ふとい|tebal / besar|adjektiva-i|木が太いです。|きが ふといです。|Pohonnya besar.
+細い|ほそい|tipis / kecil|adjektiva-i|道が細いです。|みちが ほそいです。|Jalannya sempit.
+丸い|まるい|bulat|adjektiva-i|月が丸いです。|つきが まるいです。|Bulannya bulat.
+正しい|ただしい|benar|adjektiva-i|答えは正しいです。|こたえは ただしいです。|Jawabannya benar.
+難しい|むずかしい|sulit|adjektiva-i|漢字は難しいです。|かんじは むずかしいです。|Kanji itu sulit.
+易しい|やさしい|mudah|adjektiva-i|この問題は易しいです。|この もんだいは やさしいです。|Soal ini mudah.
+珍しい|めずらしい|langka|adjektiva-i|珍しい魚です。|めずらしい さかなです。|Ikan yang langka.
+少ない|すくない|sedikit|adjektiva-i|人が少ないです。|ひとが すくないです。|Orangnya sedikit.
+多い|おおい|banyak|adjektiva-i|車が多いです。|くるまが おおいです。|Mobilnya banyak.
+汚い|きたない|kotor|adjektiva-i|部屋が汚いです。|へやが きたないです。|Kamarnya kotor.
+うるさい|うるさい|berisik|adjektiva-i|外がうるさいです。|そとが うるさいです。|Di luar berisik.
+痛い|いたい|sakit / nyeri|adjektiva-i|頭が痛いです。|あたまが いたいです。|Kepala saya sakit.
+危ない|あぶない|berbahaya|adjektiva-i|ここは危ないです。|ここは あぶないです。|Di sini berbahaya.
+
+## 21|形容詞・な
+大切|たいせつ|penting|adjektiva-na|家族が大切です。|かぞくが たいせつです。|Keluarga itu penting.
+大事|だいじ|penting|adjektiva-na|大事な書類です。|だいじな しょるいです。|Dokumen penting.
+簡単|かんたん|mudah / sederhana|adjektiva-na|簡単な問題です。|かんたんな もんだいです。|Soal yang mudah.
+複雑|ふくざつ|rumit|adjektiva-na|複雑な話です。|ふくざつな はなしです。|Cerita yang rumit.
+特別|とくべつ|istimewa|adjektiva-na|特別な日です。|とくべつな ひです。|Hari yang istimewa.
+普通|ふつう|biasa|adjektiva-na|普通の生活です。|ふつうの せいかつです。|Kehidupan biasa.
+同じ|おなじ|sama|adjektiva-na|同じ色です。|おなじ いろです。|Warnanya sama.
+違う|ちがう|berbeda|verba|意見が違います。|いけんが ちがいます。|Pendapatnya berbeda.
+確か|たしか|pasti|adjektiva-na|確かな情報です。|たしかな じょうほうです。|Informasi yang pasti.
+自由|じゆう|bebas|adjektiva-na|自由な時間です。|じゆうな じかんです。|Waktu bebas.
+安全|あんぜん|aman|adjektiva-na|ここは安全です。|ここは あんぜんです。|Di sini aman.
+危険|きけん|bahaya|adjektiva-na|危険な場所です。|きけんな ばしょです。|Tempat berbahaya.
+十分|じゅうぶん|cukup|adjektiva-na|十分な時間です。|じゅうぶんな じかんです。|Waktunya cukup.
+無理|むり|mustahil / memaksakan|adjektiva-na|無理な話です。|むりな はなしです。|Permintaan yang tidak masuk akal.
+得意|とくい|unggul / menguasai|adjektiva-na|料理が得意です。|りょうりが とくいです。|Saya jago memasak.
+立派|りっぱ|megah / hebat|adjektiva-na|立派な建物です。|りっぱな たてものです。|Bangunan megah.
+素敵|すてき|bagus / menawan|adjektiva-na|素敵な部屋です。|すてきな へやです。|Kamar yang menawan.
+貧しい|まずしい|miskin|adjektiva-i|貧しい村です。|まずしい むらです。|Desa yang miskin.
+豊か|ゆたか|makmur / kaya|adjektiva-na|豊かな国です。|ゆたかな くにです。|Negara makmur.
+賑やか|にぎやか|ramai|adjektiva-na|賑やかな町です。|にぎやかな まちです。|Kota yang ramai.
+変|へん|aneh|adjektiva-na|変な音がします。|へんな おとが します。|Ada bunyi aneh.
+正直|しょうじき|jujur|adjektiva-na|正直な人です。|しょうじきな ひとです。|Orang jujur.
+丁寧|ていねい|sopan / teliti|adjektiva-na|丁寧な言葉です。|ていねいな ことばです。|Kata-kata yang sopan.
+熱い|あつい|panas (benda)|adjektiva-i|お茶が熱いです。|おちゃが あついです。|Tehnya panas.
+冷たい|つめたい|dingin (benda)|adjektiva-i|水が冷たいです。|みずが つめたいです。|Airnya dingin.

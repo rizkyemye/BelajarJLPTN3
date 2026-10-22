@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-store">
+<title>Daftar · 日本語 Belajar</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="aset/desain.css?v=cf302755">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#b7202e">
+<link rel="apple-touch-icon" href="ikon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+<body>
+<script src="aset/splash.js?v=84c0bf89"></script>
+<script src="aset/skeleton.js?v=7d41ad73"></script>
+
+<main class="masuk">
+
+  <div class="kanji" aria-hidden="true">日本語</div>
+
+  <div class="form">
+    <p class="tanda">JLPT · N5–N3</p>
+
+    <h1>Buat akun</h1>
+    <p class="ket">Tanpa email. Cukup nama pengguna dan sandi.</p>
+
+    <p class="pesan" id="pesan" role="alert"></p>
+
+    <form id="form" novalidate>
+
+      <div class="baris">
+        <label for="username">Nama pengguna</label>
+        <input id="username" name="username" type="text"
+               autocomplete="username" autocapitalize="none" spellcheck="false"
+               placeholder="huruf kecil, angka, titik, garis bawah"
+               required minlength="3" maxlength="24">
+        <p class="bantu">3–24 karakter. Huruf kecil, angka, titik, atau garis bawah.</p>
+      </div>
+
+      <div class="baris">
+        <label for="sandi">Sandi</label>
+        <input id="sandi" name="sandi" type="password"
+               autocomplete="new-password" placeholder="minimal 8 karakter" required minlength="8">
+      </div>
+
+      <div class="baris">
+        <label for="sandi2">Ulangi sandi</label>
+        <input id="sandi2" name="sandi2" type="password"
+               autocomplete="new-password" placeholder="••••••••" required minlength="8">
+      </div>
+
+      <div class="baris">
+        <label>Mulai dari level</label>
+        <div class="level-pilih">
+          <input type="radio" name="level" id="lv-n5" value="n5" checked>
+          <label for="lv-n5">N5</label>
+          <input type="radio" name="level" id="lv-n4" value="n4">
+          <label for="lv-n4">N4</label>
+          <input type="radio" name="level" id="lv-n3" value="n3">
+          <label for="lv-n3">N3</label>
+        </div>
+      </div>
+
+      <button type="submit" class="tbl-lebar" id="tombol">Daftar</button>
+    </form>
+
+    <p class="alt">
+      Sudah punya akun? <a href="login.html">Masuk</a>
+    </p>
+
+    <p class="alt" style="margin-top:26px">
+      <a href="index.html">← Kembali ke halaman depan</a>
+    </p>
+  </div>
+
+</main>
+
+<script src="aset/konfig.js?v=6620f70c"></script>
+<script type="module" src="aset/daftar.js?v=6a3d2793"></script>
+
+</body>
+</html>

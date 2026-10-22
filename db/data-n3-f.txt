@@ -1,0 +1,134 @@
+## 27|文化・行事
+文化|ぶんか|budaya|nomina|日本の文化が好きです。|にほんの ぶんかが すきです。|Saya suka budaya Jepang.
+伝統|でんとう|tradisi|nomina|伝統を守ります。|でんとうを まもります。|Saya menjaga tradisi.
+祭り|まつり|festival|nomina|祭りに行きます。|まつりに いきます。|Saya pergi ke festival.
+正月|しょうがつ|tahun baru Jepang|nomina|正月に帰ります。|しょうがつに かえります。|Saya pulang saat tahun baru.
+花見|はなみ|melihat bunga|nomina|花見をします。|はなみを します。|Saya melihat bunga sakura.
+浴衣|ゆかた|yukata|nomina|浴衣を着ます。|ゆかたを きます。|Saya memakai yukata.
+茶道|さどう|upacara teh|nomina|茶道を習います。|さどうを ならいます。|Saya belajar upacara teh.
+書道|しょどう|kaligrafi|nomina|書道が趣味です。|しょどうが しゅみです。|Kaligrafi hobi saya.
+歌舞伎|かぶき|kabuki|nomina|歌舞伎を見ました。|かぶきを みました。|Saya menonton kabuki.
+相撲|すもう|sumo|nomina|相撲が好きです。|すもうが すきです。|Saya suka sumo.
+着物|きもの|kimono|nomina|着物は高いです。|きものは たかいです。|Kimononya mahal.
+畳|たたみ|tikar tatami|nomina|畳の部屋です。|たたみの へやです。|Kamar bertatami.
+布団|ふとん|futon|nomina|布団を敷きます。|ふとんを しきます。|Saya menggelar futon.
+箸|はし|sumpit|nomina|箸で食べます。|はしで たべます。|Saya makan pakai sumpit.
+味噌汁|みそしる|sup miso|nomina|味噌汁を作ります。|みそしるを つくります。|Saya membuat sup miso.
+寿司|すし|sushi|nomina|寿司を食べます。|すしを たべます。|Saya makan sushi.
+天ぷら|てんぷら|tempura|nomina|天ぷらが好きです。|てんぷらが すきです。|Saya suka tempura.
+お辞儀|おじぎ|membungkuk|nomina|お辞儀をします。|おじぎを します。|Saya membungkuk.
+敬語|けいご|bahasa sopan|nomina|敬語は難しいです。|けいごは むずかしいです。|Bahasa sopan itu sulit.
+挨拶|あいさつ|salam|nomina|挨拶をします。|あいさつを します。|Saya memberi salam.
+礼儀|れいぎ|tata krama|nomina|礼儀が大切です。|れいぎが たいせつです。|Tata krama itu penting.
+慣習|かんしゅう|kebiasaan turun-temurun|nomina|古い慣習です。|ふるい かんしゅうです。|Kebiasaan lama.
+芸術|げいじゅつ|seni|nomina|芸術が好きです。|げいじゅつが すきです。|Saya suka seni.
+歴史|れきし|sejarah|nomina|歴史を勉強します。|れきしを べんきょうします。|Saya belajar sejarah.
+民話|みんわ|cerita rakyat|nomina|民話を読みます。|みんわを よみます。|Saya membaca cerita rakyat.
+
+## 28|ビジネス・連絡
+お世話|おせわ|bantuan / dukungan|nomina|お世話になりました。|おせわに なりました。|Terima kasih atas bantuannya.
+担当|たんとう|penanggung jawab|nomina|担当は田中さんです。|たんとうは たなかさんです。|Penanggung jawabnya Pak Tanaka.
+承知|しょうち|mengerti (formal)|nomina|承知しました。|しょうちしました。|Baik, saya mengerti.
+添付|てんぷ|lampiran|nomina|添付を確認してください。|てんぷを かくにんしてください。|Tolong cek lampirannya.
+件名|けんめい|subjek|nomina|件名を書きます。|けんめいを かきます。|Saya menulis subjek.
+宛先|あてさき|alamat tujuan|nomina|宛先を入れます。|あてさきを いれます。|Saya mengisi alamat tujuan.
+返信|へんしん|balasan|nomina|返信をお願いします。|へんしんを おねがいします。|Mohon dibalas.
+転送|てんそう|meneruskan|nomina|メールを転送します。|メールを てんそうします。|Saya meneruskan surel.
+印刷|いんさつ|mencetak|nomina|資料を印刷します。|しりょうを いんさつします。|Saya mencetak dokumen.
+会計|かいけい|akuntansi|nomina|会計を担当しています。|かいけいを たんとうしています。|Saya bertanggung jawab di akuntansi.
+売上|うりあげ|penjualan|nomina|売上が増えました。|うりあげが ふえました。|Penjualan naik.
+利益|りえき|keuntungan|nomina|利益が出ました。|りえきが でました。|Sudah untung.
+費用|ひよう|biaya|nomina|費用がかかります。|ひようが かかります。|Perlu biaya.
+予算|よさん|anggaran|nomina|予算が足りません。|よさんが たりません。|Anggarannya kurang.
+提案|ていあん|usulan|nomina|提案をします。|ていあんを します。|Saya mengajukan usulan.
+承認|しょうにん|persetujuan|nomina|承認をもらいます。|しょうにんを もらいます。|Saya meminta persetujuan.
+打ち合わせ|うちあわせ|rapat koordinasi|nomina|打ち合わせがあります。|うちあわせが あります。|Ada rapat koordinasi.
+納期|のうき|tenggat pengiriman|nomina|納期は来週です。|のうきは らいしゅうです。|Tenggat kirimnya minggu depan.
+処理|しょり|pemrosesan|nomina|処理が終わりました。|しょりが おわりました。|Pemrosesannya selesai.
+指示|しじ|instruksi|nomina|指示を待ちます。|しじを まちます。|Saya menunggu instruksi.
+連絡先|れんらくさき|kontak|nomina|連絡先を教えてください。|れんらくさきを おしえてください。|Tolong beri tahu kontaknya.
+面談|めんだん|pertemuan / wawancara|nomina|面談があります。|めんだんが あります。|Ada pertemuan.
+出社|しゅっしゃ|masuk kantor|nomina|九時に出社します。|くじに しゅっしゃします。|Saya masuk kantor jam sembilan.
+退社|たいしゃ|pulang kantor|nomina|六時に退社します。|ろくじに たいしゃします。|Saya pulang kantor jam enam.
+有給|ゆうきゅう|cuti berbayar|nomina|有給を取ります。|ゆうきゅうを とります。|Saya mengambil cuti.
+
+## 29|数・量・程度
+数|かず|jumlah|nomina|数が足りません。|かずが たりません。|Jumlahnya kurang.
+半分|はんぶん|setengah|nomina|半分食べました。|はんぶん たべました。|Saya makan setengahnya.
+倍|ばい|kali (lipat)|nomina|二倍になりました。|にばいに なりました。|Menjadi dua kali lipat.
+平均|へいきん|rata-rata|nomina|平均は八十点です。|へいきんは はちじゅってんです。|Rata-ratanya delapan puluh.
+合計|ごうけい|total|nomina|合計は千円です。|ごうけいは せんえんです。|Totalnya seribu yen.
+残り|のこり|sisa|nomina|残りは少しです。|のこりは すこしです。|Sisanya sedikit.
+以上|いじょう|lebih dari|nomina|十人以上います。|じゅうにん いじょう います。|Ada sepuluh orang lebih.
+以下|いか|kurang dari|nomina|五人以下です。|ごにん いかです。|Lima orang atau kurang.
+以内|いない|dalam batas|nomina|一週間以内です。|いっしゅうかん いないです。|Dalam satu minggu.
+程度|ていど|tingkat / sekadar|nomina|この程度です。|この ていどです。|Sekitar segini.
+割合|わりあい|proporsi|nomina|割合が高いです。|わりあいが たかいです。|Proporsinya tinggi.
+番目|ばんめ|ke- (urutan)|nomina|三番目です。|さんばんめです。|Yang ketiga.
+回|かい|kali|nomina|三回行きました。|さんかい いきました。|Saya pergi tiga kali.
+個|こ|buah (benda kecil)|nomina|りんごを三個買います。|りんごを さんこ かいます。|Saya beli tiga apel.
+枚|まい|lembar|nomina|紙を二枚ください。|かみを にまい ください。|Minta dua lembar kertas.
+台|だい|unit (mesin)|nomina|車が二台あります。|くるまが にだい あります。|Ada dua mobil.
+冊|さつ|buku (satuan)|nomina|本を三冊借ります。|ほんを さんさつ かります。|Saya meminjam tiga buku.
+匹|ひき|ekor|nomina|猫が二匹います。|ねこが にひき います。|Ada dua kucing.
+杯|はい|cangkir / gelas|nomina|コーヒーを一杯ください。|コーヒーを いっぱい ください。|Minta satu cangkir kopi.
+セット|セット|set|nomina|二つセットです。|ふたつ セットです。|Satu set dua buah.
+多数|たすう|banyak orang|nomina|多数の人が来ました。|たすうの ひとが きました。|Banyak orang datang.
+少数|しょうすう|sedikit orang|nomina|少数の意見です。|しょうすうの いけんです。|Pendapat minoritas.
+最大|さいだい|maksimum|nomina|最大十人です。|さいだい じゅうにんです。|Maksimal sepuluh orang.
+最小|さいしょう|minimum|nomina|最小の数です。|さいしょうの かずです。|Jumlah paling kecil.
+丁度|ちょうど|tepat|adverbia|丁度十時です。|ちょうど じゅうじです。|Tepat jam sepuluh.
+
+## 30|重要語レビュー①
+機会|きかい|kesempatan|nomina|いい機会です。|いい きかいです。|Kesempatan bagus.
+状況|じょうきょう|situasi|nomina|状況が変わりました。|じょうきょうが かわりました。|Situasinya berubah.
+理由|りゆう|alasan|nomina|理由を教えてください。|りゆうを おしえてください。|Tolong beri tahu alasannya.
+目的|もくてき|tujuan|nomina|目的は何ですか。|もくてきは なんですか。|Tujuannya apa?
+方法|ほうほう|metode|nomina|いい方法があります。|いい ほうほうが あります。|Ada cara yang bagus.
+結果|けっか|hasil|nomina|結果が出ました。|けっかが でました。|Hasilnya keluar.
+原因|げんいん|penyebab|nomina|原因が分かりません。|げんいんが わかりません。|Penyebabnya tidak tahu.
+内容|ないよう|isi|nomina|内容を確認します。|ないようを かくにんします。|Saya memeriksa isinya.
+条件|じょうけん|syarat|nomina|条件がいいです。|じょうけんが いいです。|Syaratnya bagus.
+立場|たちば|posisi / sudut pandang|nomina|立場が違います。|たちばが ちがいます。|Posisinya berbeda.
+意味|いみ|arti|nomina|意味が分かりません。|いみが わかりません。|Artinya tidak mengerti.
+記憶|きおく|ingatan|nomina|記憶があいまいです。|きおくが あいまいです。|Ingatannya kabur.
+判断|はんだん|penilaian|nomina|判断が難しいです。|はんだんが むずかしいです。|Sulit menilai.
+理解|りかい|pemahaman|nomina|理解できました。|りかいできました。|Saya sudah paham.
+興味|きょうみ|minat|nomina|興味があります。|きょうみが あります。|Saya tertarik.
+関心|かんしん|perhatian|nomina|関心が高いです。|かんしんが たかいです。|Perhatiannya tinggi.
+印象|いんしょう|kesan|nomina|いい印象です。|いい いんしょうです。|Kesannya bagus.
+想像|そうぞう|imajinasi|nomina|想像してください。|そうぞうしてください。|Tolong bayangkan.
+予想|よそう|perkiraan|nomina|予想が当たりました。|よそうが あたりました。|Perkiraannya tepat.
+対策|たいさく|tindakan penanganan|nomina|対策を考えます。|たいさくを かんがえます。|Saya memikirkan tindakan.
+手段|しゅだん|cara / sarana|nomina|手段がありません。|しゅだんが ありません。|Tidak ada caranya.
+成果|せいか|hasil kerja|nomina|成果が出ました。|せいかが でました。|Hasilnya terlihat.
+課題|かだい|tugas / tantangan|nomina|課題が多いです。|かだいが おおいです。|Tantangannya banyak.
+計画|けいかく|rencana|nomina|計画を立てます。|けいかくを たてます。|Saya membuat rencana.
+実行|じっこう|pelaksanaan|nomina|計画を実行します。|けいかくを じっこうします。|Saya menjalankan rencana.
+
+## 31|重要語レビュー②
+知識|ちしき|pengetahuan|nomina|知識が足りません。|ちしきが たりません。|Pengetahuannya kurang.
+技術|ぎじゅつ|teknologi / teknik|nomina|技術が進みました。|ぎじゅつが すすみました。|Teknologinya maju.
+能力|のうりょく|kemampuan|nomina|能力が高いです。|のうりょくが たかいです。|Kemampuannya tinggi.
+才能|さいのう|bakat|nomina|才能があります。|さいのうが あります。|Dia punya bakat.
+成長|せいちょう|pertumbuhan|nomina|成長が早いです。|せいちょうが はやいです。|Pertumbuhannya cepat.
+進歩|しんぽ|kemajuan|nomina|進歩がありません。|しんぽが ありません。|Tidak ada kemajuan.
+変化|へんか|perubahan|nomina|変化が大きいです。|へんかが おおきいです。|Perubahannya besar.
+特徴|とくちょう|ciri khas|nomina|特徴を説明します。|とくちょうを せつめいします。|Saya menjelaskan cirinya.
+違い|ちがい|perbedaan|nomina|違いが分かります。|ちがいが わかります。|Saya tahu bedanya.
+共通|きょうつう|kesamaan|nomina|共通の趣味です。|きょうつうの しゅみです。|Hobi yang sama.
+比較|ひかく|perbandingan|nomina|比較してみます。|ひかくしてみます。|Saya coba bandingkan.
+保証|ほしょう|jaminan|nomina|保証があります。|ほしょうが あります。|Ada jaminannya.
+責任|せきにん|tanggung jawab|nomina|責任があります。|せきにんが あります。|Ada tanggung jawabnya.
+義務|ぎむ|kewajiban|nomina|義務を果たします。|ぎむを はたします。|Saya menunaikan kewajiban.
+権利|けんり|hak|nomina|権利があります。|けんりが あります。|Ada haknya.
+平等|びょうどう|kesetaraan|nomina|平等が大切です。|びょうどうが たいせつです。|Kesetaraan itu penting.
+態度|たいど|sikap|nomina|態度がいいです。|たいどが いいです。|Sikapnya bagus.
+信頼|しんらい|kepercayaan|nomina|信頼しています。|しんらいしています。|Saya mempercayainya.
+尊敬|そんけい|rasa hormat|nomina|尊敬しています。|そんけいしています。|Saya menghormatinya.
+感謝|かんしゃ|rasa syukur|nomina|感謝しています。|かんしゃしています。|Saya bersyukur.
+協力|きょうりょく|kerja sama|nomina|協力してください。|きょうりょくしてください。|Mohon kerja samanya.
+交流|こうりゅう|interaksi|nomina|交流があります。|こうりゅうが あります。|Ada interaksi.
+実力|じつりょく|kemampuan nyata|nomina|実力があります。|じつりょくが あります。|Dia punya kemampuan nyata.
+自信|じしん|percaya diri|nomina|自信がありません。|じしんが ありません。|Saya tidak percaya diri.
+集中|しゅうちゅう|konsentrasi|nomina|集中してください。|しゅうちゅうしてください。|Tolong konsentrasi.

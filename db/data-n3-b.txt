@@ -1,0 +1,134 @@
+## 7|住まい・部屋
+家|いえ|rumah|nomina|家に帰ります。|いえに かえります。|Saya pulang ke rumah.
+部屋|へや|kamar|nomina|部屋が広いです。|へやが ひろいです。|Kamarnya luas.
+台所|だいどころ|dapur|nomina|台所は狭いです。|だいどころは せまいです。|Dapurnya sempit.
+風呂|ふろ|bak mandi|nomina|風呂に入ります。|ふろに はいります。|Saya berendam.
+玄関|げんかん|pintu masuk|nomina|玄関に靴があります。|げんかんに くつが あります。|Ada sepatu di pintu masuk.
+窓|まど|jendela|nomina|窓を開けます。|まどを あけます。|Saya membuka jendela.
+壁|かべ|dinding|nomina|壁が白いです。|かべが しろいです。|Dindingnya putih.
+床|ゆか|lantai|nomina|床を掃除します。|ゆかを そうじします。|Saya menyapu lantai.
+天井|てんじょう|langit-langit|nomina|天井が高いです。|てんじょうが たかいです。|Langit-langitnya tinggi.
+階段|かいだん|tangga|nomina|階段を上ります。|かいだんを のぼります。|Saya menaiki tangga.
+鍵|かぎ|kunci|nomina|鍵をかけてください。|かぎを かけてください。|Tolong kuncinya dipasang.
+電気|でんき|listrik / lampu|nomina|電気を消します。|でんきを けします。|Saya mematikan lampu.
+水道|すいどう|air ledeng|nomina|水道の水は冷たいです。|すいどうの みずは つめたいです。|Air keran dingin.
+家具|かぐ|perabot|nomina|家具を買いました。|かぐを かいました。|Saya sudah beli perabot.
+押し入れ|おしいれ|lemari dinding|nomina|押し入れに布団があります。|おしいれに ふとんが あります。|Ada futon di lemari dinding.
+洗濯|せんたく|mencuci (pakaian)|nomina|洗濯をします。|せんたくを します。|Saya mencuci pakaian.
+掃除|そうじ|membersihkan|nomina|部屋を掃除します。|へやを そうじします。|Saya membersihkan kamar.
+引っ越す|ひっこす|pindah rumah|verba|来月引っ越します。|らいげつ ひっこします。|Bulan depan saya pindah.
+家賃|やちん|uang sewa|nomina|家賃が高いです。|やちんが たかいです。|Sewa rumahnya mahal.
+近所|きんじょ|lingkungan sekitar|nomina|近所に店があります。|きんじょに みせが あります。|Ada toko di sekitar sini.
+住む|すむ|tinggal|verba|紋別に住んでいます。|もんべつに すんでいます。|Saya tinggal di Mombetsu.
+広い|ひろい|luas|adjektiva-i|この家は広いです。|この いえは ひろいです。|Rumah ini luas.
+狭い|せまい|sempit|adjektiva-i|部屋が狭いです。|へやが せまいです。|Kamarnya sempit.
+綺麗|きれい|bersih / indah|adjektiva-na|部屋が綺麗です。|へやが きれいです。|Kamarnya bersih.
+静か|しずか|tenang|adjektiva-na|夜は静かです。|よるは しずかです。|Malamnya tenang.
+
+## 8|仕事・会社
+仕事|しごと|pekerjaan|nomina|仕事が忙しいです。|しごとが いそがしいです。|Pekerjaannya sibuk.
+会社|かいしゃ|perusahaan|nomina|会社は駅の近くです。|かいしゃは えきの ちかくです。|Kantornya dekat stasiun.
+社員|しゃいん|karyawan|nomina|社員が百人います。|しゃいんが ひゃくにん います。|Karyawannya seratus orang.
+上司|じょうし|atasan|nomina|上司に相談します。|じょうしに そうだんします。|Saya konsultasi ke atasan.
+同僚|どうりょう|rekan kerja|nomina|同僚と昼ご飯を食べます。|どうりょうと ひるごはんを たべます。|Saya makan siang dengan rekan kerja.
+会議|かいぎ|rapat|nomina|会議は三時からです。|かいぎは さんじからです。|Rapat mulai jam tiga.
+出張|しゅっちょう|perjalanan dinas|nomina|来週出張します。|らいしゅう しゅっちょうします。|Minggu depan saya dinas luar.
+残業|ざんぎょう|lembur|nomina|今日は残業します。|きょうは ざんぎょうします。|Hari ini saya lembur.
+休み|やすみ|libur|nomina|明日は休みです。|あしたは やすみです。|Besok libur.
+勤める|つとめる|bekerja di|verba|銀行に勤めています。|ぎんこうに つとめています。|Saya bekerja di bank.
+営業|えいぎょう|pemasaran|nomina|営業の仕事をしています。|えいぎょうの しごとを しています。|Saya kerja di bagian pemasaran.
+面接|めんせつ|wawancara kerja|nomina|面接に行きます。|めんせつに いきます。|Saya pergi wawancara.
+契約|けいやく|kontrak|nomina|契約を結びます。|けいやくを むすびます。|Saya membuat kontrak.
+報告|ほうこく|laporan|nomina|結果を報告します。|けっかを ほうこくします。|Saya melaporkan hasilnya.
+依頼|いらい|permintaan|nomina|仕事を依頼しました。|しごとを いらいしました。|Saya meminta pekerjaan.
+締め切り|しめきり|tenggat|nomina|締め切りは金曜日です。|しめきりは きんようびです。|Tenggatnya hari Jumat.
+時給|じきゅう|upah per jam|nomina|時給は千円です。|じきゅうは せんえんです。|Upah per jamnya seribu yen.
+部署|ぶしょ|divisi|nomina|部署が変わりました。|ぶしょが かわりました。|Divisi saya berubah.
+名刺|めいし|kartu nama|nomina|名刺を渡します。|めいしを わたします。|Saya menyerahkan kartu nama.
+電話|でんわ|telepon|nomina|電話をかけます。|でんわを かけます。|Saya menelepon.
+資料|しりょう|dokumen / bahan|nomina|資料を準備します。|しりょうを じゅんびします。|Saya menyiapkan dokumen.
+遅刻|ちこく|terlambat masuk|nomina|遅刻しません。|ちこくしません。|Saya tidak terlambat.
+真面目|まじめ|rajin / serius|adjektiva-na|彼は真面目です。|かれは まじめです。|Dia orangnya serius.
+忙しい|いそがしい|sibuk|adjektiva-i|今週は忙しいです。|こんしゅうは いそがしいです。|Minggu ini sibuk.
+辞める|やめる|berhenti (kerja)|verba|来月辞めます。|らいげつ やめます。|Bulan depan saya berhenti.
+
+## 9|学校・勉強
+学校|がっこう|sekolah|nomina|学校は八時に始まります。|がっこうは はちじに はじまります。|Sekolah mulai jam delapan.
+授業|じゅぎょう|pelajaran|nomina|授業が長いです。|じゅぎょうが ながいです。|Pelajaranannya lama.
+宿題|しゅくだい|pekerjaan rumah|nomina|宿題をします。|しゅくだいを します。|Saya mengerjakan PR.
+試験|しけん|ujian|nomina|試験は来週です。|しけんは らいしゅうです。|Ujiannya minggu depan.
+合格|ごうかく|lulus (ujian)|nomina|試験に合格しました。|しけんに ごうかくしました。|Saya lulus ujian.
+先生|せんせい|guru|nomina|先生に質問します。|せんせいに しつもんします。|Saya bertanya ke guru.
+生徒|せいと|murid|nomina|生徒が三十人います。|せいとが さんじゅうにん います。|Muridnya tiga puluh orang.
+教室|きょうしつ|ruang kelas|nomina|教室は二階です。|きょうしつは にかいです。|Ruang kelasnya di lantai dua.
+図書館|としょかん|perpustakaan|nomina|図書館で勉強します。|としょかんで べんきょうします。|Saya belajar di perpustakaan.
+教科書|きょうかしょ|buku pelajaran|nomina|教科書を忘れました。|きょうかしょを わすれました。|Saya lupa buku pelajaran.
+練習|れんしゅう|latihan|nomina|毎日練習します。|まいにち れんしゅうします。|Saya latihan tiap hari.
+質問|しつもん|pertanyaan|nomina|質問があります。|しつもんが あります。|Saya ada pertanyaan.
+覚える|おぼえる|mengingat / menghafal|verba|漢字を覚えます。|かんじを おぼえます。|Saya menghafal kanji.
+忘れる|わすれる|lupa|verba|名前を忘れました。|なまえを わすれました。|Saya lupa namanya.
+教える|おしえる|mengajar|verba|日本語を教えます。|にほんごを おしえます。|Saya mengajar bahasa Jepang.
+習う|ならう|belajar (dari guru)|verba|ピアノを習っています。|ピアノを ならっています。|Saya belajar piano.
+復習|ふくしゅう|mengulang pelajaran|nomina|復習が大切です。|ふくしゅうが たいせつです。|Mengulang pelajaran itu penting.
+予習|よしゅう|belajar sebelum kelas|nomina|予習をします。|よしゅうを します。|Saya belajar sebelum kelas.
+成績|せいせき|nilai (sekolah)|nomina|成績が上がりました。|せいせきが あがりました。|Nilai saya naik.
+卒業|そつぎょう|lulus sekolah|nomina|来年卒業します。|らいねん そつぎょうします。|Tahun depan saya lulus.
+入学|にゅうがく|masuk sekolah|nomina|四月に入学します。|しがつに にゅうがくします。|Saya masuk sekolah bulan April.
+作文|さくぶん|karangan|nomina|作文を書きます。|さくぶんを かきます。|Saya menulis karangan.
+発音|はつおん|pelafalan|nomina|発音が難しいです。|はつおんが むずかしいです。|Pelafalannya sulit.
+辞書|じしょ|kamus|nomina|辞書で調べます。|じしょで しらべます。|Saya mencari di kamus.
+間違える|まちがえる|salah / keliru|verba|漢字を間違えました。|かんじを まちがえました。|Saya salah menulis kanji.
+
+## 10|天気・自然
+天気|てんき|cuaca|nomina|天気がいいです。|てんきが いいです。|Cuacanya bagus.
+晴れ|はれ|cerah|nomina|明日は晴れです。|あしたは はれです。|Besok cerah.
+曇り|くもり|berawan|nomina|今日は曇りです。|きょうは くもりです。|Hari ini berawan.
+雨|あめ|hujan|nomina|雨が降っています。|あめが ふっています。|Sedang hujan.
+雪|ゆき|salju|nomina|雪が降りました。|ゆきが ふりました。|Salju turun.
+風|かぜ|angin|nomina|風が強いです。|かぜが つよいです。|Anginnya kencang.
+台風|たいふう|topan|nomina|台風が来ます。|たいふうが きます。|Topan akan datang.
+気温|きおん|suhu udara|nomina|気温が下がりました。|きおんが さがりました。|Suhunya turun.
+暑い|あつい|panas|adjektiva-i|今日は暑いです。|きょうは あついです。|Hari ini panas.
+寒い|さむい|dingin|adjektiva-i|北海道は寒いです。|ほっかいどうは さむいです。|Hokkaido dingin.
+涼しい|すずしい|sejuk|adjektiva-i|朝は涼しいです。|あさは すずしいです。|Paginya sejuk.
+暖かい|あたたかい|hangat|adjektiva-i|春は暖かいです。|はるは あたたかいです。|Musim semi hangat.
+空|そら|langit|nomina|空が青いです。|そらが あおいです。|Langitnya biru.
+海|うみ|laut|nomina|海が見えます。|うみが みえます。|Lautnya terlihat.
+山|やま|gunung|nomina|山に登ります。|やまに のぼります。|Saya mendaki gunung.
+川|かわ|sungai|nomina|川で遊びます。|かわで あそびます。|Saya bermain di sungai.
+森|もり|hutan|nomina|森は静かです。|もりは しずかです。|Hutannya tenang.
+花|はな|bunga|nomina|花が咲きました。|はなが さきました。|Bunganya bermekaran.
+木|き|pohon|nomina|木が高いです。|きが たかいです。|Pohonnya tinggi.
+石|いし|batu|nomina|石が落ちています。|いしが おちています。|Ada batu jatuh.
+星|ほし|bintang|nomina|星がきれいです。|ほしが きれいです。|Bintangnya indah.
+月|つき|bulan|nomina|月が明るいです。|つきが あかるいです。|Bulannya terang.
+地震|じしん|gempa bumi|nomina|地震がありました。|じしんが ありました。|Ada gempa.
+自然|しぜん|alam|nomina|自然が豊かです。|しぜんが ゆたかです。|Alamnya kaya.
+季節|きせつ|musim|nomina|好きな季節は春です。|すきな きせつは はるです。|Musim favorit saya semi.
+
+## 11|感情・性格
+感情|かんじょう|emosi|nomina|感情を表します。|かんじょうを あらわします。|Saya mengungkapkan emosi.
+嬉しい|うれしい|senang|adjektiva-i|とても嬉しいです。|とても うれしいです。|Saya sangat senang.
+悲しい|かなしい|sedih|adjektiva-i|少し悲しいです。|すこし かなしいです。|Sedikit sedih.
+寂しい|さびしい|kesepian|adjektiva-i|一人で寂しいです。|ひとりで さびしいです。|Sendirian itu sepi.
+怖い|こわい|takut|adjektiva-i|暗いのは怖いです。|くらいのは こわいです。|Gelap itu menakutkan.
+心配|しんぱい|khawatir|nomina|心配しないでください。|しんぱいしないでください。|Jangan khawatir.
+驚く|おどろく|terkejut|verba|値段に驚きました。|ねだんに おどろきました。|Saya terkejut harganya.
+怒る|おこる|marah|verba|上司が怒りました。|じょうしが おこりました。|Atasan saya marah.
+笑う|わらう|tertawa|verba|みんな笑いました。|みんな わらいました。|Semua tertawa.
+泣く|なく|menangis|verba|子供が泣いています。|こどもが ないています。|Anaknya menangis.
+好き|すき|suka|adjektiva-na|猫が好きです。|ねこが すきです。|Saya suka kucing.
+嫌い|きらい|tidak suka|adjektiva-na|雨が嫌いです。|あめが きらいです。|Saya tidak suka hujan.
+恥ずかしい|はずかしい|malu|adjektiva-i|少し恥ずかしいです。|すこし はずかしいです。|Sedikit malu.
+優しい|やさしい|baik hati|adjektiva-i|優しい人です。|やさしい ひとです。|Dia orang yang baik.
+厳しい|きびしい|keras / tegas|adjektiva-i|先生は厳しいです。|せんせいは きびしいです。|Gurunya tegas.
+面白い|おもしろい|menarik / lucu|adjektiva-i|この本は面白いです。|この ほんは おもしろいです。|Buku ini menarik.
+つまらない|つまらない|membosankan|adjektiva-i|映画はつまらないです。|えいがは つまらないです。|Filmnya membosankan.
+緊張|きんちょう|tegang|nomina|面接で緊張しました。|めんせつで きんちょうしました。|Saya tegang saat wawancara.
+満足|まんぞく|puas|nomina|結果に満足です。|けっかに まんぞくです。|Saya puas dengan hasilnya.
+後悔|こうかい|penyesalan|nomina|後悔しました。|こうかいしました。|Saya menyesal.
+熱心|ねっしん|rajin / bersemangat|adjektiva-na|熱心に勉強します。|ねっしんに べんきょうします。|Saya belajar dengan rajin.
+大人しい|おとなしい|pendiam|adjektiva-i|彼は大人しいです。|かれは おとなしいです。|Dia pendiam.
+明るい|あかるい|ceria|adjektiva-i|明るい性格です。|あかるい せいかくです。|Sifatnya ceria.
+親切|しんせつ|ramah|adjektiva-na|親切な人です。|しんせつな ひとです。|Dia orang yang ramah.
+落ち着く|おちつく|tenang / rileks|verba|少し落ち着きました。|すこし おちつきました。|Saya sedikit tenang.

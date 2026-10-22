@@ -1,0 +1,412 @@
+出|keluar / mengeluarkan
+合|cocok / bergabung
+味|rasa
+書|menulis
+大|besar
+手|tangan
+気|semangat / udara
+物|benda
+所|tempat
+事|hal / urusan
+会|bertemu / perkumpulan
+日|hari / matahari
+料|bahan / biaya
+場|tempat / arena
+道|jalan
+入|masuk
+上|atas / naik
+意|maksud / perhatian
+家|rumah / keluarga
+間|jarak / antara
+人|orang
+一|satu
+口|mulut
+理|alasan / logika
+切|memotong
+信|percaya
+社|perusahaan / kuil
+面|wajah / permukaan
+習|belajar
+予|sebelumnya / rencana
+明|terang / jelas
+内|dalam
+通|lewat / lalu-lalang
+度|derajat / kali
+性|sifat / gender
+目|mata
+品|barang / mutu
+約|janji / ringkas
+電|listrik
+行|pergi / baris
+時|waktu / jam
+部|bagian
+報|laporan / kabar
+話|bicara / cerita
+生|hidup / lahir
+先|depan / lebih dulu
+成|menjadi / berhasil
+地|tanah / daratan
+感|rasa / kesan
+心|hati
+後|belakang / sesudah
+着|memakai / tiba
+中|tengah / dalam
+期|periode
+付|menempel / melampirkan
+分|menit / mengerti / bagian
+決|memutuskan
+数|angka
+知|tahu
+風|angin / gaya
+食|makan
+空|langit / kosong
+段|tingkat / undakan
+金|uang / emas
+割|membagi / rasio
+引|menarik
+安|murah / aman
+売|menjual
+返|mengembalikan
+交|bergantian / bercampur
+給|gaji / memberi
+車|kendaraan
+機|mesin / kesempatan
+転|berputar / pindah
+自|sendiri
+天|langit
+洗|mencuci
+近|dekat
+頼|meminta / mempercayakan
+名|nama
+教|mengajar
+月|bulan
+定|tetap / menetapkan
+最|paling
+画|gambar
+続|melanjutkan
+下|bawah / turun
+案|ide / rancangan
+国|negara
+待|menunggu
+見|melihat
+変|berubah / aneh
+小|kecil
+新|baru
+少|sedikit
+特|khusus
+方|cara / arah
+力|tenaga
+能|kemampuan
+親|orang tua / akrab
+子|anak
+熱|panas / demam
+動|bergerak
+果|buah / hasil
+油|minyak
+節|sendi / berhemat
+歩|berjalan
+遅|terlambat / lambat
+屋|atap / toko
+台|alas / unit (mesin)
+関|berhubungan
+具|alat
+越|melewati
+住|tinggal
+残|tersisa
+辞|kata / mengundurkan diri
+学|belajar
+題|topik / judul
+音|bunyi
+違|berbeda
+山|gunung
+今|sekarang
+年|tahun
+毎|setiap
+利|untung / manfaat
+楽|senang
+歌|lagu
+選|memilih
+集|mengumpulkan
+観|mengamati / menonton
+思|berpikir / merasa
+術|teknik
+立|berdiri
+認|mengakui
+進|maju
+長|panjang / ketua
+正|benar
+全|seluruh
+必|pasti
+実|nyata / buah
+記|mencatat
+用|memakai / urusan
+件|hal / perkara
+相|saling / wujud
+計|mengukur / total
+連|rangkaian / menghubungkan
+談|berbicara
+以|lebih dari / sejak
+的|bersifat
+想|pikiran
+価|nilai
+席|kursi
+職|pekerjaan
+族|keluarga / suku
+兄|kakak laki-laki
+弟|adik laki-laki
+祖|leluhur
+彼|dia (pria)
+女|perempuan
+体|tubuh
+足|kaki / cukup
+指|jari / menunjuk
+病|sakit / penyakit
+我|diri sendiri
+痛|nyeri
+眠|tidur / mengantuk
+運|membawa / keberuntungan
+噌|pasta kedelai (miso)
+苦|pahit / susah
+美|indah
+払|membayar
+支|menopang / cabang
+現|nyata / muncul
+無|tidak ada / gratis
+店|toko
+商|berdagang
+換|menukar
+布|kain
+釣|memancing
+乗|naik (kendaraan)
+港|pelabuhan
+滞|tinggal sementara
+刻|mengukir / waktu
+急|cepat / mendesak
+向|menghadap
+曲|melengkung / lagu
+復|kembali
+階|lantai / tingkat
+水|air
+濯|mencuci
+広|luas
+司|mengurus
+同|sama
+張|membentang / bersikeras
+休|istirahat
+接|bersentuhan
+告|memberi tahu
+真|benar / asli
+試|mencoba / ujian
+格|tingkat / status
+図|gambar / rencana
+館|gedung
+問|bertanya
+忘|lupa
+文|tulisan / kalimat
+発|berangkat / menerbitkan
+温|hangat
+海|laut
+花|bunga
+然|begitu / keadaan
+情|perasaan / keadaan
+優|unggul / lembut
+満|penuh
+悔|menyesal
+落|jatuh
+昨|kemarin
+週|minggu
+来|datang
+将|akan / panglima
+早|cepat / pagi
+壊|rusak
+直|langsung / memperbaiki
+像|gambar / patung
+映|memantulkan / menampilkan
+送|mengirim
+届|tiba / sampai
+登|mendaki / mendaftar
+便|nyaman / surat
+読|membaca
+戦|perang
+光|cahaya
+市|kota / pasar
+番|nomor
+角|sudut / tanduk
+前|depan
+遠|jauh
+座|duduk
+開|membuka
+閉|menutup
+取|mengambil
+持|memegang
+呼|memanggil
+片|sebelah / keping
+比|membandingkan
+伝|menyampaikan
+説|penjelasan / teori
+断|memutus / menolak
+謝|berterima kasih / minta maaf
+始|mulai
+増|bertambah
+減|berkurang
+育|membesarkan
+重|berat
+多|banyak
+危|berbahaya
+別|terpisah / lain
+確|pasti
+由|alasan
+険|curam / berisiko
+丁|rapi / dewasa
+冷|dingin
+葉|daun
+加|menambah
+法|hukum / cara
+故|sebab / almarhum
+火|api
+民|rakyat
+保|menjaga
+世|dunia / generasi
+対|berhadapan
+化|berubah menjadi
+儀|upacara / tata cara
+敬|hormat
+慣|terbiasa
+承|menerima / menyetujui
+印|cap / tanda
+納|menyimpan / menyerahkan
+絡|berjalin / menghubungi
+平|datar / damai
+容|isi / memuat
+解|membuka / mengerti
+興|bangkit / minat
+識|pengetahuan / mengenali
+庭|halaman
+庫|gudang
+在|ada
+束|ikat / berkas
+要|perlu / pokok
+両|kedua
+姉|kakak perempuan
+妹|adik perempuan
+父|ayah
+母|ibu
+夫|suami
+妻|istri
+息|napas / anak
+娘|anak perempuan
+戚|kerabat
+隣|sebelah
+仲|hubungan
+恋|cinta
+供|menemani / anak
+男|laki-laki
+暮|hidup / senja
+頭|kepala
+顔|wajah
+耳|telinga
+背|punggung / tinggi
+邪|jahat
+怪|aneh
+薬|obat
+医|kedokteran
+者|orang
+院|gedung / institusi
+疲|lelah
+元|asal / semangat
+康|sehat
+健|sehat
+睡|tidur
+材|bahan
+肉|daging
+魚|ikan
+菜|sayur
+野|ladang
+米|beras
+卵|telur
+塩|garam
+砂|pasir
+糖|gula
+醤|kecap
+甘|manis
+辛|pedas
+酸|asam
+焼|membakar
+煮|merebus
+揚|menggoreng / mengangkat
+混|mencampur
+過|melewati / berlebihan
+腹|perut
+値|nilai / harga
+高|tinggi / mahal
+買|membeli
+袋|kantong
+財|harta
+貯|menabung
+借|meminjam
+貸|meminjamkan
+駅|stasiun
+符|tanda / tiket
+降|turun
+飛|terbang
+点|titik / nilai
+差|perbedaan
+号|nomor
+駐|parkir / menetap
+渋|sepat / macet
+表|permukaan / tabel
+渡|menyeberang
+離|terpisah
+距|jarak
+往|pergi
+呂|komponen 風呂 (mandi)
+玄|komponen 玄関 (pintu masuk)
+窓|jendela
+壁|dinding
+床|lantai
+井|sumur
+鍵|kunci
+押|mendorong
+除|menyingkirkan
+掃|menyapu
+賃|sewa / upah
+狭|sempit
+綺|indah (dalam 綺麗)
+麗|indah (dalam 綺麗)
+静|tenang
+仕|melayani / bekerja
+僚|rekan
+勤|bekerja / rajin
+営|menjalankan usaha
+契|berjanji / kontrak
+依|bergantung
+締|mengencangkan / menutup
+署|kantor (polisi)
+刺|menusuk
+資|modal / sumber
+忙|sibuk
+校|sekolah
+授|mengajarkan / memberikan
+宿|penginapan
+徒|murid
+室|ruangan
+科|jurusan / bagian
+練|melatih
+質|kualitas
+覚|ingat / menyadari
+績|hasil / prestasi
+卒|lulus / tamat
+作|membuat
+晴|cerah
+曇|berawan
+雨|hujan
+雪|salju
+暑|panas (cuaca)
+寒|dingin
+涼|sejuk
+暖|hangat
+川|sungai
+森|hutan
+木|pohon
+石|batu
+星|bintang

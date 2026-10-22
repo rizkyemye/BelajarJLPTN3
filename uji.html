@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Uji koneksi · Belajar N3</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet">
+<style>
+  body{font:14px/1.7 'Inter',system-ui;background:#faf8f3;color:#1c2433;padding:24px 18px;max-width:640px;margin:0 auto}
+  h1{font-size:18px;margin-bottom:4px}
+  .sub{color:#8a8f9c;font-size:12.5px;margin-bottom:20px}
+  .uji{border:1px solid #e2dbcd;padding:12px 14px;margin-bottom:8px;display:flex;gap:10px;align-items:flex-start}
+  .ikon{font-family:'JetBrains Mono',monospace;font-size:12px;min-width:16px}
+  .isi{flex:1;min-width:0}
+  .judul{font-weight:600;font-size:13.5px}
+  .detail{font:11.5px/1.6 'JetBrains Mono',monospace;color:#6b7280;word-break:break-all;margin-top:3px}
+  .ok{background:#f0f7f2;border-color:#b8d8c4}
+  .ok .ikon{color:#2f6b4f}
+  .gagal{background:#fdf1ef;border-color:#e8bfb8}
+  .gagal .ikon{color:#b3402f}
+  .tunggu{opacity:.6}
+  pre{background:#1c2433;color:#e8e5dc;padding:12px;overflow-x:auto;font:11.5px/1.6 'JetBrains Mono',monospace;margin-top:16px;white-space:pre-wrap}
+  button{font:inherit;padding:8px 16px;border:1px solid #1c2433;background:#1c2433;color:#faf8f3;cursor:pointer;margin-top:16px}
+</style>
+<link rel="stylesheet" href="aset/desain.css?v=cf302755">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#b7202e">
+<link rel="apple-touch-icon" href="ikon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+<body>
+<script src="aset/splash.js?v=84c0bf89"></script>
+<script src="aset/skeleton.js?v=7d41ad73"></script>
+
+<h1>Uji koneksi Supabase</h1>
+<p class="sub">Buka file ini dari server (http://localhost:8000/uji.html), bukan dari file://</p>
+
+<div id="daftar"></div>
+<button onclick="location.reload()">Ulangi</button>
+<pre id="log" hidden></pre>
+
+<script src="aset/konfig.js?v=6620f70c"></script>
+<script>
+const K = window.KONFIG || {};
+const out = document.getElementById('daftar');
+const log = document.getElementById('log');
+
+function uji(judul, fn) {
+  const el = document.createElement('div');
+  el.className = 'uji tunggu';
+  el.innerHTML = `<span class="ikon">·</span><div class="isi">
+    <div class="judul">${judul}</div><div class="detail">memeriksa…</div></div>`;
+  out.appendChild(el);
+  return Promise.resolve()
+    .then(fn)
+    .then(r => {
+      el.className = 'uji ok';
+      el.querySelector('.ikon').textContent = '✓';
+      el.querySelector('.detail').textContent = r || 'ok';
+    })
+    .catch(e => {
+      el.className = 'uji gagal';
+      el.querySelector('.ikon').textContent = '✗';
+      el.querySelector('.detail').textContent = e.message || String(e);
+      throw e;
+    });
+}
+
+(async () => {
+  const hasil = [];
+  const catat = (k, v) => hasil.push(k + ' = ' + v);
+
+  catat('file konfig.js', 'ada');
+  catat('url', JSON.stringify(K.url));
+  catat('panjang kunci', (K.kunci || '').length);
+
+  try {
+    await uji('konfig.js ter-load', () => {
+      if (!K || !K.url) throw new Error('KONFIG kosong — konfig.js belum diisi');
+      return 'ditemukan';
+    });
+
+    await uji('Bentuk URL benar', () => {
+      const pola = /^https:\/\/[a-z0-9-]+\.supabase\.co$/i;
+      if (!pola.test(K.url))
+        throw new Error(`URL tidak cocok pola. sekarang: ${K.url}`);
+      return K.url;
+    });
+
+    await uji('Server Supabase hidup', async () => {
+      const r = await fetch(K.url + '/auth/v1/health', {
+        headers: { apikey: K.kunci }
+      });
+      return 'HTTP ' + r.status;
+    });
+
+    await uji('Kunci diterima', async () => {
+      const r = await fetch(K.url + '/rest/v1/profiles?select=username&limit=1', {
+        headers: { apikey: K.kunci, Authorization: 'Bearer ' + K.kunci }
+      });
+      if (r.status === 401 || r.status === 403)
+        throw new Error(`HTTP ${r.status} — kunci ditolak`);
+      if (r.status === 404)
+        throw new Error('HTTP 404 — tabel profiles belum ada (jalankan skema.sql)');
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      const d = await r.json();
+      return `HTTP 200 · ${d.length} baris terbaca`;
+    });
+
+    await uji('Tabel kosakata ada', async () => {
+      const r = await fetch(K.url + '/rest/v1/kosakata?select=level&limit=1', {
+        headers: { apikey: K.kunci, Authorization: 'Bearer ' + K.kunci }
+      });
+      if (r.status === 404)
+        throw new Error('HTTP 404 — tabel kosakata belum ada (jalankan belajar.sql)');
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return 'HTTP ' + r.status;
+    });
+
+    await uji('Fungsi mulai_hari ada', async () => {
+      const r = await fetch(K.url + '/rest/v1/rpc/mulai_hari', {
+        method: 'POST',
+        headers: {
+          apikey: K.kunci,
+          Authorization: 'Bearer ' + K.kunci,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ p_level: 'n3', p_hari: 1 })
+      });
+      const t = await r.text();
+      if (r.status === 404) throw new Error('fungsi tidak ada (jalankan belajar.sql)');
+      if (r.status >= 500) throw new Error('HTTP ' + r.status + ' · ' + t);
+      return `HTTP ${r.status} · ${t.slice(0, 80)}`;
+    });
+
+  } catch (_) {
+    /* sudah dicatat di kartu */
+  }
+
+  log.hidden = false;
+  log.textContent = hasil.join('\n');
+})();
+</script>
+
+</body>
+</html>
