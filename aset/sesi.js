@@ -38,6 +38,20 @@ const DOMAIN = 'n3master.local';
    situs tidak di akar domain (mis. USER.github.io/REPO/) */
 const AKAR = new URL('../', import.meta.url).href;
 
+/* tampilkan alasan kalau proses tidak selesai — biar tidak "memuat" selamanya */
+function tampilMasalah(teks) {
+  let bar = document.getElementById('sesi-masalah');
+  if (!bar) {
+    bar = document.createElement('div');
+    bar.id = 'sesi-masalah';
+    bar.style.cssText = 'padding:10px 14px;background:#c0392b;color:#fff;font:13px/1.5 system-ui';
+    document.body.insertAdjacentHTML('afterbegin', '');
+    document.body.prepend(bar);
+  }
+  bar.innerHTML = `${teks} <button type="button" style="margin-left:8px;padding:4px 10px;background:#fff;color:#c0392b;border:0;font:inherit;cursor:pointer">Muat ulang</button>`;
+  bar.querySelector('button').addEventListener('click', () => location.reload());
+}
+
 async function jalankan() {
   const siapKonfig = await pastikanKonfig();
   if (!siapKonfig) {
@@ -47,6 +61,12 @@ async function jalankan() {
        </div>`);
     return;
   }
+
+  const jamSesi = setTimeout(() => {
+    tampilMasalah('Sesi belum menjawab (10 dtk). Cek internet, lalu muat ulang.');
+  }, 10000);
+
+  try {
 
   const supabase = createClient(window.KONFIG.url, window.KONFIG.kunci, {
     auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: false }
@@ -91,6 +111,8 @@ async function jalankan() {
     return;
   }
 
+  clearTimeout(jamSesi);
+
   /* ---------- 5. isi ke halaman ---------- */
   document.documentElement.dataset.siap = '1';
 
@@ -130,6 +152,12 @@ async function jalankan() {
   /* kabari halaman lain bahwa sesi siap */
   window.sesiSiap = { profil, supabase, AKAR };
   document.dispatchEvent(new CustomEvent('sesi-siap', { detail: window.sesiSiap }));
+
+  } catch (e) {
+    clearTimeout(jamSesi);
+    console.error('[sesi]', e);
+    tampilMasalah('Sesi gagal: ' + ((e && e.message) || e));
+  }
 }
 
 jalankan();
