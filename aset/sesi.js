@@ -11,6 +11,25 @@
      <button data-akun="keluar">Keluar</button>
    ============================================================================ */
 
+
+/* ---------- konfigurasi: kalau file lama nyangkut di cache, ambil ulang paksa ---------- */
+async function pastikanKonfig() {
+  if (window.konfigSiap && window.konfigSiap()) return true;
+
+  try {
+    const src = new URL('konfig.js', import.meta.url).href + '?t=' + Date.now();
+    await new Promise((selesai) => {
+      const s = document.createElement('script');
+      s.src = src;
+      s.onload = selesai;
+      s.onerror = selesai;
+      document.head.appendChild(s);
+    });
+  } catch (_) {}
+
+  return !!(window.konfigSiap && window.konfigSiap());
+}
+
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm';
 
 const DOMAIN = 'n3master.local';
@@ -20,7 +39,8 @@ const DOMAIN = 'n3master.local';
 const AKAR = new URL('../', import.meta.url).href;
 
 async function jalankan() {
-  if (!window.konfigSiap || !window.konfigSiap()) {
+  const siapKonfig = await pastikanKonfig();
+  if (!siapKonfig) {
     document.body.insertAdjacentHTML('afterbegin',
       `<div style="padding:14px 18px;background:#c0392b;color:#fff;font:14px/1.5 system-ui">
          Konfigurasi Supabase belum diisi di <code>aset/konfig.js</code>.
