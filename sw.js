@@ -7,7 +7,7 @@
    · aset (css/js/svg/png) → pakai simpanan dulu, perbarui di latar belakang
    ============================================================================ */
 
-const VERSI = 'n3-v3';
+const VERSI = 'n3-v4';
 
 const INTI = [
   './',
