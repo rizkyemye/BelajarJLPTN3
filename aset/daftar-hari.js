@@ -1,4 +1,3 @@
-import { esc } from './aman.js';
 /* ============================================================================
    daftar-hari.js — isi halaman level dengan daftar hari yang tersedia
    Otomatis membaca tabel `kosakata` + progres `hari`.
@@ -47,7 +46,7 @@ async function jalankan() {
     .rpc('rekap_kosakata', { p_level: LEVEL });
 
   if (error) {
-    kotak.innerHTML = `<div class="kosong">Gagal memuat: ${esc(error.message)}</div>`;
+    kotak.innerHTML = `<div class="kosong">Gagal memuat: ${error.message}</div>`;
     return;
   }
 
@@ -145,8 +144,8 @@ async function jalankan() {
     return `<li>
       <a href="kartu.html?hari=${h}"${kelas}>
         <span class="no">${String(h).padStart(2, '0')}</span>
-        <span class="nm">Hari ${h}${t ? ' · ' + esc(t.tema) : ''}
-          <small>${t && t.arti ? esc(t.arti) + ' · ' : ''}${jumlah[h]} kata</small>
+        <span class="nm">Hari ${h}${t ? ' · ' + t.tema : ''}
+          <small>${t && t.arti ? t.arti + ' · ' : ''}${jumlah[h]} kata</small>
         </span>
         <span class="hai">${label}</span>
       </a>
