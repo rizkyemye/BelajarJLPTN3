@@ -102,6 +102,10 @@ export function bacaBerurutan(daftar, opsi = {}) {
       u.volume = opsi.volume ?? 1;
       if (suara || (suara = cariSuara())) u.voice = suara;
 
+      if (typeof opsi.onItem === 'function') {
+        try { opsi.onItem(i - 1, daftar.length); } catch (_) {}
+      }
+
       u.onend = () => setTimeout(satu, opsi.jeda ?? 320);
       u.onerror = () => selesai(false);
       speechSynthesis.speak(u);

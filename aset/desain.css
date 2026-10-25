@@ -1449,3 +1449,42 @@ body:has(dialog[open]) .sisi-kiri{visibility:hidden}
 .angka-kotak b.teks{font-size:17px;line-height:1.3;padding-top:4px}
 
 @media (max-width:900px){.angka-tiga .angka-kotak b.teks{font-size:15px;line-height:1.25}}
+
+/* ---------- 敬語 ---------- */
+.kg-baris{display:flex;gap:16px;justify-content:space-between;align-items:flex-start;
+  padding:12px 0;border-bottom:1px solid var(--garis-tipis)}
+.kg-baris.hotel{flex-direction:column;gap:6px}
+.kg-kiri{min-width:110px}
+.kg-kiri b{display:block;font-family:var(--serif);font-size:17px;line-height:1.3}
+.kg-kiri span{display:block;font-size:12.5px;color:var(--tinta-3);margin-top:2px}
+.kg-kanan{display:flex;flex-wrap:wrap;gap:4px 10px;font-size:14px;justify-content:flex-end}
+.kg-label{font-size:10.5px;letter-spacing:.1em;color:var(--tinta-3);min-width:34px}
+.kg-son{color:var(--merah)}
+.kg-ken{color:#2f6b4f}
+.kg-contoh{font-family:var(--serif);font-size:15.5px;margin:2px 0 0;line-height:1.5}
+.kg-arti{font-size:13px;color:var(--tinta-3);margin:0}
+
+/* ---------- 音読 ---------- */
+.od-kendali{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:center}
+.od-pilih{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--tinta-3)}
+.od-pilih select{
+  font-family:var(--sans);font-size:13.5px;padding:7px 9px;
+  border:1px solid var(--garis);background:var(--kertas);color:var(--tinta);border-radius:0;
+}
+.od-cek{display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--tinta-3)}
+.od-judul{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--tinta-3);margin:0 0 12px}
+.od-kalimat{
+  display:flex;gap:12px;width:100%;text-align:left;background:none;border:0;
+  border-bottom:1px solid var(--garis-tipis);padding:12px 4px;cursor:pointer;
+  font-family:var(--serif);font-size:17px;line-height:1.75;color:var(--tinta);
+}
+.od-kalimat:hover{background:var(--kertas-2)}
+.od-kalimat.aktif{background:var(--kertas-2);box-shadow:inset 3px 0 0 var(--merah)}
+.od-no{flex:0 0 20px;font-family:var(--sans);font-size:11px;color:var(--tinta-3);padding-top:5px}
+.od-teks{flex:1}
+
+@media (max-width:900px){
+  .kg-baris{flex-direction:column;gap:6px}
+  .kg-kanan{flex-direction:column;align-items:flex-start;gap:3px;justify-content:flex-start}
+  .kg-kiri{min-width:0}
+}
