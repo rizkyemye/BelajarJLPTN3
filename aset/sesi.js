@@ -99,13 +99,21 @@ async function jalankan() {
   /* ---------- 3. halaman sesuai level? ---------- */
   const folder = location.pathname.split('/').filter(Boolean).slice(-2, -1)[0];
   const level = (profil.level || 'n3').toLowerCase();
-  // satu-satunya level yang punya halaman: n3. Kalau profil bilang n5/n4
-  // (folder kosong), JANGAN dilempar ke sana — dulu itu bikin 404.
-  const ADA = 'n3';
+  const ADA = 'n3';                        // satu-satunya level yang punya halaman
 
-  if (['n5', 'n4', 'n3'].includes(folder) && folder !== ADA) {
-    location.replace(AKAR + ADA + '/index.html');
-    return;
+  // level lain (n5/n4) → halaman gerbang, bukan dilempar ke n3 diam-diam
+  let lihatN3 = false;
+  try { lihatN3 = sessionStorage.getItem('lihat-n3') === '1'; } catch (_) {}
+
+  if (['n5', 'n4', 'n3'].includes(folder)) {
+    if (level !== ADA && !lihatN3) {
+      location.replace(AKAR + 'login.html?err=level&lv=' + level.toUpperCase());
+      return;
+    }
+    if (folder !== ADA) {              // halaman level lain yang file-nya tak ada
+      location.replace(AKAR + ADA + '/index.html');
+      return;
+    }
   }
 
   /* ---------- 4. admin-only ---------- */

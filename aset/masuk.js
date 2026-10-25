@@ -22,8 +22,14 @@ async function pastikanKonfig() {
   return !!(window.konfigSiap && window.konfigSiap());
 }
 
-/* hanya folder 'n3' yang punya halaman; level lain (n5/n4 kosong) → n3 */
-const levelAda = () => 'n3';
+/* hanya folder 'n3' yang punya halaman */
+const ADA = 'n3';
+
+function tujuanSetelahMasuk(level) {
+  const lv = String(level || ADA).toLowerCase();
+  // hanya n3 yang punya halaman; level lain diberi tahu di halaman login
+  return lv === ADA ? `${ADA}/index.html` : `login.html?err=level&lv=${lv.toUpperCase()}`;
+}
 
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm';
 
@@ -32,6 +38,23 @@ const $ = (id) => document.getElementById(id);
 
 const form   = $('form');
 const pesan  = $('pesan');
+
+/* ---------- datang dari redirect level (err=level) ---------- */
+(function pesanLevel() {
+  const q = new URLSearchParams(location.search);
+  if (q.get('err') !== 'level') return;
+  const lv = q.get('lv') || 'N5';
+
+  pesan.innerHTML =
+    `Akun ini terdaftar di level <b>${lv}</b>, tapi halaman ${lv} belum dibuat. ` +
+    `Sementara kamu bisa melihat materi N3. ` +
+    `<a href="n3/index.html" id="ke-n3">Buka materi N3 →</a>`;
+  pesan.className = 'pesan tampil';
+
+  document.getElementById('ke-n3')?.addEventListener('click', () => {
+    try { sessionStorage.setItem('lihat-n3', '1'); } catch (_) {}
+  });
+})();
 const tombol = $('tombol');
 
 let supabase = null;
@@ -100,7 +123,7 @@ form.addEventListener('submit', async (e) => {
     supabase.rpc('tandai_login').then(() => {});
 
     kabar('Berhasil. Mengalihkan…', 'ok');
-    location.replace(`${levelAda()}/index.html`);
+    location.replace(tujuanSetelahMasuk(profil.level));
 
   } catch (err) {
     kabar(terjemah(err));
@@ -126,7 +149,7 @@ async function sudahLogin() {
   }
 
   kabar('Sudah masuk. Mengalihkan…', 'ok');
-  location.replace(`${levelAda()}/index.html`);
+  location.replace(tujuanSetelahMasuk(profil.level));
 }
 
 /* ---------- mulai ---------- */
