@@ -155,8 +155,8 @@ function jawab(tombol, teks, s) {
 
   const tepat = teks === s.benar;
   if (tepat) { benar++; tombol.classList.add('benar'); }
-  else catatSalah('kosakata', null, s.tampil, s.benar, teks);
   else {
+    catatSalah('kosakata', null, s.tampil, s.benar, teks);
     tombol.classList.add('salah');
     semua.find(b => b.textContent === s.benar)?.classList.add('benar');
   }

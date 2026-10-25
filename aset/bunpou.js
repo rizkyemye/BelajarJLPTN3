@@ -314,8 +314,8 @@ function jawab(tombol, teks, s) {
 
   const tepat = teks === s.benarTeks;
   if (tepat) { benar++; tombol.classList.add('benar'); }
-  else catatSalah('bunpou', null, s.tampil, s.benarTeks, teks);
   else {
+    catatSalah('bunpou', null, s.tampil, s.benarTeks, teks);
     tombol.classList.add('salah');
     semua.find((b) => b.textContent === s.benarTeks)?.classList.add('benar');
   }

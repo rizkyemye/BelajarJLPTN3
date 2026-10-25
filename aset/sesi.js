@@ -98,16 +98,19 @@ async function jalankan() {
 
   /* ---------- 3. halaman sesuai level? ---------- */
   const folder = location.pathname.split('/').filter(Boolean).slice(-2, -1)[0];
-  const level = (profil.level || 'n5').toLowerCase();
+  const level = (profil.level || 'n3').toLowerCase();
+  // satu-satunya level yang punya halaman: n3. Kalau profil bilang n5/n4
+  // (folder kosong), JANGAN dilempar ke sana — dulu itu bikin 404.
+  const ADA = 'n3';
 
-  if (['n5', 'n4', 'n3'].includes(folder) && folder !== level) {
-    location.replace('../' + level + '/index.html');
+  if (['n5', 'n4', 'n3'].includes(folder) && folder !== ADA) {
+    location.replace(AKAR + ADA + '/index.html');
     return;
   }
 
   /* ---------- 4. admin-only ---------- */
   if (folder === 'admin' && profil.role !== 'admin') {
-    location.replace(AKAR + level + '/index.html');
+    location.replace(AKAR + ADA + '/index.html');
     return;
   }
 

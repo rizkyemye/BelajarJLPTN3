@@ -22,6 +22,9 @@ async function pastikanKonfig() {
   return !!(window.konfigSiap && window.konfigSiap());
 }
 
+/* hanya folder 'n3' yang punya halaman; level lain (n5/n4 kosong) → n3 */
+const levelAda = () => 'n3';
+
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm';
 
 const DOMAIN = 'n3master.local';
@@ -97,7 +100,7 @@ form.addEventListener('submit', async (e) => {
     supabase.rpc('tandai_login').then(() => {});
 
     kabar('Berhasil. Mengalihkan…', 'ok');
-    location.replace(`${profil.level || 'n5'}/index.html`);
+    location.replace(`${levelAda()}/index.html`);
 
   } catch (err) {
     kabar(terjemah(err));
@@ -123,7 +126,7 @@ async function sudahLogin() {
   }
 
   kabar('Sudah masuk. Mengalihkan…', 'ok');
-  location.replace(`${profil.level || 'n5'}/index.html`);
+  location.replace(`${levelAda()}/index.html`);
 }
 
 /* ---------- mulai ---------- */
