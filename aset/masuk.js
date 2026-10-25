@@ -3,6 +3,25 @@
    Username dipetakan ke email internal: <username>@n3master.local
    ============================================================================ */
 
+
+/* ---------- konfigurasi: kalau file lama nyangkut di cache, ambil ulang paksa ---------- */
+async function pastikanKonfig() {
+  if (window.konfigSiap && window.konfigSiap()) return true;
+
+  try {
+    const src = new URL('konfig.js', import.meta.url).href + '?t=' + Date.now();
+    await new Promise((selesai) => {
+      const s = document.createElement('script');
+      s.src = src;
+      s.onload = selesai;
+      s.onerror = selesai;
+      document.head.appendChild(s);
+    });
+  } catch (_) {}
+
+  return !!(window.konfigSiap && window.konfigSiap());
+}
+
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm';
 
 const DOMAIN = 'n3master.local';
