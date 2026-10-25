@@ -7,7 +7,7 @@
    · aset (css/js/svg/png) → pakai simpanan dulu, perbarui di latar belakang
    ============================================================================ */
 
-const VERSI = 'n3-v2';
+const VERSI = 'n3-v3';
 
 const INTI = [
   './',
@@ -60,6 +60,23 @@ self.addEventListener('fetch', (e) => {
           return r;
         })
         .catch(() => caches.match(req).then((r) => r || caches.match('./n3/index.html')))
+    );
+    return;
+  }
+
+  /* konfig (kunci Supabase) & file .js inti: SELALU ambil dari jaringan dulu,
+     cache hanya kalau offline — supaya perubahan di repo langsung kebaca */
+  const selalubaru = /konfig\.js|sesi\.js$/.test(req.url);
+
+  if (selalubaru) {
+    e.respondWith(
+      fetch(req)
+        .then((r) => {
+          const salinan = r.clone();
+          caches.open(VERSI).then((c) => c.put(req, salinan));
+          return r;
+        })
+        .catch(() => caches.match(req))
     );
     return;
   }
