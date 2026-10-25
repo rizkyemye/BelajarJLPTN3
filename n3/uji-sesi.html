@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Uji sesi · N3</title>
+<style>
+  body{font:14px/1.6 system-ui,sans-serif;margin:0;padding:16px;background:#fbf9f4;color:#12141a}
+  h1{font-size:16px;margin:0 0 12px}
+  .baris{border:1px solid #ddd6c6;background:#fff;padding:10px 12px;margin-bottom:8px}
+  .b{font-weight:600}
+  .ok{color:#2f6b4f}.no{color:#c0392b}
+  code{font-size:12.5px;word-break:break-all}
+  button{margin-top:10px;padding:10px 16px;font:inherit;border:1px solid #12141a;background:#12141a;color:#fff}
+</style>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#b7202e">
+<link rel="apple-touch-icon" href="../ikon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+<body>
+<h1>Uji sesi &amp; penyimpanan</h1>
+<div id="isi">memeriksa…</div>
+<button id="ulang" type="button">Ulangi</button>
+
+<script src="../aset/konfig.js?v=f8690c4c"></script>
+<script type="module">
+import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm';
+
+const $ = (s) => document.querySelector(s);
+const baris = [];
+const tambah = (nama, ok, isi) => baris.push(
+  `<div class="baris"><span class="b">${nama}</span> — <span class="${ok ? 'ok' : 'no'}">${ok ? 'OK' : 'GAGAL'}</span><br><code>${isi}</code></div>`
+);
+
+async function jalan() {
+  baris.length = 0;
+
+  tambah('konfig.js', !!(window.konfigSiap && window.konfigSiap()),
+    `${window.KONFIG && window.KONFIG.url} · kunci ${(window.KONFIG && window.KONFIG.kunci || '').slice(0, 16)}…`);
+
+  let bisaSimpan = false;
+  try { localStorage.setItem('uji-n3', '1'); bisaSimpan = localStorage.getItem('uji-n3') === '1'; localStorage.removeItem('uji-n3'); } catch (_) {}
+  tambah('penyimpanan (localStorage)', bisaSimpan, bisaSimpan ? 'bisa menyimpan' : 'DIBLOKIR — mode privat / "blokir semua cookie"');
+
+  let sesiInfo = '—';
+  let userInfo = '—';
+  try {
+    const sb = createClient(window.KONFIG.url, window.KONFIG.kunci,
+      { auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: false } });
+
+    const { data: { session }, error } = await sb.auth.getSession();
+    sesiInfo = error ? 'error: ' + error.message : (session ? `ada · berakhir ${new Date(session.expires_at * 1000).toLocaleString('id-ID')}` : 'tidak ada sesi');
+    tambah('sesi tersimpan', !!session, sesiInfo);
+
+    const { data: { user }, error: e2 } = await sb.auth.getUser();
+    userInfo = e2 ? 'error: ' + e2.message : (user ? user.email : 'null');
+    tambah('getUser()', !!user, userInfo);
+
+    if (user) {
+      const { data: p, error: e3 } = await sb.rpc('profil_saya');
+      const prof = Array.isArray(p) ? p[0] : p;
+      tambah('rpc profil_saya', !e3 && !!prof,
+        e3 ? 'error: ' + e3.message : JSON.stringify(prof));
+    }
+  } catch (e) {
+    tambah('supabase', false, String(e && e.message || e));
+  }
+
+  tambah('alamat', true, location.href);
+  $('#isi').innerHTML = baris.join('');
+}
+
+$('#ulang').addEventListener('click', jalan);
+jalan();
+</script>
+</body>
+</html>
