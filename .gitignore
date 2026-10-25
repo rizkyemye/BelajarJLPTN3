@@ -11,3 +11,7 @@ db/csv-n3/
 preview-*.png
 
 # catatan: aset/konfig.js HARUS ikut diunggah (isinya cuma publishable key)
+
+# core dump (bisa ratusan MB & berisi isi memori)
+core
+core.*

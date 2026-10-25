@@ -2,7 +2,7 @@
    bunpou.js — daftar pola tata bahasa N3 + dialog penjelasan
    Klik satu pola → dialog: arti, rumus, penjelasan, contoh + furigana.
    ============================================================================ */
-import { simpanNilai } from './nilai.js';
+import { simpanNilai, catatSalah } from './nilai.js';
 
 
 import { furigana } from './furigana.js';
@@ -314,6 +314,7 @@ function jawab(tombol, teks, s) {
 
   const tepat = teks === s.benarTeks;
   if (tepat) { benar++; tombol.classList.add('benar'); }
+  else catatSalah('bunpou', null, s.tampil, s.benarTeks, teks);
   else {
     tombol.classList.add('salah');
     semua.find((b) => b.textContent === s.benarTeks)?.classList.add('benar');

@@ -3,7 +3,7 @@
    Suara: Web Speech (ja-JP) lewat aset/suara.js — tidak ada file audio.
    Skrip dibacakan baris demi baris (satu baris = satu pembicara).
    ============================================================================ */
-import { simpanNilai } from './nilai.js';
+import { simpanNilai, catatSalah } from './nilai.js';
 
 
 import { furigana } from './furigana.js';
@@ -250,6 +250,7 @@ function periksa() {
     });
 
     if (Number(pilih) === s.benar) benar++;
+    else catatSalah('choukai', sedang ? sedang.hari_ke : null, s.tanya, s.pilihan[s.benar], s.pilihan[Number(pilih)]);
   });
 
   if (belum === soal.length) {

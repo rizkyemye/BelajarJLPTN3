@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-store">
+<title>模試 N3 · 日本語 Belajar</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../aset/desain.css?v=9b9612f7">
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#b7202e">
+<link rel="apple-touch-icon" href="../ikon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+<body>
+<script src="../aset/splash.js?v=84c0bf89"></script>
+
+<div class="rangka">
+<!-- @SIDEBAR -->
+<aside class="sisi-kiri">
+  <a href="index.html" class="merek-kecil">日本語<small>N3</small></a>
+
+  <nav>
+    <ul class="menu">
+      <li class="li-rumah"><a href="index.html"><span class="kanji-menu">家</span>Home</a></li>
+      <li class="li-tab"><a href="belajar.html"><span class="kanji-menu">単</span>Kosakata</a></li>
+      <li class="li-tab"><a href="kanji-daftar.html"><span class="kanji-menu">漢</span>Kanji</a></li>
+      <li class="li-tab"><a href="bunpou.html"><span class="kanji-menu">文</span>Bunpou</a></li>
+      <li class="li-tab"><a href="dokkai.html"><span class="kanji-menu">読</span>Dokkai</a></li>
+      <li class="li-tab"><a href="choukai.html"><span class="kanji-menu">聴</span>Choukai</a></li>
+      <li class="li-tab"><a href="tryout.html"><span class="kanji-menu">試</span>Try Out</a></li>
+      <li class="li-tab"><a class="aktif" href="moshii.html"><span class="kanji-menu">模</span>模試</a></li>
+      <li class="li-tab"><a href="review.html"><span class="kanji-menu">復</span>Review</a></li>
+      <li class="li-tab"><a href="nilai.html"><span class="kanji-menu">評</span>Nilai</a></li>
+    </ul>
+  </nav>
+
+  <!-- tombol tengah (HP): pilih bagian belajar. <details> = HTML asli, tanpa JS -->
+  <div class="fab-item">
+    <details class="fab">
+      <summary aria-label="Pilih bagian belajar"><span aria-hidden="true">＋</span></summary>
+      <div class="fab-panel" role="menu">
+        <a href="belajar.html" role="menuitem"><span class="kanji-menu">単</span>Kosakata</a>
+        <a href="kanji-daftar.html" role="menuitem"><span class="kanji-menu">漢</span>Kanji</a>
+        <a href="bunpou.html" role="menuitem"><span class="kanji-menu">文</span>Bunpou</a>
+        <a href="dokkai.html" role="menuitem"><span class="kanji-menu">読</span>Dokkai</a>
+        <a href="choukai.html" role="menuitem"><span class="kanji-menu">聴</span>Choukai</a>
+        <a href="tryout.html" role="menuitem"><span class="kanji-menu">試</span>Try Out</a>
+      </div>
+    </details>
+  </div>
+
+  <div class="akun">
+    <span class="nama" data-akun="username">…</span>
+    <span data-akun="level">N3</span>
+    <button type="button" data-buka-keluar>Keluar</button>
+  </div>
+<!-- konfirmasi keluar (dialog asli HTML; dibuka sesi.js) -->
+<dialog id="dialog-keluar" class="dialog keluar-dialog">
+  <h2>Keluar dari akun?</h2>
+  <p>Progres tetap tersimpan. Kamu harus masuk lagi untuk lanjut belajar.</p>
+  <div class="dialog-aksi">
+    <button type="button" class="tbl-kosong" data-tutup-keluar>Batal</button>
+    <button type="button" class="tbl" data-akun="keluar">Keluar</button>
+  </div>
+</dialog>
+</aside>
+<main class="isi-kanan">
+
+  <header class="kepala-isi" id="kepala">
+    <span class="atas-kecil"><span>N3</span><span>模試</span><span>JLPT</span></span>
+    <h1>模試 · Simulasi JLPT</h1>
+    <p>57 soal. Bagian 1–3 (言語知識・読解) <b>110 menit</b>, lalu 聴解 <b>40 menit</b>. Sekali jalan, tanpa jeda.</p>
+  </header>
+
+  <section id="tahap-awal" hidden>
+    <div class="kartu-angka angka-tiga">
+      <div class="angka-kotak"><b>57</b><span>soal</span></div>
+      <div class="angka-kotak"><b>110</b><span>menit 言語・読解</span></div>
+      <div class="angka-kotak"><b>40</b><span>menit 聴解</span></div>
+    </div>
+    <div class="dialog-aksi" style="justify-content:flex-start;margin-top:18px">
+      <button type="button" class="tbl" id="btn-mulai">Mulai 模試</button>
+      <a class="tbl-kosong" href="index.html">Nanti dulu</a>
+    </div>
+    <p class="jadwal-info" id="info-awal"></p>
+  </section>
+
+  <section id="tahap-ujian" hidden>
+    <div class="kemajuan">
+      <span id="bagian">第1部</span>
+      <span id="hitung">1 / 57</span>
+      <span class="batang"><i id="batang" style="width:0%"></i></span>
+      <span id="sisa-waktu">110:00</span>
+    </div>
+
+    <p class="kuis-topik" id="topik">文字・語彙</p>
+    <div id="teks-dokkai" class="dk-teks" hidden></div>
+
+    <div id="kotak-dengar" hidden>
+      <button type="button" class="suara" id="btn-putar">🔊 Putar (1×)</button>
+    </div>
+
+    <div class="kuis-soal" id="soal">…</div>
+    <div class="pilihan" id="pilihan"></div>
+
+    <div class="dialog-aksi" style="justify-content:space-between;margin-top:22px">
+      <button type="button" class="tbl-kosong" id="btn-mundur">← Sebelumnya</button>
+      <button type="button" class="tbl" id="btn-maju">Berikutnya →</button>
+    </div>
+  </section>
+
+  <section id="tahap-jeda" class="selesai" hidden>
+    <h2>Bagian 1–3 selesai</h2>
+    <p>Waktu 言語知識・読解 habis. Sekarang 聴解 40 menit — audio tiap soal hanya diputar <b>sekali</b>.</p>
+    <div class="dialog-aksi" style="justify-content:flex-start">
+      <button type="button" class="tbl" id="btn-dengar">Mulai 聴解</button>
+    </div>
+  </section>
+
+  <section id="tahap-hasil" class="selesai" hidden>
+    <h2>Hasil 模試</h2>
+    <p id="ringkas-hasil"></p>
+    <div id="rincian-hasil"></div>
+    <div class="dialog-aksi" style="justify-content:flex-start">
+      <button type="button" class="tbl" id="btn-ulang">Coba lagi</button>
+      <a class="tbl-kosong" href="nilai.html">Lihat penilaian →</a>
+    </div>
+  </section>
+
+  <div id="memuat" style="text-align:center;padding:50px 0;color:#6b6f7a;font-size:14px">Memuat…</div>
+</main>
+</div>
+
+<script type="module" src="../aset/sesi.js?v=fef265b0"></script>
+<script type="module" src="../aset/moshii.js?v=574b71d0"></script>
+</body>
+</html>

@@ -29,3 +29,19 @@ export async function rekapNilai() {
     return [];
   }
 }
+
+
+/* catat satu jawaban yang salah (誤答ノート) — gagal = diam saja */
+export async function catatSalah(jenis, hariKe, tampil, benar, dipilih) {
+  try {
+    const sb = window.sesiSiap && window.sesiSiap.supabase;
+    if (!sb) return;
+    await sb.from('salah').insert({
+      jenis,
+      hari_ke: hariKe ?? null,
+      tampil: String(tampil).slice(0, 300),
+      benar: String(benar).slice(0, 300),
+      dipilih: String(dipilih ?? '').slice(0, 300)
+    });
+  } catch (_) { /* offline / tabel belum ada: jangan ganggu latihan */ }
+}

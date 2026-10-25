@@ -6,7 +6,7 @@
 
 import { ucapkan, suaraSiap } from './suara.js';
 import { furigana } from './furigana.js';
-import { simpanNilai } from './nilai.js';
+import { simpanNilai, catatSalah } from './nilai.js';
 
 const LEVEL = (location.pathname.match(/\/(n[345])\//) || [, 'n3'])[1];
 const $ = (id) => document.getElementById(id);
@@ -155,6 +155,7 @@ function jawab(tombol, teks, s) {
 
   const tepat = teks === s.benar;
   if (tepat) { benar++; tombol.classList.add('benar'); }
+  else catatSalah('kosakata', null, s.tampil, s.benar, teks);
   else {
     tombol.classList.add('salah');
     semua.find(b => b.textContent === s.benar)?.classList.add('benar');

@@ -1423,3 +1423,29 @@ body:has(dialog[open]) .sisi-kiri{visibility:hidden}
   line-height:1.6;letter-spacing:.01em;text-align:left;
   padding:0 0 4px;border:0;background:none;
 }
+
+/* penilaian: 3 kartu angka tetap sejajar di HP */
+@media (max-width:900px){
+  .kartu-angka.angka-tiga{grid-template-columns:repeat(3,1fr)}
+  .angka-tiga .angka-kotak{padding:14px 9px}
+  .angka-tiga .angka-kotak b{font-size:21px}
+  .angka-tiga .angka-kotak span{font-size:9.5px;letter-spacing:.05em;line-height:1.25}
+}
+
+/* ---------- 誤答ノート ---------- */
+.salah-kartu{border:1px solid var(--garis);background:var(--kertas);padding:14px 16px;margin-bottom:12px}
+.salah-kepala{display:flex;justify-content:space-between;gap:10px;align-items:baseline;
+  font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--tinta-3)}
+.salah-jenis{color:var(--merah);letter-spacing:.12em}
+.salah-soal{font-family:var(--serif);font-size:17px;line-height:1.5;margin:9px 0 10px;color:var(--tinta)}
+.salah-baris{margin:4px 0;font-size:13.5px;line-height:1.45}
+.salah-label{display:inline-block;min-width:48px;color:var(--tinta-3);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+.salah-salah{color:var(--merah);text-decoration:line-through}
+.salah-benar{color:#2f6b4f;font-weight:600}
+
+.cari-wrap input{width:100%;padding:11px 12px;border:1px solid var(--garis);
+  background:var(--kertas);font-family:var(--sans);font-size:14px;color:var(--tinta);border-radius:0}
+.cari-wrap input:focus{outline:2px solid var(--merah);outline-offset:-1px}
+.angka-kotak b.teks{font-size:17px;line-height:1.3;padding-top:4px}
+
+@media (max-width:900px){.angka-tiga .angka-kotak b.teks{font-size:15px;line-height:1.25}}

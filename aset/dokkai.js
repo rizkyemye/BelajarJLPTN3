@@ -3,7 +3,7 @@
    Data dari tabel `dokkai` (lihat db/dokkai.sql). Soal disimpan sebagai JSONB:
      [{ "tanya": "...", "pilihan": ["a","b","c","d"], "benar": 0 }, ...]
    ============================================================================ */
-import { simpanNilai } from './nilai.js';
+import { simpanNilai, catatSalah } from './nilai.js';
 
 
 import { furigana } from './furigana.js';
@@ -126,6 +126,7 @@ function periksa() {
     });
 
     if (Number(pilih) === s.benar) benar++;
+    else catatSalah('dokkai', sedang, s.tanya, s.pilihan[s.benar], s.pilihan[Number(pilih)]);
   });
 
   if (belum === soal.length) {

@@ -2,7 +2,7 @@
    belajar.js — flashcard 30 kata + review wajib + kuis 3 tipe
    Dipakai n5/ n4/ n3/ — level dibaca dari nama folder.
    ============================================================================ */
-import { simpanNilai } from './nilai.js';
+import { simpanNilai, catatSalah } from './nilai.js';
 
 
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm';
@@ -346,6 +346,7 @@ function jawab(tombol, teks, s) {
 
   const tepat = teks === s.benarTeks;
   if (tepat) { benar++; tombol.classList.add('benar'); }
+  else catatSalah('kosakata', HARI, s.tampil, s.benarTeks, teks);
   else {
     tombol.classList.add('salah');
     semua.find(b => b.textContent === s.benarTeks)?.classList.add('benar');
