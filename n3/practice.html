@@ -159,36 +159,14 @@ function urai(item) {
 }
 
 async function muat() {
-  // 1) coba data.json dulu (kalau ada)
-  try {
-    const r = await fetch("aset/data.json");
-    if (r.ok) {
-      const data = await r.json();
-      semua = data.filter((x) => (x.jenis || "kotoba") === "kotoba").map((x) => {
-        const u = urai(x);
-        return { kanji: x.front, kana: x.kata_kana || u.kana, arti: u.arti,
-                 contoh: x.furi || u.jp, contohId: u.id, day: x.day || 1 };
-      }).filter((x) => x.kanji && x.arti);
-      if (semua.length) return;
-    }
-  } catch (_) {}
-
-  // 2) fallback: Supabase situs ini (konfig.js)
-  const cfg = await (await fetch("aset/konfig.js")).text();
-  const url = (cfg.match(/supabaseUrl:\s*["']([^"']+)/) || cfg.match(/url:\s*["']([^"']+)/) || [])[1];
-  const key = (cfg.match(/supabaseKey:\s*["']([^"']+)/) || cfg.match(/anonKey:\s*["']([^"']+)/) || [])[1];
-  if (!url || !key) throw new Error("konfig tidak terbaca");
-  const resp = await fetch(url + "/rest/v1/kosakata?select=*&limit=1200",
-    { headers: { apikey: key, Authorization: "Bearer " + key } });
-  const rows = await resp.json();
-  semua = rows.map((x) => {
-    const kanji = x.kanji || x.kata_kanji || x.front || "";
-    const kana = x.kana || x.kata_kana || "";
-    const arti = x.arti || x.meaning || "";
-    const contoh = x.kalimat || x.contoh || "";
-    const cid = x.terjemahan || x.arti_kalimat || "";
-    return { kanji, kana, arti, contoh, contohId: cid, day: x.hari || x.day || 1 };
-  }).filter((x) => x.kanji && x.arti);
+  const r = await fetch("../aset/data.json", { cache: "no-store" });
+  const data = await r.json();
+  semua = data.map((x) => ({
+    kanji: x.kanji, kana: x.yomi || "", arti: x.arti || "",
+    contoh: x.jp || "", contohId: x.id || "", furi: x.furi || "",
+    day: x.hari || 1
+  })).filter((x) => x.kanji && x.arti);
+  if (!semua.length) throw new Error("data kosong");
 }
 function detik() {
   const d = Math.floor((Date.now() - mulai) / 1000);
