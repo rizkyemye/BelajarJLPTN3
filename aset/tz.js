@@ -41,17 +41,30 @@ const TZ = (() => {
     simpan('logMenit', lg);
   }
   // ---- animasi bottom nav ----
+  function posisiTanda(bar, item) {
+    const t = bar.querySelector('.nav-tanda');
+    if (!t) return;
+    const b = bar.getBoundingClientRect();
+    const i = item.getBoundingClientRect();
+    t.style.left = Math.round(i.left + i.width / 2 - b.left) + 'px';
+    t.classList.add('siap');
+  }
+
   function nav() {
     const bar = document.querySelector('.nav');
     if (!bar) return;
     bar.classList.add('nav-masuk');
+    const aktifAwal = bar.querySelector('a.aktif');
+    if (aktifAwal) posisiTanda(bar, aktifAwal);
+    window.addEventListener('resize', () => {
+      const a = bar.querySelector('a.aktif');
+      if (a) posisiTanda(bar, a);
+    });
     bar.querySelectorAll('a').forEach((a, i) => {
       a.addEventListener('click', (ev) => {
         if (a.classList.contains('aktif')) return;
         ev.preventDefault();
-        const tanda = bar.querySelector('.nav-tanda');
-        if (tanda) tanda.style.setProperty('--i', String(i));
-        bar.style.setProperty('--i', String(i));
+        posisiTanda(bar, a);
         a.classList.add('aktif', 'ditekan');
         bar.querySelectorAll('a').forEach((b) => { if (b !== a) b.classList.remove('aktif'); });
         const box = a.getBoundingClientRect();

@@ -9,6 +9,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600&display=swap" rel="stylesheet">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="icon" href="../ikon-192.png">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#3b5bff">
 <link rel="stylesheet" href="../aset/tz.css?v=1">
 </head>
 <body>
@@ -30,12 +36,32 @@
 </div>
 
 <nav class="nav" style="--i:2">
+  
+<div class="maskot" title="だるま">
+  <svg viewBox="0 0 64 64">
+    <ellipse cx="32" cy="35" rx="21" ry="23" fill="#fff"/>
+    <ellipse cx="32" cy="35" rx="21" ry="23" fill="none" stroke="#2b45d6" stroke-width="2.4"/>
+    <path d="M22 19.5c4-4 16-4 20 0" stroke="#2b45d6" stroke-width="2.2" fill="none"
+      stroke-linecap="round"/>
+    <g class="mata">
+      <ellipse cx="24.6" cy="32" rx="3.2" ry="4" fill="#1b2559"/>
+      <ellipse cx="39.4" cy="32" rx="3.2" ry="4" fill="#1b2559"/>
+    </g>
+    <path d="M27.5 41c1.6 1.5 7.4 1.5 9 0" stroke="#1b2559" stroke-width="2" fill="none"
+      stroke-linecap="round"/>
+    <ellipse cx="18" cy="37.5" rx="3.2" ry="2" fill="#ffb3b3" opacity=".9"/>
+    <ellipse cx="46" cy="37.5" rx="3.2" ry="2" fill="#ffb3b3" opacity=".9"/>
+    <text x="32" y="52" text-anchor="middle" font-size="9" font-family="Noto Sans JP,serif"
+      fill="#2b45d6" font-weight="700">合格</text>
+  </svg>
+</div>
+
   <span class="nav-tanda"></span>
-  <a href="index.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11l8-7 8 7v9a1 1 0 01-1 1h-5v-6H10v6H5a1 1 0 01-1-1z"/></svg></span><em>Beranda</em></a>
-  <a href="belajar.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h9a3 3 0 013 3v11a3 3 0 00-3-3H4z"/><path d="M20 5h-3a3 3 0 00-3 3v11"/></svg></span><em>Kosakata</em></a>
-  <a href="tryout.html" class="aktif"><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3.4"/></svg></span><em>Try out</em></a>
-  <a href="kanji-daftar.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7l9-4 9 4-9 4z"/><path d="M3 12l9 4 9-4M3 17l9 4 9-4"/></svg></span><em>Kanji</em></a>
-  <a href="bunpou.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h10M4 18h13"/></svg></span><em>Bunpou</em></a>
+  <a href="index.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5L12 3l9 7.5"/><path d="M5.5 10v10h13V10"/><path d="M10 20v-5h4v5"/></svg></span><em>Beranda</em></a>
+  <a href="belajar.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.5C10 5 7.5 4.6 4 4.8v13c3.5-.2 6 .2 8 1.7"/><path d="M12 6.5C14 5 16.5 4.6 20 4.8v13c-3.5-.2-6 .2-8 1.7"/><path d="M12 6.5v13"/></svg></span><em>Kosakata</em></a>
+  <a href="tryout.html" class="aktif"><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="8.2"/><circle cx="12" cy="12" r="4.4" fill="currentColor" fill-opacity=".16"/><circle cx="12" cy="12" r="1.6" fill="currentColor"/></svg></span><em>Try out</em></a>
+  <a href="kanji-daftar.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 8L12 4.2 20.5 8 12 11.8z" fill="currentColor" fill-opacity=".16"/><path d="M3.5 13L12 16.8 20.5 13"/><path d="M3.5 17.6L12 21.4 20.5 17.6"/></svg></span><em>Kanji</em></a>
+  <a href="bunpou.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 12.2c0 4-3.8 7.2-8.5 7.2-1 0-2-.2-2.9-.5L4 20.8l1.2-3.5C4.1 15.9 3.5 14.1 3.5 12.2c0-4 3.8-7.2 8.5-7.2s8.5 3.2 8.5 7.2z" fill="currentColor" fill-opacity=".14"/><path d="M8.6 12h6.8M8.6 9.3h4.4"/></svg></span><em>Bunpou</em></a>
 </nav>
 
 <script src="../aset/tz.js?v=1"></script>
