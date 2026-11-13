@@ -37,14 +37,18 @@
   <div class="contoh" id="contoh"></div>
 </div>
 
+<div class="label" style="margin:18px 0 10px">Isi hari ini</div>
+<div id="deret" style="display:flex;flex-wrap:wrap;gap:6px"></div>
+
 </div>
 
-<nav class="nav">
-  <a href="index.html" class=""><span>⌂</span>Beranda</a>
-  <a href="belajar.html" class="aktif"><span>単</span>Kosakata</a>
-  <a href="practice.html" class=""><span>◆</span>Practice</a>
-  <a href="kanji-daftar.html" class=""><span>漢</span>Kanji</a>
-  <a href="bunpou.html" class=""><span>文</span>Bunpou</a>
+<nav class="nav" style="--i:1">
+  <span class="nav-tanda"></span>
+  <a href="index.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11l8-7 8 7v9a1 1 0 01-1 1h-5v-6H10v6H5a1 1 0 01-1-1z"/></svg></span><em>Beranda</em></a>
+  <a href="belajar.html" class="aktif"><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h9a3 3 0 013 3v11a3 3 0 00-3-3H4z"/><path d="M20 5h-3a3 3 0 00-3 3v11"/></svg></span><em>Kosakata</em></a>
+  <a href="tryout.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3.4"/></svg></span><em>Try out</em></a>
+  <a href="kanji-daftar.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7l9-4 9 4-9 4z"/><path d="M3 12l9 4 9-4M3 17l9 4 9-4"/></svg></span><em>Kanji</em></a>
+  <a href="bunpou.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h10M4 18h13"/></svg></span><em>Bunpou</em></a>
 </nav>
 
 <script src="../aset/tz.js?v=1"></script>
@@ -73,10 +77,25 @@ function muatHari(h) {
   tampil();
 }
 
+function deret() {
+  const el = document.getElementById('deret');
+  if (!el) return;
+  el.innerHTML = hariIni.map((y, i) => {
+    const aktif = i === idx;
+    const sudah = i < idx;
+    const bg = aktif ? 'var(--biru)' : (sudah ? 'var(--hijaumuda)' : 'var(--kartu)');
+    const fg = aktif ? '#fff' : (sudah ? '#1f9d55' : 'var(--redup)');
+    const bd = aktif ? 'var(--biru)' : (sudah ? 'var(--hijau)' : 'var(--garis)');
+    return `<span style="background:${bg};color:${fg};border:1px solid ${bd};border-radius:10px;
+      padding:6px 9px;font-size:13px;font-weight:600">${TZ.esc(y.kanji)}</span>`;
+  }).join('');
+}
+
 function tampil() {
   const x = hariIni[idx];
   if (!x) return;
   terbuka = false;
+  deret();
   document.getElementById('huruf').textContent = x.kanji;
   document.getElementById('kana').textContent = terbuka ? x.yomi : '';
   document.getElementById('kana').textContent = '';

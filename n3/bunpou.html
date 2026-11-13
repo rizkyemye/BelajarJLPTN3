@@ -16,16 +16,18 @@
 <div class="atas"><a class="kembali" href="index.html">‹</a><h1>Bunpou</h1><div class="kanan">N3</div></div>
 
 <div class="pil" id="tema"></div>
+<div class="label" style="margin-bottom:10px" id="jml">—</div>
 <div id="daftar"></div>
 
 </div>
 
-<nav class="nav">
-  <a href="index.html" class=""><span>⌂</span>Beranda</a>
-  <a href="belajar.html" class=""><span>単</span>Kosakata</a>
-  <a href="practice.html" class=""><span>◆</span>Practice</a>
-  <a href="kanji-daftar.html" class=""><span>漢</span>Kanji</a>
-  <a href="bunpou.html" class="aktif"><span>文</span>Bunpou</a>
+<nav class="nav" style="--i:4">
+  <span class="nav-tanda"></span>
+  <a href="index.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11l8-7 8 7v9a1 1 0 01-1 1h-5v-6H10v6H5a1 1 0 01-1-1z"/></svg></span><em>Beranda</em></a>
+  <a href="belajar.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h9a3 3 0 013 3v11a3 3 0 00-3-3H4z"/><path d="M20 5h-3a3 3 0 00-3 3v11"/></svg></span><em>Kosakata</em></a>
+  <a href="tryout.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3.4"/></svg></span><em>Try out</em></a>
+  <a href="kanji-daftar.html" class=""><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7l9-4 9 4-9 4z"/><path d="M3 12l9 4 9-4M3 17l9 4 9-4"/></svg></span><em>Kanji</em></a>
+  <a href="bunpou.html" class="aktif"><span class="ik"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h10M4 18h13"/></svg></span><em>Bunpou</em></a>
 </nav>
 
 <script src="../aset/tz.js?v=1"></script>
@@ -43,18 +45,28 @@ let semua = [], temaAktif = 'semua';
 
 function gambar() {
   const d = semua.filter(x => temaAktif === 'semua' || x.tema_id === temaAktif);
+  document.getElementById('jml').textContent = d.length + ' pola';
   document.getElementById('daftar').innerHTML = d.map((x, i) => `
 <details class="akordeon">
-  <summary>${TZ.esc(x.pola)} <span class="badge" style="margin-left:auto">${TZ.esc(x.tema_id||'')}</span></summary>
+  <summary style="display:block">
+    <div style="display:flex;align-items:flex-start;gap:10px">
+      <div style="flex:1">
+        <div style="font-size:17px;font-weight:700;letter-spacing:-.01em">${TZ.esc(x.pola)}</div>
+        <div style="font-size:13px;color:var(--tinta2);margin-top:3px">${TZ.esc(x.arti)}</div>
+        ${x.contoh_jp ? `<div style="font-size:12.5px;color:var(--redup);margin-top:6px">
+          ${TZ.esc(x.contoh_jp)}</div>` : ''}
+      </div>
+      <span class="badge" style="flex:0 0 auto">${TZ.esc(x.tema_id||'')}</span>
+    </div>
+  </summary>
   <div class="isi">
-    <div class="pola">${TZ.esc(x.pola)}</div>
-    <div>${TZ.esc(x.arti)}</div>
-    ${x.rumus ? `<div class="kecil" style="margin-top:6px">rumus: ${TZ.esc(x.rumus)}</div>` : ''}
-    ${x.penjelasan ? `<div style="margin-top:8px">${TZ.esc(x.penjelasan)}</div>` : ''}
-    ${x.contoh_jp ? `<div class="contoh" style="margin-top:10px">${TZ.esc(x.contoh_jp)}
+    ${x.rumus ? `<div class="kecil" style="margin-bottom:8px">
+      rumus · <kbd>${TZ.esc(x.rumus)}</kbd></div>` : ''}
+    ${x.penjelasan ? `<div style="margin-bottom:10px">${TZ.esc(x.penjelasan)}</div>` : ''}
+    ${x.contoh_jp ? `<div class="contoh">${TZ.esc(x.contoh_jp)}
       <span class="id">${TZ.esc(x.contoh_id||'')}</span></div>` : ''}
-    ${x.contoh_jp ? `<button class="btn g" style="margin-top:10px"
-      onclick="TZ.ucap('${TZ.esc(x.contoh_jp).replace(/'/g, "\\'")}')">Dengarkan</button>` : ''}
+    ${x.contoh_jp ? `<button class="btn g" style="margin-top:12px"
+      onclick="TZ.ucap('${TZ.esc(x.contoh_jp).replace(/'/g, "\'")}')">▶ Dengarkan</button>` : ''}
   </div>
 </details>`).join('');
 }

@@ -29,5 +29,21 @@ const TZ = (() => {
     document.documentElement.classList.toggle('mode-gelap', !!nyala);
     simpan('gelap', !!nyala);
   }
-  return { data, simpan, baca, ucap, esc, gelap, furi };
+  // ---- lacak waktu belajar ----
+  const kunciHari = () => new Date().toLocaleDateString('sv-SE');
+  function logMenit() { return baca('logMenit', {}); }
+  function tambahMenit(detik) {
+    if (!detik || detik < 5) return;
+    const lg = logMenit();
+    const t = kunciHari();
+    lg[t] = Math.round(((lg[t] || 0) * 60 + detik)) / 60;
+    lg[t] = Math.round(lg[t] * 10) / 10;
+    simpan('logMenit', lg);
+  }
+  let mulai = Date.now();
+  function flush() { tambahMenit((Date.now() - mulai) / 1000); mulai = Date.now(); }
+  window.addEventListener('pagehide', flush);
+  document.addEventListener('visibilitychange', () => { if (document.hidden) flush(); });
+  setInterval(() => { if (!document.hidden) flush(); }, 60000);
+  return { data, simpan, baca, ucap, esc, gelap, furi, logMenit, tambahMenit };
 })();
