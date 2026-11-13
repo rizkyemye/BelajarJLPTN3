@@ -15,30 +15,57 @@
 <div class="wrap">
 <div class="atas"><a class="kembali" href="index.html">‹</a><h1>Kosakata</h1><div class="kanan">N3</div></div>
 
-<div class="pil" id="hari"></div>
-<div class="prog" style="margin-bottom:14px"><i id="bar" style="width:0%"></i></div>
+<div class="hari-grup" id="grup"></div>
 
-<div class="flash" id="kartu" onclick="buka()">
-  <div class="awal" id="awal">KATA</div>
-  <div class="huruf" id="huruf">—</div>
-  <div class="kana" id="kana"></div>
-  <div class="arti" id="arti" style="display:none"></div>
-  <div class="hint" id="hint">ketuk untuk balik</div>
+<div class="flip" id="flip" onclick="balik()">
+  <div class="flip-dalam" id="dalam">
+    <div class="flip-depan">
+      <div class="awal" id="awal">KATA</div>
+      <div class="huruf" id="huruf">—</div>
+      <div class="hint">ketuk untuk balik</div>
+    </div>
+    <div class="flip-belakang">
+      <div class="awal">ARTI</div>
+      <div class="belakang-kana" id="kana">—</div>
+      <div class="belakang-arti" id="arti">—</div>
+      <div class="belakang-contoh" id="contoh"></div>
+    </div>
+  </div>
 </div>
 
-<div class="nilai3" id="nilai" style="display:none">
+<div class="nilai3" id="nilai">
   <button class="l" onclick="nilai('lupa')">Lupa</button>
   <button class="r" onclick="nilai('ragu')">Ragu</button>
   <button class="h" onclick="nilai('hafal')">Hafal</button>
 </div>
 
-<div class="kartu" id="kotakContoh" style="display:none">
-  <div class="label">Contoh</div>
-  <div class="contoh" id="contoh"></div>
+<div class="kartu" id="ref" style="margin-top:14px;display:none">
+  <div class="label">Referensi</div>
+  <div class="ref-baris"><span>Kana</span><b id="refKana">—</b></div>
+  <div class="ref-baris"><span>Arti</span><b id="refArti">—</b></div>
+  <div class="ref-baris"><span>Kelas</span><b id="refKelas">—</b></div>
+  <div class="ref-baris"><span>Hari</span><b id="refHari">—</b></div>
+  <div id="refSearti"></div>
+  <div id="refKanji"></div>
+  <div style="margin-top:10px">
+    <button class="btn g" onclick="TZ.ucap(document.getElementById('huruf').textContent)">▶ Dengarkan</button>
+  </div>
 </div>
 
-<div class="label" style="margin:18px 0 10px">Isi hari ini</div>
-<div id="deret" style="display:flex;flex-wrap:wrap;gap:6px"></div>
+<div class="nav-kartu">
+  <button class="pn" onclick="geser(-1)" aria-label="sebelumnya">‹</button>
+  <div class="progres-kartu">
+    <div class="pk-angka"><b id="posisi">1</b><span id="total">/ 30</span></div>
+    <div class="prog"><i id="bar" style="width:0%"></i></div>
+  </div>
+  <button class="pn" onclick="geser(1)" aria-label="berikutnya">›</button>
+</div>
+
+<div class="kartu">
+  <div class="label">Catatan <span class="cat-otomatis" id="tagOtomatis">otomatis</span></div>
+  <textarea id="catatan" rows="2" placeholder="catatan pribadi untuk kata ini…"
+    oninput="simpanCatatan()"></textarea>
+</div>
 
 </div>
 
@@ -53,21 +80,47 @@
 
 <script src="../aset/tz.js?v=1"></script>
 <script>
-let semua = [], hariIni = [], idx = 0, terbuka = false, daftarHari = [];
+let semua = [], hariIni = [], idx = 0, daftarHari = [], terbuka = false;
+let temaMap = {}, kanjiMap = {}, catatanMap = {}, temaAktif = 1;
 
 (async () => {
   semua = await TZ.data('data.json');
   daftarHari = [...new Set(semua.map(x => x.hari))].sort((a,b)=>a-b);
+  try {
+    const t = await TZ.data('tema.json');
+    t.forEach(x => { temaMap[x.hari_ke] = x; });
+  } catch (e) {}
+  try {
+    const k = await TZ.data('kanji.json');
+    k.forEach(x => { kanjiMap[x.kanji] = x; });
+  } catch (e) {}
+  try { catatanMap = await TZ.data('catatan.json'); } catch (e) {}
   const pilih = TZ.baca('hariTerakhir', daftarHari[0]);
-  document.getElementById('hari').innerHTML = daftarHari.map(h =>
-    `<button class="${h===pilih?'aktif':''}" onclick="gantiHari(${h})">Hari ${h}</button>`).join('');
+  temaAktif = pilih;
+  gambarGrup(pilih);
   muatHari(pilih);
 })();
 
+function labelHari(h) {
+  const t = temaMap[h];
+  return t ? t.tema : 'Hari ' + h;
+}
+
+function gambarGrup(pilih) {
+  temaAktif = pilih;
+  const pil = daftarHari.map(h => {
+    const t = temaMap[h] || {};
+    return `<button class="pil-tema ${h===pilih?'aktif':''}" onclick="gantiHari(${h})">
+      <b>${TZ.esc(t.tema || 'Hari ' + h)}</b>
+      <small>hari ${h}</small></button>`;
+  }).join('');
+  document.getElementById('grup').innerHTML = `<div class="grup-pil">${pil}</div>`;
+}
+
 function gantiHari(h) {
   TZ.simpan('hariTerakhir', h);
-  [...document.querySelectorAll('#hari button')]
-    .forEach(b => b.classList.toggle('aktif', b.textContent === 'Hari ' + h));
+  document.querySelectorAll('.pil-hari').forEach(b =>
+    b.classList.toggle('aktif', b.textContent === 'Hari ' + h));
   muatHari(h);
 }
 
@@ -77,76 +130,130 @@ function muatHari(h) {
   tampil();
 }
 
-function deret() {
-  const el = document.getElementById('deret');
-  if (!el) return;
-  el.innerHTML = hariIni.map((y, i) => {
-    const aktif = i === idx;
-    const sudah = i < idx;
-    const bg = aktif ? 'var(--biru)' : (sudah ? 'var(--hijaumuda)' : 'var(--kartu)');
-    const fg = aktif ? '#fff' : (sudah ? '#1f9d55' : 'var(--redup)');
-    const bd = aktif ? 'var(--biru)' : (sudah ? 'var(--hijau)' : 'var(--garis)');
-    return `<span style="background:${bg};color:${fg};border:1px solid ${bd};border-radius:10px;
-      padding:6px 9px;font-size:13px;font-weight:600">${TZ.esc(y.kanji)}</span>`;
-  }).join('');
-}
+function kartu() { return document.getElementById('dalam'); }
 
 function tampil() {
   const x = hariIni[idx];
   if (!x) return;
   terbuka = false;
-  deret();
+  kartu().classList.remove('balik');
   document.getElementById('huruf').textContent = x.kanji;
-  document.getElementById('kana').textContent = terbuka ? x.yomi : '';
-  document.getElementById('kana').textContent = '';
-  document.getElementById('arti').style.display = 'none';
-  document.getElementById('hint').style.display = '';
-  document.getElementById('hint').textContent = 'ketuk untuk balik';
-  document.getElementById('nilai').style.display = 'none';
-  document.getElementById('kotakContoh').style.display = 'none';
+  document.getElementById('kana').textContent = x.yomi || '';
+  document.getElementById('arti').textContent = x.arti || '';
+  document.getElementById('contoh').innerHTML = x.jp ?
+    TZ.esc(x.jp) + '<span class="id">' + TZ.esc(x.id) + '</span>' : '';
   document.getElementById('awal').textContent = (x.kelas || 'kata').toUpperCase();
-  const p = Math.round(idx / hariIni.length * 100);
-  document.getElementById('bar').style.width = p + '%';
+  document.getElementById('ref').style.display = 'none';
+  document.getElementById('refKana').textContent = x.yomi || '—';
+  document.getElementById('refArti').textContent = x.arti || '—';
+  document.getElementById('refKelas').textContent = x.kelas || '—';
+  const t = temaMap[x.hari];
+  document.getElementById('refHari').textContent =
+    'Hari ' + x.hari + (t ? ' · ' + t.tema : '');
+
+  // kosakata lain dengan arti sama
+  const searti = semua.filter(y => y.kanji !== x.kanji &&
+    (y.arti || '').toLowerCase() === (x.arti || '').toLowerCase());
+  const elS = document.getElementById('refSearti');
+  elS.innerHTML = searti.length ? `<div class="ref-blok">
+    <div class="ref-judul">Kosakata searti</div>
+    ${searti.slice(0, 6).map(y => `<div class="ref-item">
+      <b>${TZ.esc(y.kanji)}</b> <span>${TZ.esc(y.yomi || '')}</span>
+      <i>hari ${y.hari}</i></div>`).join('')}
+  </div>` : '';
+
+  // kanji yang dipakai
+  const huruf = [...(x.kanji || '')].filter(c => /[一-鿿]/.test(c));
+  const info = huruf.map(c => kanjiMap[c]).filter(Boolean);
+  const elK = document.getElementById('refKanji');
+  elK.innerHTML = info.length ? `<div class="ref-blok">
+    <div class="ref-judul">Kanji dalam kata ini</div>
+    ${info.map(k => `<div class="ref-item">
+      <b class="ref-kanji">${TZ.esc(k.kanji)}</b>
+      <span>${TZ.esc(k.arti || '')}</span>
+      <i>${TZ.esc(k.kunyomi || k.onyomi || '')}</i></div>`).join('')}
+  </div>` : '';
+
+  deret();
 }
 
-function buka() {
+function balik() {
+  if (!hariIni[idx]) return;
+  terbuka = !terbuka;
+  kartu().classList.toggle('balik', terbuka);
+  document.getElementById('ref').style.display = terbuka ? '' : 'none';
+  if (terbuka) TZ.ucap(hariIni[idx].kanji);
+}
+
+function deret() {
+  const total = hariIni.length;
+  document.getElementById('posisi').textContent = Math.min(idx + 1, total);
+  document.getElementById('total').textContent = '/ ' + total;
+  document.getElementById('bar').style.width = Math.round(idx / total * 100) + '%';
   const x = hariIni[idx];
   if (!x) return;
-  terbuka = !terbuka;
-  document.getElementById('kana').textContent = terbuka ? x.yomi : '';
-  document.getElementById('arti').style.display = terbuka ? '' : 'none';
-  document.getElementById('arti').textContent = x.arti;
-  document.getElementById('hint').textContent = terbuka ? 'nilai dirimu' : 'ketuk untuk balik';
-  document.getElementById('nilai').style.display = terbuka ? '' : 'none';
-  const c = document.getElementById('kotakContoh');
-  if (terbuka && x.jp) {
-    c.style.display = '';
-    document.getElementById('contoh').innerHTML =
-      TZ.esc(x.jp) + '<span class="id">' + TZ.esc(x.id) + '</span>';
-    TZ.ucap(x.jp);
-  } else { c.style.display = 'none'; }
+  const cat = TZ.baca('catatan', {});
+  const ta = document.getElementById('catatan');
+  ta.value = cat[x.kanji] !== undefined ? cat[x.kanji] : catatanOtomatis(x);
+  ta.dataset.otomatis = cat[x.kanji] === undefined ? '1' : '';
+}
+
+function catatanOtomatis(x) {
+  if (catatanMap[x.kanji]) return catatanMap[x.kanji];
+  const baris = [];
+  const kelas = (x.kelas || '').trim();
+  if (kelas) baris.push(kelas + ' · ' + (x.yomi || ''));
+  const huruf = [...(x.kanji || '')].filter(c => /[一-鿿]/.test(c));
+  const arti = huruf.map(c => kanjiMap[c]).filter(Boolean)
+    .map(k => k.kanji + ' ' + (k.arti || '').split('/')[0].trim());
+  if (arti.length) baris.push(arti.join(' · '));
+  if (x.jp) baris.push(x.jp);
+  return baris.join(String.fromCharCode(10));
+}
+
+function geser(arah) {
+  const n = idx + arah;
+  if (n < 0 || n >= hariIni.length) return;
+  idx = n;
+  tampil();
+}
+
+let jedaCatatan = null;
+function simpanCatatan() {
+  const x = hariIni[idx];
+  if (!x) return;
+  clearTimeout(jedaCatatan);
+  jedaCatatan = setTimeout(() => {
+    const el = document.getElementById('catatan');
+    const cat = TZ.baca('catatan', {});
+    const isi = el.value.trim();
+    const otomatis = catatanOtomatis(x).trim();
+    if (isi && isi !== otomatis) cat[x.kanji] = isi;
+    else delete cat[x.kanji];
+    TZ.simpan('catatan', cat);
+  }, 400);
 }
 
 function nilai(n) {
   const x = hariIni[idx];
   const h = TZ.baca('hafal', {});
-  if (n === 'hafal') { h[x.kanji] = Date.now(); }
-  else if (n === 'lupa') { delete h[x.kanji]; }
+  if (n === 'hafal') h[x.kanji] = Date.now(); else delete h[x.kanji];
   TZ.simpan('hafal', h);
-  if (n === 'lupa' || n === 'ragu') {
+  if (n !== 'hafal') {
     const s = TZ.baca('salah', []);
     if (!s.find(y => y.kanji === x.kanji)) s.push(x);
-    TZ.simpan('salah', s.slice(-200));
+    TZ.simpan('salah', s.slice(-300));
   }
   idx++;
   if (idx >= hariIni.length) {
-    const nx = daftarHari[daftarHari.indexOf(x.hari) + 1];
-    if (nx) { TZ.simpan('hariTerakhir', nx); muatHari(nx);
-      [...document.querySelectorAll('#hari button')]
-        .forEach(b => b.classList.toggle('aktif', b.textContent === 'Hari ' + nx)); }
-    else { document.getElementById('huruf').textContent = '✓';
-      document.getElementById('kana').textContent = 'selesai semua hari'; 
-      document.getElementById('nilai').style.display = 'none'; }
+    const pos = daftarHari.indexOf(x.hari);
+    const nx = daftarHari[pos + 1];
+    if (nx) { gantiHari(nx); }
+    else {
+      document.getElementById('huruf').textContent = '✓';
+      document.getElementById('deret').innerHTML = '';
+      document.getElementById('nilai').style.display = 'none';
+    }
     return;
   }
   tampil();
