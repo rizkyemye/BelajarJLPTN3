@@ -46,7 +46,8 @@ const TZ = (() => {
     if (!t) return;
     const b = bar.getBoundingClientRect();
     const i = item.getBoundingClientRect();
-    t.style.left = Math.round(i.left + i.width / 2 - b.left) + 'px';
+    t.style.left = Math.round(i.left - b.left) + 'px';
+    t.style.width = Math.round(i.width) + 'px';
     t.classList.add('siap');
   }
 

@@ -241,40 +241,45 @@ body{
 .kal-titik{position:absolute;top:7px;right:8px;width:6px;height:6px;border-radius:50%;
   background:#ff8a5c;box-shadow:0 0 0 2px rgba(255,255,255,.35)}
 .kal-hari.aktif .kal-titik{background:var(--biru);box-shadow:0 0 0 2px rgba(59,91,255,.25)}
-/* ===== bottom nav mengambang + animasi ===== */
-.nav{left:14px;right:14px;bottom:14px;width:auto;max-width:calc(100% - 28px);box-sizing:border-box;border-radius:28px;border:1px solid rgba(255,255,255,.8);
-  background:#fff;
-  box-shadow:0 16px 36px -16px rgba(15,23,42,.4),0 2px 10px rgba(15,23,42,.06);
-  padding:12px 6px 10px;justify-content:space-around;align-items:center;overflow:visible}
-.nav a{position:relative;z-index:3;flex:1;display:flex;flex-direction:column;align-items:center;
-  gap:4px;font-size:9px;color:#9aa3b5;padding:2px 0;transition:color .25s ease}
-.nav a em{font-style:normal;font-size:9px;font-weight:600;color:inherit;
-  transition:opacity .2s ease,transform .2s ease}
-.nav a .ik{width:24px;height:24px;display:grid;place-items:center;
-  transition:transform .36s cubic-bezier(.34,1.5,.5,1),color .25s ease}
-.nav a .ik svg{width:23px;height:23px}
-.nav a.aktif{color:#2b45d6}
-.nav a.aktif em{opacity:1;transform:none;color:#2b45d6;font-weight:700}
-.nav a.aktif .ik{color:#fff;transform:translateY(-32px)}
-.nav a.aktif .ik svg{stroke:#fff!important;stroke-width:2.2}
-.nav a.aktif .ik svg [fill-opacity]{fill:none;fill-opacity:0}
-.nav a.aktif .ik svg{width:21px;height:21px}
-.nav-tanda{position:absolute;z-index:2;top:-26px;left:var(--x, 50%);
-  width:50px;height:50px;border-radius:50%;margin-left:-25px;
-  background:linear-gradient(150deg,var(--biru),var(--biru2));
-  box-shadow:0 12px 24px -8px rgba(43,69,214,.75),0 0 0 6px #fff;
-  transition:left .45s cubic-bezier(.34,1.4,.5,1);z-index:0}
-.nav a:not(.aktif):active .ik{transform:scale(.9)}
-.nav{background:rgba(255,255,255,.62)!important;z-index:60!important;
+/* ===== bottom nav liquid glass + pil geser ===== */
+.nav{left:14px;right:14px;bottom:14px;width:auto;max-width:calc(100% - 28px);
+  box-sizing:border-box;border-radius:26px;padding:8px 6px;
+  display:flex;justify-content:space-around;align-items:stretch;position:fixed;
+  background:rgba(255,255,255,.62)!important;z-index:60!important;
   -webkit-backdrop-filter:blur(26px) saturate(2.2)!important;
   backdrop-filter:blur(26px) saturate(2.2)!important;
   border:1px solid rgba(255,255,255,.75)!important;
   box-shadow:inset 0 1px 0 rgba(255,255,255,.95),inset 0 -1px 0 rgba(255,255,255,.45),
-    0 16px 38px -16px rgba(15,23,42,.34),0 2px 10px rgba(15,23,42,.06)!important}
-.nav::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;z-index:1;
-  background:linear-gradient(180deg,rgba(255,255,255,.55),rgba(255,255,255,.06) 42%,transparent)}
-.nav-tanda{background:linear-gradient(150deg,#3b5bff,#2038b8)!important}
-.nav a.aktif .ik svg{stroke-width:2.4}
+    0 16px 38px -16px rgba(15,23,42,.34),0 2px 10px rgba(15,23,42,.06)!important;
+  overflow:hidden}
+.nav::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;
+  z-index:1;background:linear-gradient(180deg,rgba(255,255,255,.5),transparent 46%)}
+.nav-tanda{position:absolute;z-index:2;top:6px;bottom:6px;width:calc(20% - 10px);
+  left:var(--x, 8px);border-radius:18px;margin:0;
+  background:rgba(59,91,255,.14);
+  box-shadow:inset 0 0 0 1px rgba(59,91,255,.22);
+  transition:left .38s cubic-bezier(.4,.1,.2,1),background .25s ease}
+.nav a{position:relative;z-index:3;flex:1;display:flex;flex-direction:column;align-items:center;
+  justify-content:center;gap:3px;font-size:9.5px;color:#98a1b3;padding:8px 0 7px;
+  transition:color .25s ease,transform .25s ease}
+.nav a .ik{width:23px;height:23px;display:grid;place-items:center;
+  transition:transform .3s cubic-bezier(.34,1.5,.5,1),color .25s ease}
+.nav a .ik svg{width:23px;height:23px}
+.nav a em{font-style:normal;font-size:9.5px;font-weight:600;color:inherit;
+  transition:opacity .2s ease}
+.nav a.aktif{color:#2b45d6}
+.nav a.aktif .ik{transform:translateY(-1px) scale(1.04)}
+.nav a.aktif .ik svg{stroke-width:2.2}
+.nav a:not(.aktif):active .ik{transform:scale(.92)}
+.nav a.ditekan .ik{animation:ketuk .4s cubic-bezier(.34,1.5,.5,1)}
+@keyframes ketuk{0%{transform:scale(1)}45%{transform:scale(1.25)}100%{transform:scale(1)}}
+@keyframes navNaik{0%{transform:translateY(90px);opacity:0}
+  60%{transform:translateY(-4px);opacity:1}100%{transform:translateY(0)}}
+.nav.nav-masuk{animation:navNaik .5s cubic-bezier(.34,1.4,.5,1) both}
+.nav-ripple{position:fixed;width:26px;height:26px;border-radius:50%;background:rgba(59,91,255,.3);
+  pointer-events:none;z-index:60;animation:ripple .6s ease-out forwards}
+@keyframes ripple{0%{transform:translate(-50%,-50%) scale(0);opacity:.4}
+  100%{transform:translate(-50%,-50%) scale(5);opacity:0}}
 /* maskot daruma */
 .maskot{position:absolute;right:2px;top:-72px;width:40px;height:40px;z-index:6;pointer-events:auto;
   cursor:pointer;filter:drop-shadow(0 6px 10px rgba(43,69,214,.3));
@@ -299,7 +304,8 @@ body{
 .nav.nav-masuk{animation:navNaik .5s cubic-bezier(.34,1.4,.5,1) both}
 .nav-masuk .nav-tanda{animation:tandaMuncul .55s .1s cubic-bezier(.34,1.6,.5,1) both}
 .nav-tanda{animation:napas 3.2s ease-in-out infinite}
-.nav-tanda.siap{transition:left .45s cubic-bezier(.34,1.4,.5,1)}
+.nav-tanda.siap{transition:left .38s cubic-bezier(.4,.1,.2,1),width .3s ease,
+  background .25s ease}
 .nav a.aktif .ik{animation:ikonLoncat .5s cubic-bezier(.34,1.5,.5,1)}
 .nav a.ditekan .ik{animation:ikonLoncat .45s cubic-bezier(.34,1.5,.5,1)}
 .nav-ripple{position:fixed;width:26px;height:26px;border-radius:50%;background:rgba(59,91,255,.35);
