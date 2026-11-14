@@ -21,6 +21,13 @@
 <div class="wrap">
 <div class="atas"><a class="kembali" href="index.html">‹</a><h1>Bunpou</h1><div class="kanan">N3</div></div>
 
+<div class="kartu" style="margin-bottom:12px">
+  <div style="display:flex;justify-content:space-between;align-items:baseline">
+    <div class="label">Progres bunpou</div>
+    <div style="font-size:12.5px;color:var(--redup)"><b id="selesaiN">0</b>/<span id="totalN">0</span></div>
+  </div>
+  <div class="prog" style="margin-top:8px"><i id="progBunpou" style="width:0%"></i></div>
+</div>
 <div class="pil" id="tema"></div>
 <div class="label" style="margin-bottom:10px" id="jml">—</div>
 <div id="daftar"></div>
@@ -44,13 +51,28 @@ let semua = [], temaAktif = 'semua';
   semua = await TZ.data('bunpou.json');
   const tema = [...new Set(semua.map(x => x.tema_id).filter(Boolean))];
   document.getElementById('tema').innerHTML =
-    `<button class="aktif" onclick="saring('semua',this)">Semua</button>` +
+    `<button class="aktif" onclick="saring('semua',this)">Semua</button>
+     <button onclick="saring('belum',this)">Belum selesai</button>
+     <button onclick="saring('selesai',this)">Sudah selesai</button>` +
     tema.map(t => `<button onclick="saring('${TZ.esc(t)}',this)">${TZ.esc(t)}</button>`).join('');
   gambar();
 })();
 
+function selesaiMap() { return TZ.baca('bunpouSelesai', {}); }
+
 function gambar() {
-  const d = semua.filter(x => temaAktif === 'semua' || x.tema_id === temaAktif);
+  const sm = selesaiMap();
+  const total = semua.length;
+  const n = Object.keys(sm).filter(k => sm[k]).length;
+  document.getElementById('selesaiN').textContent = n;
+  document.getElementById('totalN').textContent = total;
+  document.getElementById('progBunpou').style.width = Math.round(n / total * 100) + '%';
+  const d = semua.filter(x => {
+    if (temaAktif === 'semua') return true;
+    if (temaAktif === 'belum') return !sm[x.pola];
+    if (temaAktif === 'selesai') return !!sm[x.pola];
+    return x.tema_id === temaAktif;
+  });
   document.getElementById('jml').textContent = d.length + ' pola';
   document.getElementById('daftar').innerHTML = d.map((x, i) => `
 <details class="akordeon">
@@ -71,10 +93,25 @@ function gambar() {
     ${x.penjelasan ? `<div style="margin-bottom:10px">${TZ.esc(x.penjelasan)}</div>` : ''}
     ${x.contoh_jp ? `<div class="contoh">${TZ.esc(x.contoh_jp)}
       <span class="id">${TZ.esc(x.contoh_id||'')}</span></div>` : ''}
-    ${x.contoh_jp ? `<button class="btn g" style="margin-top:12px"
-      onclick="TZ.ucap('${TZ.esc(x.contoh_jp).replace(/'/g, "\'")}')">▶ Dengarkan</button>` : ''}
+    <div class="grid2" style="margin-top:12px">
+      ${x.contoh_jp ? `<button class="btn g"
+        onclick="TZ.ucap('${TZ.esc(x.contoh_jp).replace(/'/g, "\'")}')">▶ Dengarkan</button>` : '<span></span>'}
+      <button class="btn ${sm[x.pola] ? 'g' : 'p'}" onclick="tandaiBunpou(this)" data-pola="${TZ.esc(x.pola)}">
+        ${sm[x.pola] ? '✓ Selesai' : 'Tandai selesai'}</button>
+    </div>
   </div>
 </details>`).join('');
+}
+
+function tandaiBunpou(tombol) {
+  const pola = tombol.dataset.pola;
+  const sm = selesaiMap();
+  sm[pola] = !sm[pola];
+  TZ.simpan('bunpouSelesai', sm);
+  tombol.textContent = sm[pola] ? '✓ Selesai' : 'Tandai selesai';
+  tombol.classList.toggle('p', !sm[pola]);
+  tombol.classList.toggle('g', !!sm[pola]);
+  gambar();
 }
 
 function saring(t, tombol) {
